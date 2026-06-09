@@ -1,4 +1,4 @@
-"""Build the coursework holdout union from the two independent holdout files."""
+"""Build the holdout union from the two independent holdout files."""
 
 from __future__ import annotations
 
@@ -12,7 +12,7 @@ def _load_ids(path: Path, *, allow_missing: bool) -> set[str]:
         if allow_missing:
             return set()
         raise FileNotFoundError(
-            f"Missing holdout file: {path}. Commit or copy the processed coursework artifacts first."
+            f"Missing holdout file: {path}. Commit or copy the processed artifacts first."
         )
 
     payload = json.loads(path.read_text(encoding="utf-8"))

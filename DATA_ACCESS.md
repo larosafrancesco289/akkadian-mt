@@ -17,11 +17,7 @@ Download and place these files in `data/raw/`:
 
 | File | Role |
 |---|---|
-| `train.csv` | Document-level parallel pairs |
-| `test.csv` | Competition test inputs |
-| `sample_submission.csv` | Submission format reference |
-| `published_texts.csv` | Published transliterations (corpus assembly) |
-| `publications.csv` | Publication metadata (used by the external mix) |
+| `train.csv` | Document-level parallel pairs (the core corpus) |
 | `Sentences_Oare_FirstWord_LinNum.csv` | Sentence-segmentation anchors |
 | `OA_Lexicon_eBL.csv` | Old Assyrian lexicon (dictionary-gloss intervention) |
 | `eBL_Dictionary.csv` | Concise Dictionary of Akkadian glosses |
@@ -36,14 +32,14 @@ pairs derived from a public Hugging Face dataset:
 
 - <https://huggingface.co/datasets/phucthaiv02/akkadian_english_sentences_alignment_2>
 
-Build the Old-Assyrian-focused mix with:
-
-```bash
-uv run akkadian-mt data build-external-mix \
-  --output-csv data/processed/external_alignment_phucthaiv_translation_oa_mix_v1.csv
-```
-
-The underlying transliterations originate from the
+These experiments read a prepared CSV at
+`data/processed/external_alignment_phucthaiv_translation_oa_mix_v1.csv` (the path
+referenced by the `*_external_mix` configs). The bespoke extraction/cleaning
+pipeline that produced this file is **not** part of this release — it depended on
+OCR'd publication scans and was orthogonal to the paper's core findings. To
+reproduce these (secondary) experiments, supply a CSV with `transliteration` and
+`translation` columns built from the dataset above. The transliterations
+originate from the
 [Open Richly Annotated Cuneiform Corpus (ORACC)](http://oracc.museum.upenn.edu/);
 respect ORACC's attribution and licensing terms.
 
@@ -51,8 +47,8 @@ respect ORACC's attribution and licensing terms.
 
 ```bash
 # build the document-level holdout union and the preprocessing variants
-uv run python coursework/scripts/build_coursework_holdout_union.py
-uv run python coursework/scripts/build_coursework_variants.py
+uv run python experiments/scripts/build_holdout_union.py
+uv run python experiments/scripts/build_variants.py
 ```
 
 Derived datasets are written under `data/processed/`. Both `data/raw/` and

@@ -1,4 +1,4 @@
-"""Builders for coursework experiment datasets proposed in CW4."""
+"""Builders for the seven preprocessing-intervention datasets evaluated in the paper."""
 
 from __future__ import annotations
 
@@ -273,7 +273,7 @@ def read_holdout_ids(path: str | Path | None) -> set[str]:
     if not holdout_path.exists():
         raise FileNotFoundError(
             "Missing holdout file: "
-            f"{holdout_path}. Run coursework/scripts/build_coursework_holdout_union.py first."
+            f"{holdout_path}. Run experiments/scripts/build_holdout_union.py first."
         )
     payload = json.loads(holdout_path.read_text(encoding="utf-8"))
     if not isinstance(payload, list):
@@ -281,7 +281,7 @@ def read_holdout_ids(path: str | Path | None) -> set[str]:
     return {str(item) for item in payload if str(item).strip()}
 
 
-def build_all_coursework_variants(
+def build_all_variants(
     *,
     train_file: str | Path = DEFAULT_TRAIN_FILE,
     primary_test_file: str | Path = DEFAULT_PRIMARY_TEST_FILE,
@@ -289,7 +289,7 @@ def build_all_coursework_variants(
     holdout_file: str | Path = DEFAULT_HOLDOUT_FILE,
     output_dir: str | Path = DEFAULT_VARIANT_DIR,
 ) -> dict[str, VariantArtifactPaths]:
-    """Build all coursework variant datasets and return their file locations."""
+    """Build all preprocessing-variant datasets and return their file locations."""
     train_path = Path(train_file)
     primary_path = Path(primary_test_file)
     secondary_path = Path(secondary_test_file)

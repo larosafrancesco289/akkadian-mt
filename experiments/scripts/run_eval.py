@@ -1,4 +1,4 @@
-"""Run pure-model coursework evaluation on the two independent test files."""
+"""Run pure-model evaluation on the two independent test files."""
 
 from __future__ import annotations
 
@@ -96,18 +96,9 @@ def _evaluate_split(
             max_glosses=data_config.max_glosses,
         )
 
-    fallback_doc_ids = pd.Series(test_df.index.astype(str), index=test_df.index)
-    if "doc_id" in test_df.columns:
-        doc_ids = test_df["doc_id"].fillna(fallback_doc_ids).astype(str).tolist()
-    elif "oare_id" in test_df.columns:
-        doc_ids = test_df["oare_id"].fillna(fallback_doc_ids).astype(str).tolist()
-    else:
-        doc_ids = test_df.index.astype(str).tolist()
-
     dataset = SentenceDataset(
         texts,
         test_df["translation"].astype(str).tolist(),
-        doc_ids=doc_ids,
         prefix=data_config.source_prefix,
     )
     result = evaluate_model(
@@ -120,11 +111,6 @@ def _evaluate_split(
         no_repeat_ngram=no_repeat,
         batch_size=batch_size,
         use_postprocessing=True,
-        use_mbr=False,
-        exact_memory={},
-        retrieval_index=None,
-        use_fuzzy_retrieval=False,
-        use_rerank=False,
     )
     pred_df = test_df.copy()
     pred_df["prediction"] = result["predictions"]
@@ -145,16 +131,16 @@ def main() -> int:
     parser.add_argument(
         "--primary-test-file",
         default=None,
-        help="Primary independent test file. Defaults to config override, then the standard coursework split.",
+        help="Primary independent test file. Defaults to config override, then the standard held-out split.",
     )
     parser.add_argument(
         "--secondary-test-file",
         default=None,
-        help="Secondary independent test file. Defaults to config override, then the standard coursework split.",
+        help="Secondary independent test file. Defaults to config override, then the standard held-out split.",
     )
     parser.add_argument(
         "--output-dir",
-        default="coursework/results/artifacts",
+        default="experiments/results/artifacts",
         help="Artifact root directory.",
     )
     parser.add_argument("--num-beams", type=int, default=8)

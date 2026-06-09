@@ -1,4 +1,4 @@
-"""Run a char n-gram TF-IDF retrieval baseline for the coursework lane."""
+"""Run a char n-gram TF-IDF retrieval baseline for the paper."""
 
 from __future__ import annotations
 
@@ -80,7 +80,7 @@ def main() -> int:
     )
     parser.add_argument(
         "--output-dir",
-        default="coursework/results/artifacts",
+        default="experiments/results/artifacts",
         help="Artifact root directory.",
     )
     parser.add_argument(

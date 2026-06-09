@@ -1,4 +1,4 @@
-"""Append coursework run metrics into coursework/results/results.csv."""
+"""Append run metrics into experiments/results/results.csv."""
 
 from __future__ import annotations
 
@@ -44,11 +44,11 @@ def main() -> int:
     parser.add_argument(
         "--summary-path",
         default=None,
-        help="Defaults to coursework/results/artifacts/<run_id>/summary.json",
+        help="Defaults to experiments/results/artifacts/<run_id>/summary.json",
     )
     parser.add_argument(
         "--results-csv",
-        default="coursework/results/results.csv",
+        default="experiments/results/results.csv",
         help="Results table to append or update.",
     )
     parser.add_argument("--status", default="complete")
@@ -56,7 +56,7 @@ def main() -> int:
     args = parser.parse_args()
 
     summary_path = Path(
-        args.summary_path or f"coursework/results/artifacts/{args.run_id}/summary.json"
+        args.summary_path or f"experiments/results/artifacts/{args.run_id}/summary.json"
     )
     if not summary_path.exists():
         raise FileNotFoundError(f"Summary file not found: {summary_path}")

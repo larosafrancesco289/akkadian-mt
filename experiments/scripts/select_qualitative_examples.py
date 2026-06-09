@@ -10,7 +10,7 @@ and selects examples that illustrate the main findings:
   5. Data scaling contrast
 
 Outputs:
-  - coursework/results/qualitative_examples.csv
+  - experiments/results/qualitative_examples.csv
   - LaTeX-formatted table to stdout
 """
 
@@ -22,7 +22,7 @@ from pathlib import Path
 import pandas as pd
 import sacrebleu
 
-ARTIFACTS = Path("coursework/results/artifacts")
+ARTIFACTS = Path("experiments/results/artifacts")
 
 # Experiments to load
 EXPERIMENTS = {
@@ -246,7 +246,7 @@ def main() -> None:
             out[f"bleu_{model}"] = row[f"bleu_{model}"]
         output_rows.append(out)
 
-    out_path = Path("coursework/results/qualitative_examples.csv")
+    out_path = Path("experiments/results/qualitative_examples.csv")
     out_path.parent.mkdir(parents=True, exist_ok=True)
     out_df = pd.DataFrame(output_rows)
     out_df.to_csv(out_path, index=False, quoting=csv.QUOTE_ALL)

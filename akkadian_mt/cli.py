@@ -1,9 +1,9 @@
 """Canonical CLI for akkadian-mt.
 
 This command is the authoritative entrypoint for the paper's reproduction
-pipeline: training, evaluation, the external-data mix, and the report bundle.
-Shared implementation lives in `akkadian_mt/`; experiment orchestration scripts
-live under `coursework/scripts/`.
+pipeline: training, evaluation, and report figures. Shared implementation lives
+in `akkadian_mt/`; experiment orchestration scripts live under
+`experiments/scripts/`.
 """
 
 from __future__ import annotations
@@ -42,14 +42,8 @@ def _forward(module_path: str) -> Callable[[argparse.Namespace, list[str]], int]
     return _handler
 
 
-def _handle_build_external_mix(_: argparse.Namespace, unknown: list[str]) -> int:
-    from akkadian_mt.data.external_alignment_corpus import main as external_mix_main
-
-    return external_mix_main(unknown)
-
-
 def _handle_plot_loss_curves(ns: argparse.Namespace, _: list[str]) -> int:
-    from akkadian_mt.commands.coursework import build_loss_curve_plots
+    from akkadian_mt.report import build_loss_curve_plots
 
     written = build_loss_curve_plots(
         manifest_path=Path(ns.manifest),
@@ -86,15 +80,6 @@ def build_parser() -> argparse.ArgumentParser:
     eval_lb = eval_sub.add_parser("lb", help="Independent / held-out test-set evaluation")
     eval_lb.set_defaults(handler=_forward("akkadian_mt.evaluation.evaluate_lb"))
 
-    # data
-    data = subparsers.add_parser("data", help="Dataset construction commands")
-    data_sub = data.add_subparsers(dest="data_cmd", required=True)
-    data_external_mix = data_sub.add_parser(
-        "build-external-mix",
-        help="Build the external ORACC-alignment mix used by the data-scaling experiments",
-    )
-    data_external_mix.set_defaults(handler=_handle_build_external_mix)
-
     # report helpers
     report = subparsers.add_parser("report", help="Report figure helpers")
     cw_sub = report.add_subparsers(dest="report_cmd", required=True)
@@ -103,12 +88,12 @@ def build_parser() -> argparse.ArgumentParser:
     )
     cw_loss.add_argument(
         "--manifest",
-        default="coursework/results/loss_curve_runs.csv",
+        default="experiments/results/loss_curve_runs.csv",
         help="CSV manifest listing the runs and grouping for loss-curve reruns",
     )
     cw_loss.add_argument(
         "--output-dir",
-        default="coursework/report/figures/loss_curves",
+        default="experiments/report/figures/loss_curves",
         help="Directory where the loss-curve figures are written",
     )
     cw_loss.add_argument(

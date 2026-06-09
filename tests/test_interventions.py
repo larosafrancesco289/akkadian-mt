@@ -2,7 +2,7 @@ from __future__ import annotations
 
 import pandas as pd
 
-from akkadian_mt.data.coursework_variants import (
+from akkadian_mt.data.interventions import (
     annotate_numerals_in_text,
     build_genre_conditioned_frame,
     build_numeral_normalized_frame,
@@ -106,6 +106,6 @@ def test_read_holdout_ids_requires_existing_union_file(tmp_path) -> None:
     try:
         read_holdout_ids(missing)
     except FileNotFoundError as exc:
-        assert "build_coursework_holdout_union.py" in str(exc)
+        assert "build_holdout_union.py" in str(exc)
     else:
         raise AssertionError("Expected FileNotFoundError for a missing holdout union")

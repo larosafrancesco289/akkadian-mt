@@ -146,16 +146,16 @@ _VALID_LR_SCHEDULES = frozenset({"linear", "cosine"})
 
 
 def _resolve_config_path(config_path: Path) -> Path:
-    """Resolve a config path, falling back to ``coursework/configs/`` by name.
+    """Resolve a config path, falling back to ``experiments/configs/`` by name.
 
-    Configs may be referenced by full path (``coursework/configs/foo.yaml``) or
+    Configs may be referenced by full path (``experiments/configs/foo.yaml``) or
     by bare filename (``foo.yaml``); the latter is resolved against the
-    coursework config directory.
+    experiments config directory.
     """
     if config_path.exists():
         return config_path
 
-    config_root = Path("coursework") / "configs"
+    config_root = Path("experiments") / "configs"
     candidate = config_root / config_path.name
     if candidate.exists():
         logger.info("Resolved config path %s -> %s", config_path, candidate)

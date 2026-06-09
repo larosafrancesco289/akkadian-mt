@@ -13,17 +13,18 @@ Obtain the corpora as described in [DATA_ACCESS.md](DATA_ACCESS.md) and place th
 raw files under `data/raw/`. Then build the derived datasets:
 
 ```bash
-uv run python coursework/scripts/build_coursework_holdout_union.py
-uv run python coursework/scripts/build_coursework_variants.py
-uv run akkadian-mt data build-external-mix \
-  --output-csv data/processed/external_alignment_phucthaiv_translation_oa_mix_v1.csv
+uv run python experiments/scripts/build_holdout_union.py
+uv run python experiments/scripts/build_variants.py
 ```
+
+The secondary external-data experiments additionally require a prepared external
+mix CSV — see [DATA_ACCESS.md](DATA_ACCESS.md).
 
 ## Tracked artifacts
 
-Per-run artifacts live under `coursework/results/artifacts/<run_id>/` and include
+Per-run artifacts live under `experiments/results/artifacts/<run_id>/` and include
 `summary.json`, `independent_metrics.json`, `newtest_metrics.json`, and
-`config_snapshot.yaml`. Aggregate tables are in `coursework/results/`:
+`config_snapshot.yaml`. Aggregate tables are in `experiments/results/`:
 `results.csv`, `experiment_matrix.csv`, `qualitative_examples.csv`.
 
 ## Report-to-artifact map
@@ -60,32 +61,32 @@ report table or figure.
 `byt5_base_external_mix_seed62`
 
 ### Qualitative analysis
-Source table: `coursework/results/qualitative_examples.csv`
-(regenerate with `coursework/scripts/select_qualitative_examples.py`).
+Source table: `experiments/results/qualitative_examples.csv`
+(regenerate with `experiments/scripts/select_qualitative_examples.py`).
 
 ## Command reference
 
 ```bash
-# Train (one YAML per condition under coursework/configs/)
-uv run akkadian-mt train seq2seq --config coursework/configs/<config>.yaml
+# Train (one YAML per condition under experiments/configs/)
+uv run akkadian-mt train seq2seq --config experiments/configs/<config>.yaml
 
 # Evaluate on the held-out test set
 uv run akkadian-mt eval lb \
-  --config coursework/configs/<config>.yaml \
+  --config experiments/configs/<config>.yaml \
   --checkpoint outputs/coursework/<run_id>/best_model.pt
 
 # TF-IDF retrieval baseline
-uv run python coursework/scripts/run_coursework_tfidf_baseline.py
+uv run python experiments/scripts/run_tfidf_baseline.py
 
 # Collect per-run results into the registry
-uv run python coursework/scripts/collect_coursework_results.py \
+uv run python experiments/scripts/collect_results.py \
   --run-id <run_id> --model-family seq2seq --model-size <size> \
   --seed <seed> --ablation <ablation> \
-  --config-path coursework/configs/<config>.yaml \
+  --config-path experiments/configs/<config>.yaml \
   --checkpoint-path outputs/coursework/<run_id>/best_model.pt
 
 # Regenerate paper figures
-uv run python coursework/report/make_figures.py
+uv run python experiments/report/make_figures.py
 
 # Regenerate grouped training-loss curves from rerun histories
 uv run akkadian-mt report plot-loss-curves

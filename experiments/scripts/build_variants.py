@@ -1,17 +1,17 @@
-"""Materialize the coursework experiment datasets for the CW4 pivot."""
+"""Materialize the preprocessing-variant datasets used by the intervention experiments."""
 
 from __future__ import annotations
 
 import argparse
 import json
 
-from akkadian_mt.data.coursework_variants import (
+from akkadian_mt.data.interventions import (
     DEFAULT_HOLDOUT_FILE,
     DEFAULT_PRIMARY_TEST_FILE,
     DEFAULT_SECONDARY_TEST_FILE,
     DEFAULT_TRAIN_FILE,
     DEFAULT_VARIANT_DIR,
-    build_all_coursework_variants,
+    build_all_variants,
 )
 
 
@@ -24,7 +24,7 @@ def main() -> int:
     parser.add_argument("--output-dir", default=str(DEFAULT_VARIANT_DIR))
     args = parser.parse_args()
 
-    paths = build_all_coursework_variants(
+    paths = build_all_variants(
         train_file=args.train_file,
         primary_test_file=args.primary_test_file,
         secondary_test_file=args.secondary_test_file,

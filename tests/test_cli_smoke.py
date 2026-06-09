@@ -31,12 +31,6 @@ def test_cli_eval_help() -> None:
     assert "usage: akkadian-mt eval val" in proc.stdout
 
 
-def test_cli_data_build_external_mix_help() -> None:
-    proc = run_cli("data", "build-external-mix", "--help")
-    assert proc.returncode == 0
-    assert "usage: akkadian-mt data build-external-mix" in proc.stdout
-
-
 def test_cli_report_plot_loss_curves_help() -> None:
     proc = run_cli("report", "plot-loss-curves", "--help")
     assert proc.returncode == 0

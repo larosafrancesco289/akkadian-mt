@@ -3,7 +3,7 @@ from __future__ import annotations
 import csv
 from pathlib import Path
 
-from akkadian_mt.commands.coursework import build_loss_curve_plots
+from akkadian_mt.report import build_loss_curve_plots
 
 
 def _write_history(path: Path, losses: list[float]) -> None:

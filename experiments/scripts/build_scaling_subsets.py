@@ -59,7 +59,7 @@ def main() -> int:
     elif not args.allow_missing_holdout:
         raise FileNotFoundError(
             f"Missing holdout file: {holdout_path}. "
-            "Run coursework/scripts/build_coursework_holdout_union.py first, or pass "
+            "Run experiments/scripts/build_holdout_union.py first, or pass "
             "--allow-missing-holdout if you explicitly want leaky subsets."
         )
 

@@ -9,7 +9,7 @@ from akkadian_mt.config import load_config
 
 
 def _repo_root() -> Path:
-    return Path(__file__).resolve().parents[2]
+    return Path(__file__).resolve().parents[1]
 
 
 def _resolve_under_root(root: Path, path_text: str) -> Path:

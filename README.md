@@ -42,19 +42,19 @@ competition score, on the held-out *independent* test set):
 ## Repository layout
 
 ```
-akkadian_mt/            # installable package: data, models, training, evaluation, CLI
-  data/                 # preprocessing pipeline, dataset construction, dictionary, variants
+akkadian_mt/            # installable package
+  data/                 # preprocessing pipeline, dataset construction, dictionary, interventions
   models/               # T5-family seq2seq wrappers + checkpoint compatibility
   training/             # training loop (Adafactor, early stopping, wandb logging)
   evaluation/           # BLEU / chrF++ / combined-score metrics + held-out eval
-  train.py, evaluate.py, cli.py
-coursework/
+  train.py, evaluate.py, report.py, cli.py
+experiments/
   configs/              # one YAML per experimental condition (31 configs)
   scripts/              # dataset build + evaluation + results-collection orchestration
   results/              # per-run metric artifacts (the evidence behind every table)
   report/               # figure generator + paper figures
 paper/                  # the paper (PDF + markdown source)
-tests/                  # regression + parity tests for the kept modules
+tests/                  # regression + parity tests for the package
 ```
 
 ## Install
@@ -81,14 +81,14 @@ external mix). Once the raw files are in place:
 
 ```bash
 # 1. build the document-level holdout union and the preprocessing variants
-uv run python coursework/scripts/build_coursework_holdout_union.py
-uv run python coursework/scripts/build_coursework_variants.py
+uv run python experiments/scripts/build_holdout_union.py
+uv run python experiments/scripts/build_variants.py
 
 # 2. train a model from any experiment config
-uv run akkadian-mt train seq2seq --config coursework/configs/byt5_base_baseline.yaml
+uv run akkadian-mt train seq2seq --config experiments/configs/byt5_base_baseline.yaml
 
 # 3. evaluate on the held-out test set
-uv run akkadian-mt eval lb --config coursework/configs/byt5_base_baseline.yaml \
+uv run akkadian-mt eval lb --config experiments/configs/byt5_base_baseline.yaml \
   --checkpoint outputs/coursework/byt5_base_baseline/best_model.pt
 ```
 
@@ -103,8 +103,7 @@ unpronounced determinatives (`{d}`, `{ki}`), Sumerographic logograms
 (`KÙ.BABBAR` = silver), homophone subscripts, and scribal-damage brackets. The
 deterministic preprocessing pipeline in `akkadian_mt/data/preprocessing.py`
 normalises these before tokenisation; the seven interventions in
-`akkadian_mt/data/coursework_variants.py` probe whether encoding them explicitly
-helps.
+`akkadian_mt/data/interventions.py` probe whether encoding them explicitly helps.
 
 ## Citation
 
