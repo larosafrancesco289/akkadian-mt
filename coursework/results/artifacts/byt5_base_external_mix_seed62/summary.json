@@ -1,0 +1,25 @@
+{
+  "run_id": "byt5_base_external_mix_seed62",
+  "artifact_source": "outputs/coursework/byt5_base_external_mix_seed62/best_model.pt",
+  "config_path": "coursework/configs/byt5_base_external_mix_seed62.yaml",
+  "primary_test_file": "data/processed/independent_test_set_clean.csv",
+  "secondary_test_file": "data/processed/new_test_set.csv",
+  "source_prefix": "translate Akkadian to English: ",
+  "remove_gaps": false,
+  "strip_determinatives": false,
+  "tag_sumerograms": false,
+  "strip_homophone_subscripts": true,
+  "skip_source_normalization": false,
+  "use_dictionary_gloss": false,
+  "max_glosses": 8,
+  "independent": {
+    "bleu": 25.707861653082997,
+    "chrf": 47.30736207673961,
+    "combined": 34.873645055272426
+  },
+  "newtest": {
+    "bleu": 25.871911945954448,
+    "chrf": 50.007040917069226,
+    "combined": 35.96912230350021
+  }
+}

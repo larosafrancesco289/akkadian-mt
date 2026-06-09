@@ -1,0 +1,25 @@
+{
+  "run_id": "byt5_base_scale_50pct",
+  "artifact_source": "outputs/coursework/byt5_base_scale_50pct/best_model.pt",
+  "config_path": "coursework/configs/byt5_base_scale_50pct.yaml",
+  "primary_test_file": "data/processed/independent_test_set_clean.csv",
+  "secondary_test_file": "data/processed/new_test_set.csv",
+  "source_prefix": "translate Akkadian to English: ",
+  "remove_gaps": false,
+  "strip_determinatives": false,
+  "tag_sumerograms": false,
+  "strip_homophone_subscripts": true,
+  "skip_source_normalization": false,
+  "use_dictionary_gloss": false,
+  "max_glosses": 8,
+  "independent": {
+    "bleu": 20.16244299934538,
+    "chrf": 39.52735860277761,
+    "combined": 28.230623704466534
+  },
+  "newtest": {
+    "bleu": 20.142306340986156,
+    "chrf": 41.219707269119255,
+    "combined": 28.81423209284561
+  }
+}

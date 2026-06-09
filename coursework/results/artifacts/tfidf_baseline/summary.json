@@ -1,0 +1,23 @@
+{
+  "run_id": "tfidf_baseline",
+  "artifact_type": "tfidf_retrieval",
+  "prepared_file": "data/processed/golden_corpus_v2_prefilt.csv",
+  "holdout_file": "data/processed/coursework_holdout_doc_ids.json",
+  "retrieval_rows": 5297,
+  "validation_rows": 597,
+  "tfidf": {
+    "analyzer": "char",
+    "ngram_min": 3,
+    "ngram_max": 5
+  },
+  "independent": {
+    "bleu": 12.204350078587414,
+    "chrf": 27.019490336108397,
+    "combined": 18.15916625307661
+  },
+  "newtest": {
+    "bleu": 11.666193775880453,
+    "chrf": 28.37521778760007,
+    "combined": 18.194251541158607
+  }
+}

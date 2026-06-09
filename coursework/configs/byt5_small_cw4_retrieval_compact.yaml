@@ -1,0 +1,52 @@
+# CW4 follow-up: ByT5-small with compact retrieved source and translation context.
+
+data:
+  data_dir: data/raw
+  val_split: 0.1
+  val_split_strategy: doc_id
+  val_group_column: oare_id
+  max_source_length: 640
+  max_target_length: 384
+  data_mode: prepared
+  prepared_file: data/processed/coursework_variants/retrieval_compact/train.csv
+  skip_source_normalization: true
+  eval_primary_test_file: data/processed/coursework_variants/retrieval_compact/independent_test.csv
+  eval_secondary_test_file: data/processed/coursework_variants/retrieval_compact/new_test.csv
+  source_prefix: "translate Akkadian to English: "
+  filter_quality: true
+  max_length_ratio: 10.0
+  min_translation_chars: 10
+  strip_homophone_subscripts: true
+  holdout_doc_ids_file: data/processed/coursework_holdout_doc_ids.json
+
+model:
+  model_type: hf_seq2seq
+  model_name: google/byt5-small
+
+train:
+  seed: 42
+  optimizer: adafactor
+  epochs: 24
+  batch_size: 12
+  learning_rate: 1.0e-4
+  weight_decay: 0.01
+  warmup_steps: 200
+  gradient_accumulation_steps: 2
+  fp16: false
+  bf16: true
+  gradient_checkpointing: true
+  max_grad_norm: 1.0
+  early_stopping_patience: 6
+  eval_steps: 99999
+  eval_epochs: 1
+  save_steps: 99999
+  output_dir: outputs/coursework/byt5_small_cw4_retrieval_compact
+  checkpoint_dir: checkpoints/coursework/byt5_small_cw4_retrieval_compact
+  wandb_project: deep-past
+  wandb_run_name: coursework-byt5-small-cw4-retrieval-compact
+  num_beams: 4
+  eval_num_beams: 1
+  num_workers: 4
+  label_smoothing: 0.1
+  no_repeat_ngram_size: 0
+  lr_schedule: cosine

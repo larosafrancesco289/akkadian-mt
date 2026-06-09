@@ -1,0 +1,662 @@
+oare_id,genre,source,retrieved_doc_id,retrieved_score,prediction
+a281317e-fa6c-41d3-b737-d38533134efc,letter,sentences_oare_published_texts,211d86ac-d2aa-b507-a7ad-9e59e51d5fb5,0.5118964937766246,To Šū-Anum from Šilamassī:
+a281317e-fa6c-41d3-b737-d38533134efc,letter,sentences_oare_published_texts,94e719f8-b8b6-f159-59ae-7ba6c61e07d0,0.3273835898140937,"I said, ""Puzur-Ištar brings you 1 shekel of silver the textiles of Puzur-Ištar."""
+a281317e-fa6c-41d3-b737-d38533134efc,letter,sentences_oare_published_texts,8ba5dbf8-88f8-330f-61c9-1d7c63529cbe,0.4043249362300009,"Puzur-Ištar said, ""I will not return the silver."""
+a281317e-fa6c-41d3-b737-d38533134efc,letter,sentences_oare_published_texts,8dc07a70-43cd-c65c-7de7-3594c557ad01,0.584013541110973,"My dear brother, send it to me."
+a281317e-fa6c-41d3-b737-d38533134efc,letter,sentences_oare_published_texts,effedebb-3c32-4d36-aab5-185b66849c47,0.3148026690012845,Puzur-Ištar brings you 1 textile to you.
+db007e3c-a561-4d88-a1b1-18f4739872ed,unknown,sentences_oare_published_texts,211d86ac-d2aa-b507-a7ad-9e59e51d5fb5,0.9710490898149824,To Pūšu-kēn from Lamassī:
+db007e3c-a561-4d88-a1b1-18f4739872ed,unknown,sentences_oare_published_texts,195d942d-f6e8-0d8d-a210-def06850ee5a,0.3342748847712877,Aššur-bāštī brings you 1 textile to you.
+db007e3c-a561-4d88-a1b1-18f4739872ed,unknown,sentences_oare_published_texts,c64e0595-c788-50dc-0e6c-fafaedb08d96,0.2618154852952231,"As for the textiles of Šū-Urbuiattum which you wrote, saying: ""I will not send 1 textile for the textiles and I will not send it to the textiles."""
+db007e3c-a561-4d88-a1b1-18f4739872ed,unknown,sentences_oare_published_texts,4573de40-3986-633e-8697-05d967238095,0.4524412026877152,The textiles belonging to Šurbu-iatum and send you your textiles to you.
+a584b8fe-b82a-453a-bea8-14834b16f4db,register,sentences_oare_published_texts,59f02056-5a44-1352-feb5-58fd7384e66b,0.529490669924039,Idī-Ištar s. Kurub-Ištar.
+a584b8fe-b82a-453a-bea8-14834b16f4db,register,sentences_oare_published_texts,4075988b-41c7-4df1-9483-ab0b55c375cd,0.4331193850906996,Anaḫ-ilī s. Kiki.
+a584b8fe-b82a-453a-bea8-14834b16f4db,register,sentences_oare_published_texts,532393bc-cbff-40e9-833f-54ec019e6b5b,0.4101573926292112,Suetaya s. Iribum.
+a584b8fe-b82a-453a-bea8-14834b16f4db,register,sentences_oare_published_texts,c0490f9f-6d29-ab71-6b74-aa4caa859db9,0.3104922088835027,Seals: Dāya s. Išuḫim.
+a584b8fe-b82a-453a-bea8-14834b16f4db,register,sentences_oare_published_texts,8c6112b3-874e-a604-c359-d374c07fb000,0.422613049512768,Witnesses: Ilī-illat.
+a584b8fe-b82a-453a-bea8-14834b16f4db,register,sentences_oare_published_texts,5dbe9dc6-844c-423f-92e7-94bab027cd80,0.4906193527252179,Witnesses: Šamaš-ṭāb.
+a584b8fe-b82a-453a-bea8-14834b16f4db,register,sentences_oare_published_texts,e69ed573-3211-49cc-8091-f8830c91f059,0.4130407569085777,Idnāya s. Šudāya owes 1/2 shekels (to?) Idnāya s. Šudāya.
+a584b8fe-b82a-453a-bea8-14834b16f4db,register,sentences_oare_published_texts,6a397f48-c1e2-4473-9f03-145159553f48,0.259266780869785,Witnesses: Quqadum s. Buzu.
+a584b8fe-b82a-453a-bea8-14834b16f4db,register,sentences_oare_published_texts,1889c8c1-d4c9-784d-96bb-af08a7e7c5fa,0.4565268180608423,Puzur-Ištar s. Bēdāki.
+a584b8fe-b82a-453a-bea8-14834b16f4db,register,sentences_oare_published_texts,01484b0c-8a86-4480-817b-e65ea3ef4791,0.4337573953663675,Eponymate: Nab-Suen s. Šū-Ištar
+a584b8fe-b82a-453a-bea8-14834b16f4db,register,sentences_oare_published_texts,8d5051e7-630f-4771-25b9-38f078dcf0c2,0.3234623539544944,Witnesses: Ennum-Aššur s. Begaya.
+315a1cb0-caf1-4925-e7f2-de76a9f2e1e9,debt note,sentences_oare_published_texts,f719057e-3a85-4df2-972a-6dde174ecd74,0.6773379441472203,Ilī-mutabbil owes Pūšu-kēn 1 mina refined silver.
+315a1cb0-caf1-4925-e7f2-de76a9f2e1e9,debt note,sentences_oare_published_texts,ab31f274-095b-452d-b13e-7382420b04c3,0.4927828123999933,He will pay 50 weeks from the ḫamuštum of Kaššim and Šamaš-bāni and Lāqēp.
+315a1cb0-caf1-4925-e7f2-de76a9f2e1e9,debt note,sentences_oare_published_texts,2d7662ab-5560-4057-a255-f617f29b8c4b,0.6892768022479129,"If he does not pay (on time), he will add 1/2 shekels per mina per month."
+315a1cb0-caf1-4925-e7f2-de76a9f2e1e9,debt note,sentences_oare_published_texts,fe70f4f5-1315-d383-3fa3-1ad612e57ceb,0.519956669255364,"Witnesses: Adad-rabi, Uṣur-ša-Ištar, Ikuppiya."
+448228c1-15ad-4952-afcd-8b736a70a592,debt note,sentences_oare_published_texts,da77e593-329b-45e2-b60f-6ac27e4486ae,0.4995862326129239,Aluluwa owes Idī-Ištar 1 mina silver.
+448228c1-15ad-4952-afcd-8b736a70a592,debt note,sentences_oare_published_texts,2ee64c13-a638-4006-af31-c4b6b39d077c,0.2781376870394216,Aluluwa owes Idī-Ištar 10 minas refined silver.
+448228c1-15ad-4952-afcd-8b736a70a592,debt note,sentences_oare_published_texts,6bee27f6-8bc5-8c18-df06-71f4e3029f51,0.1927374457207568,"My dear brother, Idī-Ištar which you wrote to Idī-Ištar, they will pay the tablet of Aluluwa."
+448228c1-15ad-4952-afcd-8b736a70a592,debt note,sentences_oare_published_texts,e481e6ce-9b84-480e-94bd-111db03247ce,0.5076389174944693,"If he does not pay (on time), he will add 1 mina 6 shekels per mina per month as interest."
+448228c1-15ad-4952-afcd-8b736a70a592,debt note,sentences_oare_published_texts,8ba6e3bb-c4c3-6ca5-1c4f-96ed2fbab652,0.2376823535690999,If Idī-Ištar does not pay the silver for the house.
+448228c1-15ad-4952-afcd-8b736a70a592,debt note,sentences_oare_published_texts,8c6112b3-874e-a604-c359-d374c07fb000,0.2883143467517333,"To Idī-Ištar, he will add 1/2 shekels per mina per month."
+448228c1-15ad-4952-afcd-8b736a70a592,debt note,sentences_oare_published_texts,75958e62-7e1a-b253-b9b9-4669437491ab,0.2881536066152425,Idī-Ištar did not give him to him.
+448228c1-15ad-4952-afcd-8b736a70a592,debt note,sentences_oare_published_texts,07375908-5d24-dcc1-857d-aaf36635f9c7,0.3750908476241048,"Witnesses: Ḫappu-ala, Ilaliaḫsu, Amura, Taluwana, Kula, Elāli, Tatali."
+e88d4536-3043-449b-a31e-43859cb49b38,debt note,sentences_oare_published_texts,84e4fefb-0ff0-4d6f-abdf-eb869d2aeffc,0.3526646051808214,Šū-Enlil and Aššur-nīmrī owe Šū-Enlil and Aššur-nīmrī 1 mina silver.
+e88d4536-3043-449b-a31e-43859cb49b38,debt note,sentences_oare_published_texts,b7cba7f4-1c06-4128-a9f6-8c62d070a160,0.4469562512643666,He will pay 2 months from the ḫamuštum of Pūšu-kēn and Aššur-mālik.
+a457f047-d209-56dd-ce96-727b37f697a9,letter,sentences_oare_published_texts,7a0b2e68-efd1-f7b0-3e56-750ae8ae11f3,0.5174954310919812,"My dear brothers, take care to send it."
+a457f047-d209-56dd-ce96-727b37f697a9,letter,sentences_oare_published_texts,d500bda3-de86-5882-5e16-d5fb30bb9c88,0.4158135331006198,"As for the panitum, I will send it to you."
+a457f047-d209-56dd-ce96-727b37f697a9,letter,sentences_oare_published_texts,8dc07a70-43cd-c65c-7de7-3594c557ad01,0.2705797881379605,If you do not release them anything and I will not release them anything and I will not release your tin.
+a457f047-d209-56dd-ce96-727b37f697a9,letter,sentences_oare_published_texts,c461be68-e646-be0e-eb62-7773ce1e3b0d,0.6042112608950165,"If he does not pay the silver and send it to me, send it to me."
+a457f047-d209-56dd-ce96-727b37f697a9,letter,sentences_oare_published_texts,8f818ff1-37e6-8aed-5614-ed818bc50fac,0.559220710554758,"Also, I will send 15 minas tin to you and I will send it to you."
+a457f047-d209-56dd-ce96-727b37f697a9,letter,sentences_oare_published_texts,6a45976f-2c34-4be7-8087-26c6abd4ab74,0.6928904307886253,"I said, ""I will send it to you."""
+a457f047-d209-56dd-ce96-727b37f697a9,letter,sentences_oare_published_texts,b1ee0540-67dc-4d6c-a9dd-617f4a809829,0.6038490611800514,Take care to send you your textiles and let your message come.
+e7e26a46-0e7d-22cd-2fbb-2373f3e07e7f,note,sentences_oare_published_texts,456cacbb-7262-2628-0dee-b7fafdcd1db2,0.3321286103652255,"The 2 talents 1 mina of silver of Mili-Ištar, the 2 talents 1 mina of tin, 5 2/3 minas 8 2/3 shekels of silver belonging to Itūr-Suen, the 2 talents of tin belong"
+e7e26a46-0e7d-22cd-2fbb-2373f3e07e7f,note,sentences_oare_published_texts,aa16c485-2aeb-4f4f-a27d-029588c834e0,0.3168643657287417,"Ikūnum, 1/3 mina 1 shekel of silver, mannum-bālum-Aššur, 4 minas 1/2 shekel of silver, Amur-Ištar, 1 mina šalim-Aššur from the ša Buzutaya and Šalim-Aššur from the ša Buzutaya and Šalim-Aš"
+e7e26a46-0e7d-22cd-2fbb-2373f3e07e7f,note,sentences_oare_published_texts,4621f430-0767-7518-a305-9d522b8e4464,0.468118638000497,Pūšu-kēn brought 39 1/2 minas 5 shekels silver.
+e7e26a46-0e7d-22cd-2fbb-2373f3e07e7f,note,sentences_oare_published_texts,e02682c0-2cc4-d770-fed1-e5a3272abae5,0.3118455476513606,"He will pay 5 minas tin from the merchant from Aššur-imittī, 3 kutānum textiles from the merchant."
+e7e26a46-0e7d-22cd-2fbb-2373f3e07e7f,note,sentences_oare_published_texts,8c6112b3-874e-a604-c359-d374c07fb000,0.4217515455464764,Pūšu-kēn brings you to you.
+6771461d-e4a4-4e1f-9d58-d819dccf7548,unknown,sentences_oare_published_texts,910ee885-0171-4d9b-9a78-ea77ea233aca,0.3156108283368229,"To the 9 2/3 minas tin, and 1/2 mina late 2 shekels silver which Pūšu-kēn brought to you, Šū-Ištar s. Dādānum, Suen-rēʾī s. Amur-Ištar."
+6771461d-e4a4-4e1f-9d58-d819dccf7548,unknown,sentences_oare_published_texts,402d4a4a-8398-0a85-e4af-23c0169b2c04,0.2717371309265833,Šū-Ištar s. Dādānum owes Pūšu-kēn 2 talents tin and send it to you.
+6771461d-e4a4-4e1f-9d58-d819dccf7548,unknown,sentences_oare_published_texts,2956080a-fb75-468a-99b8-5fadcbf0457e,0.4309978675350531,"Witnesses: Šū-Ištar s. Luzina, Puzur-Aššur s. Išar-kitt-Aššur, Dān-Aššur s. Šalim-aḫ, Aššur-mālik s. Amur-lusu, Ilī-wēdāku s. Idī-Aššur."
+a6bf3efc-a6b4-4e4c-ac7f-92d11d33f36e,debt note,sentences_oare_published_texts,aa16c485-2aeb-4f4f-a27d-029588c834e0,0.3715573103632203,"Witnesses: Bur-Adad, Idnāya."
+b4626e98-a9a0-f3fc-e719-b3faf83d7e8f,letter,sentences_oare_published_texts,7c8dfa44-81d5-0e4f-efab-84291f28e455,0.4060253459312847,"I gave 20 textiles under my seal, 20 textiles belonging to Ilī-ašranni, 85 kutānum-textiles belonging to Ilī-ašranni, and 4 1/2 kutānum-textiles belonging to Ilī-ašranni."
+b4626e98-a9a0-f3fc-e719-b3faf83d7e8f,letter,sentences_oare_published_texts,eb1f6643-2f42-4b06-b027-a69079109619,0.3215253692702088,I gave you 1 kutānum textile to you.
+b4626e98-a9a0-f3fc-e719-b3faf83d7e8f,letter,sentences_oare_published_texts,771e48d1-5ad1-63d5-7ced-690a01102f98,0.4116251697458463,Send 2 shekels silver and 2 shekels silver
+b4626e98-a9a0-f3fc-e719-b3faf83d7e8f,letter,sentences_oare_published_texts,985223ce-071e-7229-029c-64c17b15755c,0.4592666158130097,"The remainder of your textiles, 72 1/2 kutānum-textiles, 1 textile and 1 textile to Išratum."
+b4626e98-a9a0-f3fc-e719-b3faf83d7e8f,letter,sentences_oare_published_texts,771e48d1-5ad1-63d5-7ced-690a01102f98,0.4421298957266313,I gave 1 shekel of silver.
+b4626e98-a9a0-f3fc-e719-b3faf83d7e8f,letter,sentences_oare_published_texts,fccb4d69-5ca0-e152-6d50-a85033819522,0.3917333236775665,In 6 talents 30 minas tin was 12 minas tin for you.
+b4626e98-a9a0-f3fc-e719-b3faf83d7e8f,letter,sentences_oare_published_texts,0535b2f1-63f0-9416-8036-3572649b6a19,0.4154628877983461,"From the ḫamuštum of Aššur-ṭāb, he will add 1 mina 10 shekels."
+b4626e98-a9a0-f3fc-e719-b3faf83d7e8f,letter,sentences_oare_published_texts,0535b2f1-63f0-9416-8036-3572649b6a19,0.5953959786701145,"As for Ilabrat-bāni, Ilabrat-bāni brought 1 mina tin."
+b4626e98-a9a0-f3fc-e719-b3faf83d7e8f,letter,sentences_oare_published_texts,daf2c9f8-b0ca-44c9-acfb-cfc63cb65ce9,0.2823874127516246,"As for the merchant, do not give him to you."
+b4626e98-a9a0-f3fc-e719-b3faf83d7e8f,letter,sentences_oare_published_texts,62ff935e-f5ab-b6b1-c124-6ced51650da3,0.3459915798997234,The 50 minas 5 shekels tin and 4 shekels of tin and 5 shekels of silver which you wrote to Abī-tīban.
+b4626e98-a9a0-f3fc-e719-b3faf83d7e8f,letter,sentences_oare_published_texts,1dcab0ac-ab5c-90c4-9455-5474e3bc0a96,0.5894239045804133,I gave 1 mina tin to Ilī-ašranni.
+b4626e98-a9a0-f3fc-e719-b3faf83d7e8f,letter,sentences_oare_published_texts,0535b2f1-63f0-9416-8036-3572649b6a19,0.5189040379125675,The remainder of your tin and 5 talents 53 minas tin.
+b4626e98-a9a0-f3fc-e719-b3faf83d7e8f,letter,sentences_oare_published_texts,0535b2f1-63f0-9416-8036-3572649b6a19,0.4260038029337884,"Thereof, 3 talents late, 1 mina tin, 7 shekels, 20 kutānum-textiles, 10 textiles, 10 5 shekels of silver, Puzur-Anna son of Elāli brings you 38 minas 4 1/2 shekels."
+b4626e98-a9a0-f3fc-e719-b3faf83d7e8f,letter,sentences_oare_published_texts,c328311b-af25-4f11-9c9d-1518a89842db,0.4501026515290073,He will pay 45 weeks from the ḫamuštum of Aššur-bēl-awātim.
+b4626e98-a9a0-f3fc-e719-b3faf83d7e8f,letter,sentences_oare_published_texts,53ddd68e-c1e3-4586-9f60-70036b96d50b,0.5599914908993635,"He will pay 13 weeks from the month of Ša kēnātim, eponymate Šū-Daya s. Ennanim."
+b4626e98-a9a0-f3fc-e719-b3faf83d7e8f,letter,sentences_oare_published_texts,7c8dfa44-81d5-0e4f-efab-84291f28e455,0.4106438937873987,I gave 3 kutānum textiles and 3 textiles.
+b4626e98-a9a0-f3fc-e719-b3faf83d7e8f,letter,sentences_oare_published_texts,eb1f6643-2f42-4b06-b027-a69079109619,0.3425906458637254,"I gave 1/2 kutānum textile to the colony office, and they will pay 1 2/3 minas of silver."
+b4626e98-a9a0-f3fc-e719-b3faf83d7e8f,letter,sentences_oare_published_texts,dfbb9356-5533-c828-57f7-07e55e6895a6,0.3095284826922717,"If 2 kutānum-textiles, 7 1/2 shekels less 6 1/2 shekels of silver and 5 shekels of silver."
+b4626e98-a9a0-f3fc-e719-b3faf83d7e8f,letter,sentences_oare_published_texts,aa16c485-2aeb-4f4f-a27d-029588c834e0,0.4481036755940342,"The silver is 1/2 mina and 10 shekels silver which Šū-rum, 5 minas."
+b4626e98-a9a0-f3fc-e719-b3faf83d7e8f,letter,sentences_oare_published_texts,0535b2f1-63f0-9416-8036-3572649b6a19,0.330529925521848,The remainder of your tin was 40 minas 10 shekels.
+b4626e98-a9a0-f3fc-e719-b3faf83d7e8f,letter,sentences_oare_published_texts,c9ef2bee-c618-e10f-88d9-f5e13c274ec9,0.7113123613883853,The silver is 5 minas.
+b4626e98-a9a0-f3fc-e719-b3faf83d7e8f,letter,sentences_oare_published_texts,0535b2f1-63f0-9416-8036-3572649b6a19,0.3297403080056194,"The remainder of the 10 kutānum-textiles and Šurum-textiles, and the remainder of the tin and the remainder of the tin and 10 minas refined silver."
+b4626e98-a9a0-f3fc-e719-b3faf83d7e8f,letter,sentences_oare_published_texts,aa16c485-2aeb-4f4f-a27d-029588c834e0,0.5736290229288675,"Month: Kuzalli, eponymate Šū-Daya s. Ennanim."
+b4626e98-a9a0-f3fc-e719-b3faf83d7e8f,letter,sentences_oare_published_texts,9de2f9dd-c45c-45f9-a4d5-9787a20719f8,0.7612873677320539,"If he does not pay (on time), he will add 1/2 shekels per mina per month."
+b4626e98-a9a0-f3fc-e719-b3faf83d7e8f,letter,sentences_oare_published_texts,fcbd0ce6-4980-4957-94c1-05308b46c374,0.3583309006987974,Ilī-ašranni brings you 1 talent of tin from the transport of Ilī-ašranni.
+dfe716df-411e-4b7b-8dc8-d0a3f59ad623,letter,sentences_oare_published_texts,75edf89e-29a3-7983-aab6-f46004873544,0.5660898306843628,To Aššur-dānnī and Agua from Pūšu-kēn:
+dfe716df-411e-4b7b-8dc8-d0a3f59ad623,letter,sentences_oare_published_texts,8b5b76d4-1bcf-7230-ea70-3d55b691656d,0.3211090569015532,"Aššur-rēʾī 1 mina of silver from Aššur-rēʾī, 1 mina of Aḫu-waqarwiya, 1 mina of Aḫu Qarwiya, 1 mina of the"
+dfe716df-411e-4b7b-8dc8-d0a3f59ad623,letter,sentences_oare_published_texts,daf2c9f8-b0ca-44c9-acfb-cfc63cb65ce9,0.502357029073051,"From the pašuri of the dāmqūtum watrutum, which you wrote to you in 1/2 mina of silver which you wrote to me."
+dfe716df-411e-4b7b-8dc8-d0a3f59ad623,letter,sentences_oare_published_texts,3e07763f-51a6-a0b3-416e-6adf950e3090,0.3209227873591855,If he does not release the parsam and his instructions.
+dfe716df-411e-4b7b-8dc8-d0a3f59ad623,letter,sentences_oare_published_texts,a869b0b8-4646-699a-47ab-60265179c52a,0.298369319783284,Ištar-pilaḫ owes to Aššur 1 mina 5 shekels silver.
+dfe716df-411e-4b7b-8dc8-d0a3f59ad623,letter,sentences_oare_published_texts,95459c62-3265-4c33-8b24-620a014da848,0.3084520245126885,"If he does not pay (on time), he will pay the remainder of the tablet."
+dfe716df-411e-4b7b-8dc8-d0a3f59ad623,letter,sentences_oare_published_texts,b418d4e3-1ce5-243c-1afd-da7c74fcc7c3,0.7241291080944402,"He will pay (on time), he will pay the rate of the colony."
+dfe716df-411e-4b7b-8dc8-d0a3f59ad623,letter,sentences_oare_published_texts,3b73f144-7c92-df14-5e0f-f3b0a0b898f6,0.6063368358051457,The remainder of your message come to you.
+dfe716df-411e-4b7b-8dc8-d0a3f59ad623,letter,sentences_oare_published_texts,11672d83-b960-4dad-8399-05c077aead07,0.5476622499745508,The silver is bound to the silver.
+5b79390b-6fd8-2374-2018-02b6e98b1dca,debt note,sentences_oare_published_texts,66aefcfb-37fa-489d-90eb-663d60120983,0.9741424371571232,"Seals: Ennu-gamil s. Aba, Aššur-ṭāb s. Amriya, Dānāya s. Uzuwa, Ilī-dān s. Tūram-ilī, Puzur-Aššur s. Azuwa."
+5b79390b-6fd8-2374-2018-02b6e98b1dca,debt note,sentences_oare_published_texts,66aefcfb-37fa-489d-90eb-663d60120983,0.9090653376480496,Enna-gamil and Aššur-ṭāb s. Amriya owe Aššur-rabi 1/2 mina refined silver.
+5b79390b-6fd8-2374-2018-02b6e98b1dca,debt note,sentences_oare_published_texts,66aefcfb-37fa-489d-90eb-663d60120983,0.9520165470148684,He will pay 20 weeks from the ḫamuštum of Aššur-mālik s. Al-aḫim.
+5b79390b-6fd8-2374-2018-02b6e98b1dca,debt note,sentences_oare_published_texts,5d5c062f-4fde-4bd4-9e0d-6ab4d8989d49,0.672273020451833,"If he does not pay (on time), he will add 1/2 shekels per mina per month as interest."
+1bd30bc9-0725-42c5-a930-ed92fcd09571,debt note,sentences_oare_published_texts,af7d905f-cbaf-4c6d-96f9-755cc74f0fe3,0.2724713496480475,He will pay 40 minas of copper.
+1bd30bc9-0725-42c5-a930-ed92fcd09571,debt note,sentences_oare_published_texts,d00de473-62f9-fbc6-3404-dfd68a444d12,0.7093339497181378,He will add 10 minas per month from the ḫamuštum of Ḫuraṣānim.
+1bd30bc9-0725-42c5-a930-ed92fcd09571,debt note,sentences_oare_published_texts,e1901b10-62d4-403e-8fe1-6ca8c1aec383,0.4410558450850425,Month: Ṣibiburum.
+ac02563f-44f1-4d47-b291-26c251426c6a,note,sentences_oare_published_texts,20128a8b-a963-4126-a713-8266da50bd17,0.2722862860844028,Kubur-šinum brought 1/2 mina of silver which you wrote to Imdī-ilum.
+ac02563f-44f1-4d47-b291-26c251426c6a,note,sentences_oare_published_texts,7e14182e-44d3-b132-6010-c118238054dc,0.4051974129664057,"He will pay 1 mina 3 shekels of silver from the colony office of Šū-Kūbum, 1 talent of the colony office of Asqūdum, the price of 4 minas 13 shekels of silver for Asqūdum."
+ac02563f-44f1-4d47-b291-26c251426c6a,note,sentences_oare_published_texts,62e6744c-19c6-bce5-5ddf-6b77881444b6,0.3108096195681485,I gave 1 talent 7 minas of copper.
+ac02563f-44f1-4d47-b291-26c251426c6a,note,sentences_oare_published_texts,d2338f2f-a756-4923-a932-bca844102cd5,0.43804112501847,I gave 1 talent 50 minas of wool to Šū-Kūbum.
+a3c24407-91e9-46cf-a341-a3682c582335,agreement (contract) | legal writing(s),sentences_oare_published_texts,5ddb3a30-152e-0172-cb06-c2c002ed1cfa,1.0000000000000002,Month: Ab-šarrānē
+a3c24407-91e9-46cf-a341-a3682c582335,agreement (contract) | legal writing(s),sentences_oare_published_texts,5d5c062f-4fde-4bd4-9e0d-6ab4d8989d49,0.80078272878931,Month: Aššur-imittī
+a3c24407-91e9-46cf-a341-a3682c582335,agreement (contract) | legal writing(s),sentences_oare_published_texts,ca1a21d4-cc13-1578-05ad-eee95cbd5268,0.3990955187606668,"Witnesses: Puzur-Ištar s. Abu-šalim, Ikuppaša s. Pūšu-kēn."
+4affa484-3177-4f1e-9179-f1c3ebccb64b,legal challenge,sentences_oare_published_texts,82b2c169-af37-4c2b-bfdd-0fa305d42fe0,0.517043491876848,"Witnesses: Ḫananārum, Puzur-Aššur"
+232b36ce-1f4d-4754-93ae-d9e38bd87442,unknown,sentences_oare_published_texts,c8bf4464-d2e6-2f52-762b-558ea58620df,0.440926809368339,"If he does not pay (on time), he will add 1/2 shekels refined silver."
+232b36ce-1f4d-4754-93ae-d9e38bd87442,unknown,sentences_oare_published_texts,47fefa20-e2c0-7a5f-16e3-7bfd062d8032,0.6339088399802676,"Witnesses: Aššur-imittī, Pilaḫ-Ištar"
+c5dee8b7-c77f-427c-9c30-1398b284a178,unknown,sentences_oare_published_texts,8d10a0ba-1286-8466-2773-43530d309236,0.5419326759002457,"Witnesses: Kulumaya, Ṭāb-ṣill-Aššur, Suen-nādā, Mannum-kī-Aššur s. Šū-Bēlum."
+2d0c56bb-c8b8-e438-d115-b9ff50e1aad2,letter,sentences_oare_published_texts,c9ef2bee-c618-e10f-88d9-f5e13c274ec9,0.3714975332415366,"In the presence of Ilabrat-bāni for 29 minas of silver, 8 minas of silver from the son of Al-aḫum."
+2d0c56bb-c8b8-e438-d115-b9ff50e1aad2,letter,sentences_oare_published_texts,ac3b4093-17e9-404f-ae03-ddc6cb0482d9,0.4511780736714184,The remainder of the silver which you wrote to you with the silver.
+2d0c56bb-c8b8-e438-d115-b9ff50e1aad2,letter,sentences_oare_published_texts,5d4b7a27-c215-8b9c-abae-374c17be1e70,0.2582157100180912,"As for the matter of the bēulātum, you wrote to you."
+2d0c56bb-c8b8-e438-d115-b9ff50e1aad2,letter,sentences_oare_published_texts,3b73f144-7c92-df14-5e0f-f3b0a0b898f6,0.5979219245928129,"My dear father, do not give it to you."
+2d0c56bb-c8b8-e438-d115-b9ff50e1aad2,letter,sentences_oare_published_texts,c9ef2bee-c618-e10f-88d9-f5e13c274ec9,0.3988754440744682,"As for the silver, I will send the silver which you wrote to you."
+2d0c56bb-c8b8-e438-d115-b9ff50e1aad2,letter,sentences_oare_published_texts,5e896615-f953-2592-e028-b291b57bf32b,0.3952185848834718,I gave 1 mina of silver to the silver and send it to the silver.
+2d0c56bb-c8b8-e438-d115-b9ff50e1aad2,letter,sentences_oare_published_texts,3efd5922-30d7-4d8d-a7e9-7991f9bd7579,0.3579946202757295,The suri is bound to the suri.
+f7dc79c2-5d3a-42bf-8348-900e640ab4b1,unknown,sentences_oare_published_texts,eb1f6643-2f42-4b06-b027-a69079109619,0.4316478665965928,The remainder of the maṣārum was 1/2 shekels.
+18b0bbeb-a929-4864-a4ed-8c8a3c2c7512,unknown,sentences_oare_published_texts,f66b905a-d055-4ae4-8b8b-d5cfcc339822,0.5580945287576184,Aššur-šamšī owes Aššur-mālik 1 mina 3 shekels refined silver.
+18b0bbeb-a929-4864-a4ed-8c8a3c2c7512,unknown,sentences_oare_published_texts,62d5f9c7-c3af-4642-9ba1-b6432aac2998,0.5946495118868034,He will pay 5 weeks from the ḫamuštum of Šū-Kūbum and Elama.
+18b0bbeb-a929-4864-a4ed-8c8a3c2c7512,unknown,sentences_oare_published_texts,c833d6cc-c0a5-4dff-8b0e-862944df1673,0.9302302601663208,"If he does not pay (on time), he will add 1/2 shekels per mina per month."
+18b0bbeb-a929-4864-a4ed-8c8a3c2c7512,unknown,sentences_oare_published_texts,ed8f6ce2-b53d-42f8-bdfb-5efe0740a89f,0.5949950951668892,"Witnesses: Aššur-mālik, Aššur-rabi s. Aguza."
+87156e2d-8a11-4741-bc22-eabf63a92589,unknown,sentences_oare_published_texts,ddd76005-a365-48c5-88b5-b3a809bfa76a,0.4443969363806281,"To Enlil-bāni, Ilī-iš-tīkal owes 1 mina refined silver."
+87156e2d-8a11-4741-bc22-eabf63a92589,unknown,sentences_oare_published_texts,260f541a-470f-9ab1-abde-83d966fae404,0.4202787583980161,He will pay 4 šanat from the ḫamuštum of Aššur-imittī and Aššur-rabi.
+87156e2d-8a11-4741-bc22-eabf63a92589,unknown,sentences_oare_published_texts,4aac0b6b-c7eb-4efb-b988-2df596dad287,0.6678651215923451,Month: Narmak Aššur.
+87156e2d-8a11-4741-bc22-eabf63a92589,unknown,sentences_oare_published_texts,e69ed573-3211-49cc-8091-f8830c91f059,0.7848498389944828,Eponymate: after Šū-Daya.
+87156e2d-8a11-4741-bc22-eabf63a92589,unknown,sentences_oare_published_texts,2a9bbdee-dcb4-425b-b6a8-3745796e6c02,0.2348746962906718,"From Enlil-bāni, Ikaššudu and Ilī-iš-tīkal and Ilī-iš-tīkal so that Ilī-iš-tīkal brings you 1 mina of silver to the Ilī-ištīkal."
+87156e2d-8a11-4741-bc22-eabf63a92589,unknown,sentences_oare_published_texts,35f21f03-02e8-4378-877d-40481575f861,0.5167182410734238,"Witnesses: Lālum, Ennānum."
+481d0a59-d9ed-7fc7-a2cc-8056b65ce99c,agreement (contract),sentences_oare_published_texts,eac96f09-f267-4517-a2ba-6aba4ba8e987,0.5641145881288736,"Seals: Miništar, Amurrum-bāni, Puzur-mārtu."
+481d0a59-d9ed-7fc7-a2cc-8056b65ce99c,agreement (contract),sentences_oare_published_texts,774c7055-16e0-92e2-82ac-1e06db8f34bd,0.435631248656655,"If he does not return to the representatives of Puzur-šadue, he will not return to him."
+481d0a59-d9ed-7fc7-a2cc-8056b65ce99c,agreement (contract),sentences_oare_published_texts,774c7055-16e0-92e2-82ac-1e06db8f34bd,0.62796282541973,He will pay 3 shekels from the ḫamuštum of Ennamaya.
+5af89968-145b-c695-a223-0058a5cc6838,letter,sentences_oare_published_texts,8b5b76d4-1bcf-7230-ea70-3d55b691656d,0.9813438345268618,To Šū-Ḫubur from Pūšu-kēn:
+5af89968-145b-c695-a223-0058a5cc6838,letter,sentences_oare_published_texts,7c8dfa44-81d5-0e4f-efab-84291f28e455,0.4543072009924796,"From the 21 kutānum-textiles and 2 textiles which Enlil-bāni brought to you, 10 kutānum-textiles, 4 textiles and 4 tex"
+91b5eb33-446d-4cf7-a51e-f71a60d465d6,letter,sentences_oare_published_texts,d3fa75fa-75bb-cbed-971b-63d781d1eb06,0.8087863225721409,"To Al-aḫum, Aguza, Aššur-nādā and Ilī-ālum from Aššur-idī:"
+91b5eb33-446d-4cf7-a51e-f71a60d465d6,letter,sentences_oare_published_texts,ca1a21d4-cc13-1578-05ad-eee95cbd5268,0.2789531106003273,"Seal of Ilī-idī-nāšu s. Aššur-nādā, 2 shekels of Parzilam, Ikūnum s. Samaya, Puzur-Ištar s. Saktaya to tadmiqtum."
+91b5eb33-446d-4cf7-a51e-f71a60d465d6,letter,sentences_oare_published_texts,9f8e2f99-acf9-49e0-9c73-ffee6612908c,0.3598978288026841,He will pay 1 mina of silver and I will pay the silver.
+91b5eb33-446d-4cf7-a51e-f71a60d465d6,letter,sentences_oare_published_texts,a1cec2cc-bab4-4678-a5fe-de235db6bbf1,0.3476374698468597,"Aḫua said, ""Aššur-bēl-awātim and Amriya sent the silver and send it to me."""
+91b5eb33-446d-4cf7-a51e-f71a60d465d6,letter,sentences_oare_published_texts,a78670e2-3087-12ab-db75-35755e42a13f,0.3447069052523368,"From the 30 minas of bari, Šū-Enlil, Aššur-mālik, Aššur-mālik, and Amur-Ištar in Kili husāri, 5 minas of silver and the price of 5 minas of silver and the price of 1/2 mina of silver which Aššur-mālik brought"
+91b5eb33-446d-4cf7-a51e-f71a60d465d6,letter,sentences_oare_published_texts,719bc93f-ad4e-4cbd-4a15-704b205f627c,0.3927159051243903,"I said, ""Let Kanesh bring it to you the silver and I will send it to you."""
+91b5eb33-446d-4cf7-a51e-f71a60d465d6,letter,sentences_oare_published_texts,f76bc18c-aa3b-1e13-a9ae-6236abfc19e9,0.2972500493199726,If he does not release the house of
+91b5eb33-446d-4cf7-a51e-f71a60d465d6,letter,sentences_oare_published_texts,640cbfe5-07e0-4539-e89f-6328e7f8ad34,0.2760824614831155,From the ḫusāru of the textiles which Dāniš brought to you.
+39c3f9a0-40bf-310a-4a20-adce7e75bdd8,letter,sentences_oare_published_texts,3aa7ba9b-55e0-ecfa-cce6-bf1b662b74c9,0.9616085890172964,To Aššur-nādā from Idī-Ištar:
+39c3f9a0-40bf-310a-4a20-adce7e75bdd8,letter,sentences_oare_published_texts,78b27bcc-a569-4c29-6474-2dd51e37b15b,0.3342621645403903,Ikūn-pīya s. Dāya brings you 1 shekel of silver under my seal.
+39c3f9a0-40bf-310a-4a20-adce7e75bdd8,letter,sentences_oare_published_texts,312e0e16-9bef-3064-5299-a9569634ae39,0.2345809792612027,"My dear brother, take care to send it to you."
+456e25a6-1259-aab7-cf39-5bbaf943db73,letter,sentences_oare_published_texts,239c65a5-18c3-8042-ef72-8412a1fcc899,0.3092590551218498,"The silver belonging to the silver of the ikrībīya of 1 mina of gold, which you wrote to Aššur."
+456e25a6-1259-aab7-cf39-5bbaf943db73,letter,sentences_oare_published_texts,436c92f2-c6a8-8677-c76a-a062d9ce878e,0.3804025326514334,"My dear brothers, take care to send the silver."
+456e25a6-1259-aab7-cf39-5bbaf943db73,letter,sentences_oare_published_texts,436c92f2-c6a8-8677-c76a-a062d9ce878e,0.4032465591381228,Hušaya and Nisḫasu to Adad-bāni under my seal.
+456e25a6-1259-aab7-cf39-5bbaf943db73,letter,sentences_oare_published_texts,cd7efda7-b436-35f0-9c9e-d9e368a07f01,0.7009541272581475,The remainder of the silver and send it to me.
+456e25a6-1259-aab7-cf39-5bbaf943db73,letter,sentences_oare_published_texts,1e0c6794-9664-72a8-6435-79b96ba744e8,0.5078484929341295,Take care to send it to you and send it to me.
+456e25a6-1259-aab7-cf39-5bbaf943db73,letter,sentences_oare_published_texts,7a563f13-abf1-0749-ced9-41ed3f3fb851,0.2138410000082802,He will pay 10 minas of refined silver and he will pay 10 minas of gold.
+456e25a6-1259-aab7-cf39-5bbaf943db73,letter,sentences_oare_published_texts,cffb94bb-788d-1e19-0593-1f8d1e064d86,0.2753963937310251,Take care to send it to you.
+456e25a6-1259-aab7-cf39-5bbaf943db73,letter,sentences_oare_published_texts,d500bda3-de86-5882-5e16-d5fb30bb9c88,0.3970357475692098,Take care to send the silver and let your message come.
+456e25a6-1259-aab7-cf39-5bbaf943db73,letter,sentences_oare_published_texts,fe0e1e0b-a7a1-e822-89c8-f40ae7ab6323,0.2156019881961404,Take care to send it to you and send it to me.
+456e25a6-1259-aab7-cf39-5bbaf943db73,letter,sentences_oare_published_texts,79543fee-ed27-9539-6ca9-69d65931f2e7,0.2777935192129463,"My dear father, take care to send you your own funds."
+456e25a6-1259-aab7-cf39-5bbaf943db73,letter,sentences_oare_published_texts,1e0c6794-9664-72a8-6435-79b96ba744e8,0.6258460847524224,Take care to send it to you.
+456e25a6-1259-aab7-cf39-5bbaf943db73,letter,sentences_oare_published_texts,f2bc521e-b3c0-4d4a-a777-d241665a16f7,0.2685982538126129,The 1 mina of silver belonging to Tuwataranni to your instructions.
+456e25a6-1259-aab7-cf39-5bbaf943db73,letter,sentences_oare_published_texts,94ac8294-3c21-53f7-24ed-d634cd2e4b12,0.3812977087726996,The textiles of Aššur and Adad of the textiles and the textiles of Ilabrat-bāni and the textiles of Ilabrat-bāni.
+deb3c9c3-d52c-4d99-fb80-5592db52c7b0,debt note,sentences_oare_published_texts,c7db4f8c-85f0-4955-ac2f-e214455ddb1b,0.3714045465163771,Šū-Ištar s. Aššur-emūqī and Aššur-bāni s. Ḫudurla owe Zukuwa 1 talent 45 minas of copper belonging to Aššur-ṭāb.
+deb3c9c3-d52c-4d99-fb80-5592db52c7b0,debt note,sentences_oare_published_texts,77f85a31-b948-42fa-9f93-b3794d84418c,0.660370988177314,He will pay 3 ḫamuštum weeks from the ḫamuštum of Šū-Ištar.
+fe35ee41-7c29-851b-a76a-da6b9f6c41f4,letter,sentences_oare_published_texts,33287d6b-fd19-d181-7348-b11edb9b4e77,0.7012912395830979,To Pūšu-kēn from Ea-šar:
+fe35ee41-7c29-851b-a76a-da6b9f6c41f4,letter,sentences_oare_published_texts,fc3de9fb-ef9e-f45b-178b-d149f7a78a71,0.3726161893384596,"I said, ""I shall give the 30 talents of copper from the 30 talents."""
+fe35ee41-7c29-851b-a76a-da6b9f6c41f4,letter,sentences_oare_published_texts,882d6b32-0e76-8484-126c-059372fd5590,0.3266333306604089,"As for the donkeys, Adad-bāni brings you 30 talents of copper to Burušḫattum."
+fe35ee41-7c29-851b-a76a-da6b9f6c41f4,letter,sentences_oare_published_texts,d9d41f79-606b-3589-cf47-2179bbe3f0ad,0.3441130588820802,"As for the donkeys of the transport of Šū-Anum, do not send it to you."
+fe35ee41-7c29-851b-a76a-da6b9f6c41f4,letter,sentences_oare_published_texts,3c10547e-4f06-b273-bd1b-92347dd6ee0f,0.3106897177432787,"My dear brothers, take care to send it."
+fe35ee41-7c29-851b-a76a-da6b9f6c41f4,letter,sentences_oare_published_texts,985223ce-071e-7229-029c-64c17b15755c,0.2281917415804861,Šū-Kūbum and Ilīya 3 textiles and send it to you.
+af4edbba-744c-0376-0482-299a6f3e287a,letter,sentences_oare_published_texts,2a9bbdee-dcb4-425b-b6a8-3745796e6c02,0.7562885955995191,To Aššur-nādā and Uṣur-ša-Aššur from Aššur-taklāku to Uṣur-ša-Aššur:
+948ceeec-f8e3-4dd5-93c2-d9517d8651c3,debt note,sentences_oare_published_texts,8856d509-c02a-4f15-879a-522a49d83a92,0.5335408257224262,"Witnesses: Šū-Bēlim, Puzur-Aššur."
+7623b1eb-2569-60cb-d198-d7a112d852cc,debt note,sentences_oare_published_texts,58d7ef78-49f1-44af-bc76-cd08de3bd0b9,0.5776890399407856,"Seals: Ikuppiya s. Šū-Anum, Idī-Kūbum s. Aššur-mālik, Susaya s. Šū-Ištar s. Napraka."
+7623b1eb-2569-60cb-d198-d7a112d852cc,debt note,sentences_oare_published_texts,a9ab61cf-5963-c180-3898-27a76268fb99,0.818056156710316,Susaya s. Šū-Ištar owes Pūšu-kēn 1 mina refined silver.
+7623b1eb-2569-60cb-d198-d7a112d852cc,debt note,sentences_oare_published_texts,b6dfff9d-542c-44ba-83ae-d7b8d5d39e69,0.5487855528824344,"Month: Maḫḫur-ilī, eponymate after Kubiya."
+7623b1eb-2569-60cb-d198-d7a112d852cc,debt note,sentences_oare_published_texts,5d5c062f-4fde-4bd4-9e0d-6ab4d8989d49,0.6619632872328287,"If he does not pay (on time), he will add 5 shekels per mina per month."
+779b2ade-34c1-c95c-6616-088626c7194d,letter,sentences_oare_published_texts,8c6112b3-874e-a604-c359-d374c07fb000,0.4287599028585508,Pūšu-kēn did not give the tablet.
+17d7aeeb-43a0-56b1-dca4-1250c18eaedd,letter,sentences_oare_published_texts,d6bff9ca-1ac3-4695-ae22-46272ac8c4c1,0.393443072682787,"Ikūn-pīya, Aššur-ṣulūlī, Ikūn-pīya, Aššur-ṣu"
+17d7aeeb-43a0-56b1-dca4-1250c18eaedd,letter,sentences_oare_published_texts,cc42fcaa-8516-4192-9424-badfedca6a62,0.3285947938527907,"I said, ""I will send the silver and send it to me."""
+17d7aeeb-43a0-56b1-dca4-1250c18eaedd,letter,sentences_oare_published_texts,c9ef2bee-c618-e10f-88d9-f5e13c274ec9,0.3021089002998497,"In the presence of Ilabrat-bāni, Ennam-Aššur and Abu-šalim will pay the 20 minas refined silver which Adad-ṣulūlī and Idī-Ištar son of Aššur-nādā."
+17d7aeeb-43a0-56b1-dca4-1250c18eaedd,letter,sentences_oare_published_texts,365b25ea-e14b-4edd-ae1b-36de19410485,0.386442578467964,"My dear brothers, saying: ""I will send it to you."""
+17d7aeeb-43a0-56b1-dca4-1250c18eaedd,letter,sentences_oare_published_texts,a0209099-70a9-461b-80b0-46716b05f28a,0.2400169780863483,If he does not pay 5 donkeys and he will pay the 5 donkeys and he will pay the silver and he will pay the silver.
+17d7aeeb-43a0-56b1-dca4-1250c18eaedd,letter,sentences_oare_published_texts,4e40607b-ced3-4841-a5fb-83fc90a41d7b,0.3333463588499562,As for the colony office of Aššur-ṣulūlī and the colony office of Aššur-ṣulūlī.
+17d7aeeb-43a0-56b1-dca4-1250c18eaedd,letter,sentences_oare_published_texts,f4a09ef4-5711-d4c1-b632-ef15a1819b59,0.4151197518706491,"As for the sealed tablet, take care to send the tablet and send it to me."
+91290182-26f4-a5d5-dbe1-69cda2d4d334,letter,sentences_oare_published_texts,efeb2f1a-165d-4626-9772-3bc2b072e395,0.4773366374058977,"My dear brother, and the colony office of the bārini and the colony office of the bārini."
+91290182-26f4-a5d5-dbe1-69cda2d4d334,letter,sentences_oare_published_texts,ad287135-a225-45dc-affe-a443b766d68c,0.7488937600328852,They will pay the silver to you.
+91290182-26f4-a5d5-dbe1-69cda2d4d334,letter,sentences_oare_published_texts,db307380-fd2a-aa29-e5bc-572029ae1201,0.321126072705612,"As for the 1 talent tin to Kukuzizīya, Adad-nāwer, Lubil, and to Adad-nāwer, 10 textiles and 20 textiles to the merchant of the merchant and the merchant of the merchant."
+91290182-26f4-a5d5-dbe1-69cda2d4d334,letter,sentences_oare_published_texts,db307380-fd2a-aa29-e5bc-572029ae1201,0.3458655386097274,"To Kukuzizīya, send it to Kukuzizīya, send it to Amur-Šamaš, so that I can send it to the merchant."
+91290182-26f4-a5d5-dbe1-69cda2d4d334,letter,sentences_oare_published_texts,2b13fd0b-d662-99bf-961a-79feeec717e3,0.540552520307567,"If he does not pay the silver and the textiles to the colony office, he will pay the silver for Idāya."
+91290182-26f4-a5d5-dbe1-69cda2d4d334,letter,sentences_oare_published_texts,efeda029-37d8-4869-8fde-55f713c2c703,0.3407266318673496,"The tablet which you wrote to you, Idāya will send it to you."
+91290182-26f4-a5d5-dbe1-69cda2d4d334,letter,sentences_oare_published_texts,8ff40d16-67be-c075-8394-8dcac3acdbc1,0.4608428407400828,"If he does not pay (on time), he will pay the silver and send it to me."
+91290182-26f4-a5d5-dbe1-69cda2d4d334,letter,sentences_oare_published_texts,a33ed8ec-ad23-90a8-f8fc-5831321d0f99,0.3320026352496434,We will pay the silver from Waḫšušana and the silver of Ḫuraṣānum and Aššur-rē'ī.
+802c2972-b7b3-4373-84c8-7b9a719bf9c8,letter,sentences_oare_published_texts,2a3ca4b6-3673-2597-6e54-1cd0164a49ad,0.2464544499703746,Take care to send you to your instructions.
+802c2972-b7b3-4373-84c8-7b9a719bf9c8,letter,sentences_oare_published_texts,38aa816b-fec2-4c91-8994-1d05a2f2b28a,0.2554238805148045,"Also, I will not return to you anything."
+802c2972-b7b3-4373-84c8-7b9a719bf9c8,letter,sentences_oare_published_texts,927caef1-8903-4be7-ba6a-06d40b5f3441,0.262425870465078,"My dear brother, I will not return to you."
+802c2972-b7b3-4373-84c8-7b9a719bf9c8,letter,sentences_oare_published_texts,b05376c2-fc3d-49f8-9792-a25c0df9c383,0.5860704033899435,"Witnesses: Rabi-Aššur, Ennam-Aššur s. Karriya, Ennam-Aššur s. Merāli."
+8289580b-8239-484d-ac06-7f1c2bd4da8a,letter,sentences_oare_published_texts,842f390f-7848-46b8-b9c1-86cadb3ee753,0.4430841063585445,"To Ikūn-pīya, Ennam-Aššur and Šumi-abiya from Aššur-nādā:"
+8289580b-8239-484d-ac06-7f1c2bd4da8a,letter,sentences_oare_published_texts,b5cfac6a-d1f2-4566-9288-8f290a8bc233,0.4880020476706804,To Ennam-Aššur and Šumi-abiya:
+8289580b-8239-484d-ac06-7f1c2bd4da8a,letter,sentences_oare_published_texts,62fe6ce3-cb5a-c2f3-79e9-995513d04b11,0.2035242426425454,He will pay 1 talent 30 minas of tin which Puzur-Ištar and 6 donkeys from the proceeds of Puzur-Ištar and 6 donkeys.
+8289580b-8239-484d-ac06-7f1c2bd4da8a,letter,sentences_oare_published_texts,2a9bbdee-dcb4-425b-b6a8-3745796e6c02,0.2729520220690906,If he does not pay 1 talent 25 minas of copper from Uṣur-ša-Aššur to Ikūn-pīya.
+8289580b-8239-484d-ac06-7f1c2bd4da8a,letter,sentences_oare_published_texts,814ad661-c264-4d94-9c1e-2273334268e6,0.3413624127905932,Ennum-Aššur owes 1 talent 12 minas of copper which Ennum-Aššur.
+8289580b-8239-484d-ac06-7f1c2bd4da8a,letter,sentences_oare_published_texts,ab0ca721-5fe0-725e-fda0-7701a7a959b6,0.3538946295576723,Puzur-Ištar brings you 1 talent 20 minas which Puzur-Ištar brings you.
+8289580b-8239-484d-ac06-7f1c2bd4da8a,letter,sentences_oare_published_texts,f6af4a38-990e-a4af-ccd2-3833811c2041,0.371456269209949,The remainder of the copper is 15 1/2 talents 3 minas.
+8289580b-8239-484d-ac06-7f1c2bd4da8a,letter,sentences_oare_published_texts,095cac98-9799-61c4-89e8-b3db23699db0,0.3182720837907086,"Thereof, 5 1/2 talents 3 minas of copper belonging to the merchant."
+8289580b-8239-484d-ac06-7f1c2bd4da8a,letter,sentences_oare_published_texts,58a9dabf-3ced-435f-994b-42233287ac4f,0.244641407155831,He will pay 15 1/2 talents copper from the merchant and he will pay 15 1/2 talents of copper.
+8289580b-8239-484d-ac06-7f1c2bd4da8a,letter,sentences_oare_published_texts,741a606f-ef48-24ad-cc76-63a8bea7fda7,0.325850285912915,"Ennum-Aššur said, ""Ennum-Aššur and the matter of the taṣbat of Balum, 15 1/2 talents of copper from the taṣbat of Balum and the merchant has been received the merchant."""
+8289580b-8239-484d-ac06-7f1c2bd4da8a,letter,sentences_oare_published_texts,095cac98-9799-61c4-89e8-b3db23699db0,0.2761731956484884,The remainder of the copper 10 talents Kunanamaium and 6 donkeys:
+8289580b-8239-484d-ac06-7f1c2bd4da8a,letter,sentences_oare_published_texts,624ec652-d489-482b-a557-27a3fa01273e,0.3243085574414292,"I said, ""Let your message concerning me."""
+8289580b-8239-484d-ac06-7f1c2bd4da8a,letter,sentences_oare_published_texts,1b2899f6-8936-5819-3d50-bf6a90a54478,0.2399337276756079,In 10 talents of copper and 6 talents of silver and 6 donkeys.
+8289580b-8239-484d-ac06-7f1c2bd4da8a,letter,sentences_oare_published_texts,ea26b431-4132-0c58-546b-bff29a8f6e13,0.3465039193652516,In Turḫumit to the remainder of the silver and send it to Kanesh and send it to Kanesh.
+8289580b-8239-484d-ac06-7f1c2bd4da8a,letter,sentences_oare_published_texts,2e8fe490-571b-4183-8d41-e1e2deabfe5b,0.3098871290049537,I will not pay the copper and the tin.
+8289580b-8239-484d-ac06-7f1c2bd4da8a,letter,sentences_oare_published_texts,f6b5ebf1-50c3-4998-ad35-6ffda2f4dcf5,0.8131331175820591,"If he does not release the silver and he said, ""I will send it."""
+8289580b-8239-484d-ac06-7f1c2bd4da8a,letter,sentences_oare_published_texts,8ff40d16-67be-c075-8394-8dcac3acdbc1,0.3799562096113834,"If he does not pay (on time), he does not pay (on time)."
+8289580b-8239-484d-ac06-7f1c2bd4da8a,letter,sentences_oare_published_texts,2e8fe490-571b-4183-8d41-e1e2deabfe5b,0.449332967162629,Ikūn-pīya brings you 1 talent of tin which Ikūppīya.
+8289580b-8239-484d-ac06-7f1c2bd4da8a,letter,sentences_oare_published_texts,b71c9b46-7001-8d6f-707d-f9703aec0abc,0.4857654042523753,"If he does not return to you, he will send it to you."
+8289580b-8239-484d-ac06-7f1c2bd4da8a,letter,sentences_oare_published_texts,8b5b76d4-1bcf-7230-ea70-3d55b691656d,0.3924997518020733,The remainder of your silver and I will send you your silver.
+8289580b-8239-484d-ac06-7f1c2bd4da8a,letter,sentences_oare_published_texts,e7591a56-60ec-429a-9ac0-7826240834db,0.3867480826444311,Aššur and Amurrum-bāni brought to you.
+8289580b-8239-484d-ac06-7f1c2bd4da8a,letter,sentences_oare_published_texts,3e87aad8-cd8c-4f8d-96e9-c68e062d4a1a,0.4026325354411823,You wrote to you in the colony office and you wrote to me.
+781aade5-d52a-2eff-8e8f-864d0b0eb940,letter,sentences_oare_published_texts,2a9bbdee-dcb4-425b-b6a8-3745796e6c02,0.4240240072972989,"From Aššur-nādā to Zupa, Abu-Sa and Uṣur-ša-Aššur:"
+781aade5-d52a-2eff-8e8f-864d0b0eb940,letter,sentences_oare_published_texts,ea26b431-4132-0c58-546b-bff29a8f6e13,0.398735623172179,"As for the merchant, take care to send it to you."
+781aade5-d52a-2eff-8e8f-864d0b0eb940,letter,sentences_oare_published_texts,f4a09ef4-5711-d4c1-b632-ef15a1819b59,0.4970660267257887,Take care to send the dātum and let your message come.
+781aade5-d52a-2eff-8e8f-864d0b0eb940,letter,sentences_oare_published_texts,a9b96e55-6f1f-4dcd-92d9-79c6d7971d10,0.293969064301985,As for the 5 kutānum textiles which Enna-Bēlī brings you 1 kutānum textile for the saetum of Enna-Bēlī.
+781aade5-d52a-2eff-8e8f-864d0b0eb940,letter,sentences_oare_published_texts,e9d363f4-174f-80fe-3768-b4e16a2f5bba,0.2344332321564775,"My dear brother, take care to send the silver to you."
+781aade5-d52a-2eff-8e8f-864d0b0eb940,letter,sentences_oare_published_texts,21a17c35-6bea-0e32-2b12-34215f9b6e7d,0.3552969805371945,Ilī-ālum send the silver and send it to me.
+781aade5-d52a-2eff-8e8f-864d0b0eb940,letter,sentences_oare_published_texts,8c6112b3-874e-a604-c359-d374c07fb000,0.467048647845454,The remainder of the textile is 1 abarnum.
+d3d05f8b-db87-a47d-05e4-1a3450f45e15,debt note,sentences_oare_published_texts,6a304270-b4ab-d754-229c-0b3011409603,0.5147845198425919,"Seals: Naniya s. Ḫaya, Qatātum s. Aššur-imittī, Uṣuppiškum s. Šū-Anum."
+02881b11-bceb-4f06-944c-16f030080444,debt note,sentences_oare_published_texts,d9058197-10a1-4a9f-b722-74d11f358762,0.498270810679697,Pūšu-kēn brought to Ḫuraṣānum.
+02881b11-bceb-4f06-944c-16f030080444,debt note,sentences_oare_published_texts,cffb94bb-788d-1e19-0593-1f8d1e064d86,0.6603629690460461,"Pūšu-kēn said, ""The 1 talent 14 minas 10 shekels tin and 2/3 minas 1 shekel of silver and 2/3 minas 1 shekel of silver."""
+02881b11-bceb-4f06-944c-16f030080444,debt note,sentences_oare_published_texts,8c6112b3-874e-a604-c359-d374c07fb000,0.3381992308520257,"Huraṣānum said: ""You will pay the silver and Ikūn-pīya so that Ikūn-pīya I will pay the silver and Ikūn-pīya."""
+02881b11-bceb-4f06-944c-16f030080444,debt note,sentences_oare_published_texts,b177c15d-0dd5-45fb-bc52-e77f493090f9,1.0000000000000009,The colony office of Kanesh gave us for the dagger of Aššur.
+02881b11-bceb-4f06-944c-16f030080444,debt note,sentences_oare_published_texts,ebd949f1-336f-9101-1b4f-29895c91d2c2,0.622102464958212,"Witnesses: Aḫ-šalim s. Šū-Anum, Kurara, Ikuppī-Aššur."
+f8ef08e3-bdd6-4ddc-871e-0ed2101898c9,debt note,sentences_oare_published_texts,93040e53-ffd8-43ef-a7be-163d7a58fcb4,1.0,"If he does not pay (on time), he will add interest at the rate of the colony."
+f8ef08e3-bdd6-4ddc-871e-0ed2101898c9,debt note,sentences_oare_published_texts,f66b905a-d055-4ae4-8b8b-d5cfcc339822,0.8895870123080566,Month: Kuzallu.
+6b656fae-a4e8-41a1-be59-7dfacc53f521,debt note,sentences_oare_published_texts,63316bcf-6ac1-4646-a366-37524fe34b89,0.6038234259457816,"Seals: Enlil-bāni s. Gal-Aššur, Lugal-Adad s. Nūr-Su."
+6b656fae-a4e8-41a1-be59-7dfacc53f521,debt note,sentences_oare_published_texts,63316bcf-6ac1-4646-a366-37524fe34b89,0.9999999999999992,"If he does not pay (on time), he will add 1/2 shekels refined silver."
+6b656fae-a4e8-41a1-be59-7dfacc53f521,debt note,sentences_oare_published_texts,b05376c2-fc3d-49f8-9792-a25c0df9c383,0.5108180318864978,"He will pay 8 weeks from the ḫamuštum of Ḫanaya, month Kuzalli, eponymate Enna-Suen s. Šū-Aššur."
+6b656fae-a4e8-41a1-be59-7dfacc53f521,debt note,sentences_oare_published_texts,004a7dbd-57ce-46f8-9691-409be61c676e,0.9408136774032454,"If he does not pay (on time), he will add 1/2 shekels per mina per month."
+7c22f22d-7064-4660-8072-9274f77948fa,letter,sentences_oare_published_texts,ad287135-a225-45dc-affe-a443b766d68c,0.7991378214373906,From Šū-Ḫubur to Ikūnum and Pūšu-kēn:
+7c22f22d-7064-4660-8072-9274f77948fa,letter,sentences_oare_published_texts,a03c75a7-b9ea-aeb9-1172-be1eb572eaf2,0.6468968983628841,To Ikūnum:
+7c22f22d-7064-4660-8072-9274f77948fa,letter,sentences_oare_published_texts,b067c1b8-4279-ba03-5cb5-300ae13594f6,0.3698048114600102,The tablet of your tin and textiles which you sent you your tin and textiles and send it to me.
+7c22f22d-7064-4660-8072-9274f77948fa,letter,sentences_oare_published_texts,f056fc41-771b-97c2-4d4c-9c3bdc80fd11,0.3535422892130688,Take care to send the silver of the tin and textiles to Pūšu-kēn.
+7c22f22d-7064-4660-8072-9274f77948fa,letter,sentences_oare_published_texts,8f818ff1-37e6-8aed-5614-ed818bc50fac,0.5724050715381188,"Aššur-rēʾī, Ḫanunum, Aššur-imittī s. Ikūn-pīya brings you 5 minas tin."
+7c22f22d-7064-4660-8072-9274f77948fa,letter,sentences_oare_published_texts,e982603f-b52e-e9b8-4e1e-4551016804e2,0.2879938571649351,"My dear brother, take care to pay the silver to Pūšu-kēn."
+3d7a4ce7-e2e6-4854-b816-0bb6056143da,letter,sentences_oare_published_texts,3e87aad8-cd8c-4f8d-96e9-c68e062d4a1a,0.2502160955627528,The remainder of the tablet with the tablet of the tablet.
+3d7a4ce7-e2e6-4854-b816-0bb6056143da,letter,sentences_oare_published_texts,7a563f13-abf1-0749-ced9-41ed3f3fb851,0.2765119642556763,To Aššur-taklāku to Purušḫattum:
+3d7a4ce7-e2e6-4854-b816-0bb6056143da,letter,sentences_oare_published_texts,2a3ca4b6-3673-2597-6e54-1cd0164a49ad,0.4549646971919449,"To the city of Ennanum, Ennanum."
+3d7a4ce7-e2e6-4854-b816-0bb6056143da,letter,sentences_oare_published_texts,6354886f-3ebc-464e-a74a-60b99d4bc4b7,0.3671991209109552,Take care to send the silver to the colony office.
+3d7a4ce7-e2e6-4854-b816-0bb6056143da,letter,sentences_oare_published_texts,f8acf3e3-dd2c-ed40-e759-5de38faa2876,0.2352605939296321,Aššur-nādā owes the silver and I will not return the silver.
+3d7a4ce7-e2e6-4854-b816-0bb6056143da,letter,sentences_oare_published_texts,6354886f-3ebc-464e-a74a-60b99d4bc4b7,0.4952140404398568,"From the colony said, ""I will pay the colony."""
+3d7a4ce7-e2e6-4854-b816-0bb6056143da,letter,sentences_oare_published_texts,790ca618-d259-4a1a-9a76-75c79187926b,0.2644529366774905,The remainder of the tablet which you sent the tablet and send it to you.
+3d7a4ce7-e2e6-4854-b816-0bb6056143da,letter,sentences_oare_published_texts,4a1ecde0-c0f0-4170-a0bf-bc8fc0c997a9,0.3319092391587376,The colony will not return to Purušḫattum.
+3d7a4ce7-e2e6-4854-b816-0bb6056143da,letter,sentences_oare_published_texts,3ef93e68-b40a-4e5a-a839-aa7a710c23d8,0.4739151032225498,"From the tablet of the tablet with Ilī-ašranni, take care to send it to you."
+3d7a4ce7-e2e6-4854-b816-0bb6056143da,letter,sentences_oare_published_texts,fc3de9fb-ef9e-f45b-178b-d149f7a78a71,0.2365448372741129,"My dear brother, take care to send the silver 1 shekel of silver and send it to me."
+3d7a4ce7-e2e6-4854-b816-0bb6056143da,letter,sentences_oare_published_texts,5355b050-b963-439b-927c-a2e7052ba44c,0.2413896108388503,"My dear brothers, take care to concerning your house."
+3d7a4ce7-e2e6-4854-b816-0bb6056143da,letter,sentences_oare_published_texts,a9b96e55-6f1f-4dcd-92d9-79c6d7971d10,0.2758809986560774,Asuri brought to you from the representatives of the representatives from the representatives of the representatives and send it to you.
+3d7a4ce7-e2e6-4854-b816-0bb6056143da,letter,sentences_oare_published_texts,d02a5c63-2f61-5f78-2abd-66a9f6431cf9,0.3611497720525735,"If he does not return to you, he does not return to you."
+3d7a4ce7-e2e6-4854-b816-0bb6056143da,letter,sentences_oare_published_texts,bdd8fd66-38cd-749e-aea7-bb7cf0b9576b,0.2030511646453527,"If you wrote to you, you will send it to you."
+e59d4ca4-4a78-4867-a1d0-000b68478917,letter,sentences_oare_published_texts,3d77efb5-919d-0477-a643-11aef589e749,0.3034597791183365,To Bēlum-bāni from Tariša:
+e59d4ca4-4a78-4867-a1d0-000b68478917,letter,sentences_oare_published_texts,060f609d-36ae-16d2-f3b3-2db864a8d034,0.4558200903203666,The remainder of your textiles and send it to you.
+e59d4ca4-4a78-4867-a1d0-000b68478917,letter,sentences_oare_published_texts,f056fc41-771b-97c2-4d4c-9c3bdc80fd11,0.4476641213385229,"If he does not pay (on time), he will pay the silver and send it to me."
+e59d4ca4-4a78-4867-a1d0-000b68478917,letter,sentences_oare_published_texts,e55337cc-5128-4fd5-eb7e-b96c217c90f9,0.3866890905896196,"My dear brother, so that you wrote me and send it to you."
+9d23fc8a-a82a-497c-ae4a-e1c01cc184b0,unknown,sentences_oare_published_texts,771e48d1-5ad1-63d5-7ced-690a01102f98,0.3716025227041696,Kuzāya and Šū-Bēlum owe 16 shekels silver.
+08624a43-c152-bab9-5a07-b55fa18bd889,letter,sentences_oare_published_texts,c1acb3d5-7c26-411a-84c0-0bbd84689b20,1.0,To Puzur-Aššur from Il-wēdāku:
+9bdc7305-55f6-4d9b-8d11-fb1a07993ed4,unknown,sentences_oare_published_texts,82a8cb91-3909-4c10-b616-d1d050c528bf,0.4636159005656405,He will pay 6 weeks from the ḫamuštum of Šat-Adad and Aššur-mālik.
+557118c6-2ff1-4799-588a-a1a22cf04598,unknown,sentences_oare_published_texts,fe0e1e0b-a7a1-e822-89c8-f40ae7ab6323,0.3753869882171731,The tablet of 10 minas silver belonging to Amur-Ištar to Ilī-ālum and Ilī-ālum send it to Buzutaya.
+557118c6-2ff1-4799-588a-a1a22cf04598,unknown,sentences_oare_published_texts,e1b388e1-f351-f18d-9b88-16b0777383cf,0.2521828219764609,If he does not give the 10 minas silver to Purušḫattum of Ilī-ālum to Amur-Ištar to Amur-Ištar.
+557118c6-2ff1-4799-588a-a1a22cf04598,unknown,sentences_oare_published_texts,c3869625-13bf-4e73-9ed6-2d15832d93b3,0.4574502494537361,"Witnesses: Aššur-mālik s. Luzina, Iddin-abum s. Aššur-rabi."
+557118c6-2ff1-4799-588a-a1a22cf04598,unknown,sentences_oare_published_texts,90504a88-592e-4309-8a75-5048c7a6d556,0.3381282533787957,"To Buzutaya, the remainder of the tablet."
+7b6c1e5c-6a5a-4d61-10aa-0451b9f8d3d8,letter,sentences_oare_published_texts,16cef975-beef-47dc-972d-e7364c3701b5,0.4668152890660771,To Šū-Ištar from Ilī-bāni:
+7b6c1e5c-6a5a-4d61-10aa-0451b9f8d3d8,letter,sentences_oare_published_texts,845eed04-4d04-2667-a797-b7d62b5b9bd4,0.2924832919850861,Aššur-taklāku brings you 1 mina 3 shekels silver which Aššur-taklāku brings you 1 kutānum textile and 1 kutānum textile to you.
+7b6c1e5c-6a5a-4d61-10aa-0451b9f8d3d8,letter,sentences_oare_published_texts,41fa4e9a-5e44-9462-5ce3-d74719aea3ba,0.2710777156938635,"My dear brother, send me the textiles and send it to you."
+7b8b9d51-b06b-4c7e-aa75-08f59a446655,debt note,sentences_oare_published_texts,1e6c1075-3950-8067-87c1-d096641fbd58,0.6995019365644963,"Witnesses: Ilabrat-bāni, Mannu-kī-Aššur."
+1934cceb-b4b4-d1e0-480f-c89e1d748250,unknown,sentences_oare_published_texts,f056fc41-771b-97c2-4d4c-9c3bdc80fd11,0.3454207998829954,The silver belonging to the silver which Aššur-taklāku son of Šū-Enlil brings you to you.
+1934cceb-b4b4-d1e0-480f-c89e1d748250,unknown,sentences_oare_published_texts,71be8ed8-27b2-47e3-849c-809fc0b3a99f,0.4992214943964995,"I gave 1 mina 9 shekels of silver, 1 mina 9 shekels of silver, 1 donkey, 1 donkey of Abīni, 1 donkey of Al-aḫum, 1 donkey of Al-aḫum."
+1934cceb-b4b4-d1e0-480f-c89e1d748250,unknown,sentences_oare_published_texts,bc166461-a9e9-c3ae-5169-bdbfcad4e4bd,0.4589884864027959,"From the 80 minas of copper in Burušḫattum of Aššur-nādā, 6 minas of Aššur-nādā."
+1934cceb-b4b4-d1e0-480f-c89e1d748250,unknown,sentences_oare_published_texts,c9ef2bee-c618-e10f-88d9-f5e13c274ec9,0.597375487478177,As for the silver which you did not release the silver.
+1934cceb-b4b4-d1e0-480f-c89e1d748250,unknown,sentences_oare_published_texts,bc166461-a9e9-c3ae-5169-bdbfcad4e4bd,0.5087305122255369,"From the 5 textiles belonging to Burušḫattum, 4 shekels belonging to Burušḫattum, 4 shekels be"
+1934cceb-b4b4-d1e0-480f-c89e1d748250,unknown,sentences_oare_published_texts,60949893-43bb-328e-8ea5-e6a244c3bfbe,0.4293572507142163,"My dear brothers, he will not return to him."
+bca57ef7-f04e-8d46-283e-94018da9abb9,letter,sentences_oare_published_texts,97814ab2-44c4-ac8e-65fd-33eeca322985,0.6676106775050764,"To Pūšu-kēn from Aḫu-waqar, Puzur-Aššur and Dān-Aššur:"
+bca57ef7-f04e-8d46-283e-94018da9abb9,letter,sentences_oare_published_texts,a448c4e8-e8e7-df43-b793-375583361a94,0.6037398147183857,"I said, ""You said, ""The 33 minas silver to you."""
+bca57ef7-f04e-8d46-283e-94018da9abb9,letter,sentences_oare_published_texts,5714da19-2a0a-5c00-4b40-2b6fd729b4b2,0.2910835166618598,If he does not release the house of the house.
+bca57ef7-f04e-8d46-283e-94018da9abb9,letter,sentences_oare_published_texts,9ee9bff8-e38e-88cf-8d77-7e0bad55b161,0.391339077558712,The 1 mina of silver belonging to Ilī-mālik brought 1 mina of silver which Ilī-mālik brought to you.
+bca57ef7-f04e-8d46-283e-94018da9abb9,letter,sentences_oare_published_texts,842f390f-7848-46b8-b9c1-86cadb3ee753,0.3724876096129894,Take care to send the tin to you.
+bca57ef7-f04e-8d46-283e-94018da9abb9,letter,sentences_oare_published_texts,b1ee0540-67dc-4d6c-a9dd-617f4a809829,0.420821837806285,"My dear brother, send it to you."
+bca57ef7-f04e-8d46-283e-94018da9abb9,letter,sentences_oare_published_texts,f351df44-835c-1ba6-5c11-a88d08406b0b,0.3212272401526132,He will pay 7 1/2 minas 2 shekels silver in the presence of Gazia.
+bca57ef7-f04e-8d46-283e-94018da9abb9,letter,sentences_oare_published_texts,436c92f2-c6a8-8677-c76a-a062d9ce878e,0.3263859332213348,He will pay 1/2 mina 7 shekels silver from the colony office.
+bca57ef7-f04e-8d46-283e-94018da9abb9,letter,sentences_oare_published_texts,60949893-43bb-328e-8ea5-e6a244c3bfbe,0.5295464825834991,"As for the raqqatum which you wrote to you, I will not return to you."
+75ec2418-612d-bea9-6267-95f5b70d112f,note,sentences_oare_published_texts,f6af4a38-990e-a4af-ccd2-3833811c2041,0.5534398724568633,"The 43 minas of copper which Kunilim and Idī-Ištar brought to you, 1 talent 2 minas of silver which Kunilim and Idī-Ištar brought 4 talents 28 minas of kārum, Aššur-nādā brought 4 talents 28 minas of kārum, Aššur-nādā."
+75ec2418-612d-bea9-6267-95f5b70d112f,note,sentences_oare_published_texts,f6af4a38-990e-a4af-ccd2-3833811c2041,0.5027167928134479,As for the 1 talent 23 minas which Aššur-ṭāb did not give the 3 talents 10 minas which Aššur-ṭāb brought to Aššur-ṭāb.
+a3672609-d8c0-45cb-99c9-5402b9985eb2,unknown,sentences_oare_published_texts,0797c1df-5216-4dc3-aec3-85dd09232293,0.8234378296839968,"If he does not pay (on time), he will add 1/2 shekels per mina per month as interest."
+01a7c36e-5c10-4480-a1f8-dc368f76b544,unknown,sentences_oare_published_texts,95445314-2aa6-4e78-85d3-58bb252ffdc8,0.3026654807005873,"As for the zamrī-wāti, 2 minas silver, 6 shekels silver for the emeri of Anum in Qaṭara."
+01a7c36e-5c10-4480-a1f8-dc368f76b544,unknown,sentences_oare_published_texts,06f26425-39f7-2977-f7c5-70317195ecde,0.2469175454598854,The zamrīwati is in Našila to Elāti.
+01a7c36e-5c10-4480-a1f8-dc368f76b544,unknown,sentences_oare_published_texts,771e48d1-5ad1-63d5-7ced-690a01102f98,0.2476990522216723,"As for the 6 zamrīwāti from Ḫazura, you wrote to Elāti."
+33eb41ab-deca-5a7e-bfc9-1f5594312720,letter,sentences_oare_published_texts,70d948ce-c64d-f940-6d87-af5b300c4b85,0.6631659330767007,"To Pūšu-kēn, Innāya and Kiliya, says Šū-Kūbum:"
+33eb41ab-deca-5a7e-bfc9-1f5594312720,letter,sentences_oare_published_texts,7a0b2e68-efd1-f7b0-3e56-750ae8ae11f3,0.3985504381742848,Why is it that you wrote to you and let your message concerning the merchant.
+33eb41ab-deca-5a7e-bfc9-1f5594312720,letter,sentences_oare_published_texts,d500bda3-de86-5882-5e16-d5fb30bb9c88,0.8242641925782702,"As for the panitum, you wrote to me."
+33eb41ab-deca-5a7e-bfc9-1f5594312720,letter,sentences_oare_published_texts,f351df44-835c-1ba6-5c11-a88d08406b0b,0.3257916596242466,"As for the silver belonging to Apatanānum, saying: ""I will pay the silver from Šamaš-tappā and saying: ""I will pay the silver from Šamaš-tappā and send it to you."""
+33eb41ab-deca-5a7e-bfc9-1f5594312720,letter,sentences_oare_published_texts,cde3a4b0-6249-49ec-a62b-4fee8d458cb2,0.3783999124017372,"As for the merchant, the merchant is bound to the merchant."
+33eb41ab-deca-5a7e-bfc9-1f5594312720,letter,sentences_oare_published_texts,1342cbc6-31e7-1901-7b2c-d27c91757cc8,0.3892672964727338,"From the silver of Apatanānum to Kiliya, send it to me."
+33eb41ab-deca-5a7e-bfc9-1f5594312720,letter,sentences_oare_published_texts,cde3a4b0-6249-49ec-a62b-4fee8d458cb2,0.693260791912483,The silver belonging to the merchandise of the merchant.
+33eb41ab-deca-5a7e-bfc9-1f5594312720,letter,sentences_oare_published_texts,b5cfac6a-d1f2-4566-9288-8f290a8bc233,0.3151399500479139,The textiles belonging to the textiles which you brings you to you.
+33eb41ab-deca-5a7e-bfc9-1f5594312720,letter,sentences_oare_published_texts,3c72b1e0-9c12-4065-63ab-80e82ebaadf8,1.0000000000000004,The silver do not send it to me.
+33eb41ab-deca-5a7e-bfc9-1f5594312720,letter,sentences_oare_published_texts,9715151b-501a-4b99-874f-10eb770c6ae7,0.3662185010328922,"My dear brother, take care to an agreement of the transport, and the transport of the batiqum."
+33eb41ab-deca-5a7e-bfc9-1f5594312720,letter,sentences_oare_published_texts,0126cd13-acf7-4cd5-8373-f1e7b54d824e,0.3484082002955741,"I said, ""I will not return to you."""
+33eb41ab-deca-5a7e-bfc9-1f5594312720,letter,sentences_oare_published_texts,1b2899f6-8936-5819-3d50-bf6a90a54478,0.2463824253585719,Maṣi-bēlī and Išar-lubalaṭ took the silver.
+33eb41ab-deca-5a7e-bfc9-1f5594312720,letter,sentences_oare_published_texts,6f7565ae-efe0-427d-9f7f-c8f72af0839e,0.3050181117538673,"If he does not release Šamaš-tappāi, mannum-kī-abiya and Adaya in the presence of the merchant."
+33eb41ab-deca-5a7e-bfc9-1f5594312720,letter,sentences_oare_published_texts,82c04b91-0c02-872a-6c77-aa8cc234e77b,0.3759160928128947,If he does not give it to the colony office.
+33eb41ab-deca-5a7e-bfc9-1f5594312720,letter,sentences_oare_published_texts,060449c3-ad2b-01f7-86c9-47435f95ad7c,0.3103995117055224,If he does not release the silver and if he does not release the silver which you did not release the silver of 1 talent of silver and send it to you.
+33eb41ab-deca-5a7e-bfc9-1f5594312720,letter,sentences_oare_published_texts,1342cbc6-31e7-1901-7b2c-d27c91757cc8,0.3625491661987828,"My dear brothers, send it to me."
+33eb41ab-deca-5a7e-bfc9-1f5594312720,letter,sentences_oare_published_texts,528c1898-373b-4bdb-8b13-b69da6ea18f4,0.4006254287373808,"My dear brothers, take care to send it to you."
+33eb41ab-deca-5a7e-bfc9-1f5594312720,letter,sentences_oare_published_texts,ae57adcb-5561-406c-b0bc-7428231a16b0,0.1770480826341536,"If he does not release the silver, he will not release the silver."
+467aae38-1ab4-434a-a479-0ef90bb71752,debt note,sentences_oare_published_texts,f8aa8ca7-4b01-43d3-9868-35a43c3f551b,0.5302784894177702,Amur-Aššur s. Iddin-ilum owes Ennum-Aššur 1 mina refined silver.
+467aae38-1ab4-434a-a479-0ef90bb71752,debt note,sentences_oare_published_texts,a6c0b804-f4f6-4df2-893d-f07bf1b72d15,0.6190836908565895,He will pay 66 weeks from the ḫamuštum of Šū-Kūbim and Elama.
+467aae38-1ab4-434a-a479-0ef90bb71752,debt note,sentences_oare_published_texts,0890a642-8c2d-ad16-e1dc-1a8011d7c707,0.9143261370169996,"If he does not pay (on time), he will add 1/2 shekels per mina per month."
+467aae38-1ab4-434a-a479-0ef90bb71752,debt note,sentences_oare_published_texts,90504a88-592e-4309-8a75-5048c7a6d556,1.0,Month: Maḫḫur-ilī
+467aae38-1ab4-434a-a479-0ef90bb71752,debt note,sentences_oare_published_texts,75ebdce1-de9e-4fe0-852d-fcf22df57de8,0.4113017611170678,"Witnesses: Susaya, Ṣilli-Ištar, Aššur-mālik."
+7d2eb16d-6f1d-378f-dc7d-5927d52d4b05,letter,sentences_oare_published_texts,6ebae82c-fa66-119c-0d8b-89f74711f9d2,0.7966367265127298,"To Šalim-aḫum, Ḫinnaya, Aššur-imittī, Tariš-mātum and Bēlātum:"
+7d2eb16d-6f1d-378f-dc7d-5927d52d4b05,letter,sentences_oare_published_texts,51ca2050-d5f7-dbc6-0e9a-db2202d6f724,0.485993673707389,The tablet of the city and the tablet of the city and take care to send it to you.
+7d2eb16d-6f1d-378f-dc7d-5927d52d4b05,letter,sentences_oare_published_texts,cd7efda7-b436-35f0-9c9e-d9e368a07f01,0.4578128592018936,"As for the silver and send it to me, send it to me and send it to me."
+7d2eb16d-6f1d-378f-dc7d-5927d52d4b05,letter,sentences_oare_published_texts,cffb94bb-788d-1e19-0593-1f8d1e064d86,0.3666643599153343,"I gave 1 mina of silver, 1 mina of silver to rabiṣum."
+7d2eb16d-6f1d-378f-dc7d-5927d52d4b05,letter,sentences_oare_published_texts,f75bb260-afdb-c5fc-b330-74566fef3aef,0.3521990980200965,I gave 10 minas silver and send it to you.
+7d2eb16d-6f1d-378f-dc7d-5927d52d4b05,letter,sentences_oare_published_texts,fccb4d69-5ca0-e152-6d50-a85033819522,0.3766436378679856,"I gave 2 shekels silver, 1 mina tin to Imgua."
+7d2eb16d-6f1d-378f-dc7d-5927d52d4b05,letter,sentences_oare_published_texts,8ba6e3bb-c4c3-6ca5-1c4f-96ed2fbab652,0.3081935767316502,"The tablet of the city which Aššur-mālik brought to the silver of Aššur-mālik, in the city of the city with the silver of Aššur-mālik."
+7d2eb16d-6f1d-378f-dc7d-5927d52d4b05,letter,sentences_oare_published_texts,60949893-43bb-328e-8ea5-e6a244c3bfbe,0.5332546831538045,"My dear father, do not give him."
+7d2eb16d-6f1d-378f-dc7d-5927d52d4b05,letter,sentences_oare_published_texts,86351067-e17c-4d46-912c-dad2b52173ba,0.4280359929194519,The remainder of the tablet is bound to the tablet.
+7d2eb16d-6f1d-378f-dc7d-5927d52d4b05,letter,sentences_oare_published_texts,3d77efb5-919d-0477-a643-11aef589e749,0.8661941013465161,To Pūšu-kēn from Tariš-mātum and Bēlātum:
+7d2eb16d-6f1d-378f-dc7d-5927d52d4b05,letter,sentences_oare_published_texts,60949893-43bb-328e-8ea5-e6a244c3bfbe,0.3001998600612562,"As for the silver which you wrote to you, send the silver and send it to you."
+67e8e7e1-61c1-4455-b4a0-f31f5e96e999,debt note,sentences_oare_published_texts,004a7dbd-57ce-46f8-9691-409be61c676e,0.9408136774032454,"If he does not pay (on time), he will add 1/2 shekels per mina per month."
+67e8e7e1-61c1-4455-b4a0-f31f5e96e999,debt note,sentences_oare_published_texts,e1901b10-62d4-403e-8fe1-6ca8c1aec383,0.5755009994720551,Month: Kanbartan.
+81746827-760f-4114-9554-b2d63cbeb7be,unknown,sentences_oare_published_texts,8fa7f521-c563-4b20-8d89-5be17ec9a078,0.5783354699877997,"Seals: Aššur-rēʾī s. Aššur-iš-tikal, Dūr-Aššur s. Puzur-Ištar, Aššur-nādā s. Irnuid."
+81746827-760f-4114-9554-b2d63cbeb7be,unknown,sentences_oare_published_texts,9361f2a9-c921-47f4-869f-615f76cf20db,0.4933553820539224,"Aššur-nādā s. Irnu-id, Aššur-rēʾī owes Aššur-rēʾī 1/2 mina 6 1/2 shekels silver."
+81746827-760f-4114-9554-b2d63cbeb7be,unknown,sentences_oare_published_texts,b4e72204-0f67-4d9a-85c0-df0ae2a780d8,0.4706948000862027,Aššur-nādā s. Irnuid owes 13 minas refined silver.
+8996c325-4b39-4216-8d0f-519d3c3bc7d7,unknown,sentences_oare_published_texts,9adfa917-5817-4e2d-9741-7e10ab64809b,0.6274759830547273,"Seals: Ušnama s. Maḫiri, Zula, Ḫištaḫšu, Ḫanu, Šupputaḫšu, Lābarša, Tamuria."
+8996c325-4b39-4216-8d0f-519d3c3bc7d7,unknown,sentences_oare_published_texts,2e8fe490-571b-4183-8d41-e1e2deabfe5b,0.1650780494925395,He will pay the silver to Labarša and Tamuriya.
+8996c325-4b39-4216-8d0f-519d3c3bc7d7,unknown,sentences_oare_published_texts,f38b3567-9851-b878-eef6-8916e89f3f87,0.3479478232613946,"My dear brother, do not return to the city."
+8996c325-4b39-4216-8d0f-519d3c3bc7d7,unknown,sentences_oare_published_texts,bc4a065c-b1ce-efe7-384c-2b884a55db6a,0.6103954996340726,He will pay 5 minas silver.
+8996c325-4b39-4216-8d0f-519d3c3bc7d7,unknown,sentences_oare_published_texts,75958e62-7e1a-b253-b9b9-4669437491ab,0.2458323345585931,"My dear father, take care to send it to you."
+f82be7a5-548a-4176-69ae-91f52edec93f,letter,sentences_oare_published_texts,46ec85ef-f278-43a9-b57d-39504e76ab73,0.7757162384483373,"To Pūšu-kēn from Aššur-mālik, Iašar and Adad-ṣulūlī:"
+f82be7a5-548a-4176-69ae-91f52edec93f,letter,sentences_oare_published_texts,46ec85ef-f278-43a9-b57d-39504e76ab73,0.2808253766888888,The remainder of the copper of Puzur-Aššur will pay the copper of Ea-šar.
+f82be7a5-548a-4176-69ae-91f52edec93f,letter,sentences_oare_published_texts,b0af711c-fa4a-a967-8ac3-d23c9c7ead85,0.4453961855825884,"If they do not release the copper in Burušḫattum, do not release the tin and textiles to Burušḫattum."
+f82be7a5-548a-4176-69ae-91f52edec93f,letter,sentences_oare_published_texts,b0af711c-fa4a-a967-8ac3-d23c9c7ead85,0.4085667062918308,"My dear brother, send it to Burušḫattum, send it to Burušḫattum."
+f82be7a5-548a-4176-69ae-91f52edec93f,letter,sentences_oare_published_texts,46ec85ef-f278-43a9-b57d-39504e76ab73,0.3266486938157525,"If he does not pay the tablet of Puzur-Aššur and send it to me, send it to me."
+f82be7a5-548a-4176-69ae-91f52edec93f,letter,sentences_oare_published_texts,3ef93e68-b40a-4e5a-a839-aa7a710c23d8,0.3799702598914148,Take care to send the tablet and send it to me.
+4d531959-088f-50a6-e0fd-212bb447a4b7,letter,sentences_oare_published_texts,211d86ac-d2aa-b507-a7ad-9e59e51d5fb5,0.3972941156544384,To Muza and Pūšu-kēn to Muza from Lamašša:
+4d531959-088f-50a6-e0fd-212bb447a4b7,letter,sentences_oare_published_texts,2568e284-ffa5-518a-69a6-a32101513437,0.1574162619507293,"Alunatum of Sipari and Šalašišu brings you 2 suppanu-mameri, 3 Ḫaṣinu-kālapu, 4 Arzalu and 1 siru of 20 minas of silver."
+4d531959-088f-50a6-e0fd-212bb447a4b7,letter,sentences_oare_published_texts,4ee3a523-3d96-8a1c-1a03-0d468ff74477,0.4114994698944085,"My dear brother, take care to Pūšu-kēn."
+4d531959-088f-50a6-e0fd-212bb447a4b7,letter,sentences_oare_published_texts,3d3f904f-5ce0-46dd-815c-e36d32e67396,0.1681272099360169,"My dear brother, take care to concerning the 7 donkeys."
+4d531959-088f-50a6-e0fd-212bb447a4b7,letter,sentences_oare_published_texts,eed98f0b-5504-444d-8c03-c533a6113943,0.2615185166646455,"As for the 3 donkeys to Peruwa, you wrote to Peruwa."
+4d531959-088f-50a6-e0fd-212bb447a4b7,letter,sentences_oare_published_texts,8ec16c18-6201-1ec9-cf7f-8084e7c1ef77,0.212025149112695,The remainder of your textiles to Arna.
+4d531959-088f-50a6-e0fd-212bb447a4b7,letter,sentences_oare_published_texts,fc3de9fb-ef9e-f45b-178b-d149f7a78a71,0.2414214114149638,Take care to send it to you.
+cab0b882-4f07-5653-9106-0a6f92ed500d,unknown,sentences_oare_published_texts,f38b3567-9851-b878-eef6-8916e89f3f87,0.341759646921478,As for the wabartum which you sent the tablet of the colony and Aššur-mutabbil son of Pūšu-kēn and the tablet of your tablet and the tablet of your tablet.
+cab0b882-4f07-5653-9106-0a6f92ed500d,unknown,sentences_oare_published_texts,8521abca-f30e-41b7-b7bc-9a0789adb77e,0.2874671000113779,"If you wrote to Kanesh, when you wrote to Kanesh, when you wrote to Kanesh."
+cab0b882-4f07-5653-9106-0a6f92ed500d,unknown,sentences_oare_published_texts,e1901b10-62d4-403e-8fe1-6ca8c1aec383,0.7256185477013496,"Month: Kanmarta, eponymate Buzutaya."
+599b9fc7-6ba7-327c-feff-66b52b1cab87,letter,sentences_oare_published_texts,211d86ac-d2aa-b507-a7ad-9e59e51d5fb5,0.4278313423706005,To Muza from Lamassī:
+599b9fc7-6ba7-327c-feff-66b52b1cab87,letter,sentences_oare_published_texts,e1b388e1-f351-f18d-9b88-16b0777383cf,0.2848720061727041,"If he does not release the silver to Pūšu-kēn, send it to Pūšu-kēn."
+599b9fc7-6ba7-327c-feff-66b52b1cab87,letter,sentences_oare_published_texts,9d1362bb-ecbd-adb7-68a8-2fed38f0c971,0.4676691679772863,"As for the textiles, let your message come and send it to me."
+599b9fc7-6ba7-327c-feff-66b52b1cab87,letter,sentences_oare_published_texts,a78670e2-3087-12ab-db75-35755e42a13f,0.4457703716185155,Take care to send it to me.
+599b9fc7-6ba7-327c-feff-66b52b1cab87,letter,sentences_oare_published_texts,0353403c-b86d-788b-17bb-d3c693319cdb,0.5737830624040532,"My dear brother, do not send it to you."
+599b9fc7-6ba7-327c-feff-66b52b1cab87,letter,sentences_oare_published_texts,33312dc1-66d5-7639-cba2-86988f1a4f85,0.4241696287089713,"My dear father, take care to send it."
+599b9fc7-6ba7-327c-feff-66b52b1cab87,letter,sentences_oare_published_texts,82c04b91-0c02-872a-6c77-aa8cc234e77b,0.2562359376211274,The tablet which you wrote to Ilī-iš-tīkal will not return to Ilī-iš-takil.
+599b9fc7-6ba7-327c-feff-66b52b1cab87,letter,sentences_oare_published_texts,8c6112b3-874e-a604-c359-d374c07fb000,0.3722156884414649,Pūšu-kēn brings you to you.
+599b9fc7-6ba7-327c-feff-66b52b1cab87,letter,sentences_oare_published_texts,c5cfad37-9ac0-54c8-89cf-515fefd2cf5d,0.3762111290296933,"My dear brother, do not release the silver to Ennēya."
+51a85c73-6914-1e87-6f91-946ec91d9bdd,letter,sentences_oare_published_texts,d6bff9ca-1ac3-4695-ae22-46272ac8c4c1,0.749051483057471,To Pūšu-kēn and Ilabrat-bāni from Ilabrat-bāni:
+51a85c73-6914-1e87-6f91-946ec91d9bdd,letter,sentences_oare_published_texts,60949893-43bb-328e-8ea5-e6a244c3bfbe,0.359045505216858,"I said, ""Let your message come to you and let your message come to you."""
+51a85c73-6914-1e87-6f91-946ec91d9bdd,letter,sentences_oare_published_texts,8c6112b3-874e-a604-c359-d374c07fb000,0.428833314767602,He will pay 1 talent tin from Ḫuraṣānum.
+51a85c73-6914-1e87-6f91-946ec91d9bdd,letter,sentences_oare_published_texts,b3b82fd6-a16d-4e26-8d3c-cec5fe08b1c7,0.5832006271354018,Amur-Aššur s. Šū-Ištar owes 1 talent 2 talents.
+51a85c73-6914-1e87-6f91-946ec91d9bdd,letter,sentences_oare_published_texts,d9d41f79-606b-3589-cf47-2179bbe3f0ad,0.2835609106551017,They will send 1 mina of tin for the tin.
+51a85c73-6914-1e87-6f91-946ec91d9bdd,letter,sentences_oare_published_texts,9543cb25-d266-558e-a628-9129840f806b,0.5452250781215594,Take care to send the textiles to the colony office.
+51a85c73-6914-1e87-6f91-946ec91d9bdd,letter,sentences_oare_published_texts,51ae78ca-2d56-e281-5580-e7480ad582f8,0.3572117430727413,"If you sent the silver to your instructions and let your message come and send it to you, send it to you."
+51a85c73-6914-1e87-6f91-946ec91d9bdd,letter,sentences_oare_published_texts,d7f31909-9236-d776-8fb0-b8575400e6d8,0.377381071789378,"Month: Ištar-mālik, I will send it to you."
+51a85c73-6914-1e87-6f91-946ec91d9bdd,letter,sentences_oare_published_texts,e36156bd-0d3f-cbb3-4ace-5a3136edc1e4,0.2938493060521192,As for the silver which Ilī-bāni did not give you a single shekel of silver to you.
+51a85c73-6914-1e87-6f91-946ec91d9bdd,letter,sentences_oare_published_texts,8dc07a70-43cd-c65c-7de7-3594c557ad01,0.609657387805614,"My dear brother, send it to me."
+b3aac906-9c4c-4f2c-b749-54a90685abba,unknown,sentences_oare_published_texts,d8353c99-9f30-4afb-8dc1-0ee7fc6ba3b8,0.6294489040801049,"Seals: Aba, Idī-Adad, Puzur-Aššur."
+b3aac906-9c4c-4f2c-b749-54a90685abba,unknown,sentences_oare_published_texts,eac96f09-f267-4517-a2ba-6aba4ba8e987,0.7008238805975159,He will add 1/2 shekels per mina per month from the ḫamuštum of Lāqēp and Nāb-Suen.
+941b6c20-e20d-87f4-9908-95c464567939,letter,sentences_oare_published_texts,33312dc1-66d5-7639-cba2-86988f1a4f85,0.8001210628369825,To Al-aḫum and Aššur-taklāku from Aššur-nādā:
+941b6c20-e20d-87f4-9908-95c464567939,letter,sentences_oare_published_texts,75ebdce1-de9e-4fe0-852d-fcf22df57de8,0.3577502131805419,Hananum s. Ikuppiya s. Ikuwa owes the 1 mina refined silver.
+941b6c20-e20d-87f4-9908-95c464567939,letter,sentences_oare_published_texts,75edf89e-29a3-7983-aab6-f46004873544,0.3195791294657027,From the nisḫasu and Šadū-Aššur and Šadū-Aššur to the silver and the textiles of the textiles and the textiles of the silver.
+941b6c20-e20d-87f4-9908-95c464567939,letter,sentences_oare_published_texts,75edf89e-29a3-7983-aab6-f46004873544,0.2616096738064812,"From the ḫamuštum of Eli-unini, he will pay the saḫiri."
+619af624-f619-401a-b775-752c146f48c6,unknown,sentences_oare_published_texts,f75738e1-470e-4f65-8928-fb27c1e6c4b6,0.7308322427914739,He will add 1/2 shekels per mina per month from the ḫamuštum of Amurrum-bāni and Ikūnim.
+619af624-f619-401a-b775-752c146f48c6,unknown,sentences_oare_published_texts,76de9ecf-ac92-4b5e-894a-424457e80e60,0.4978697807241037,Witnesses: Aššur-Šamšī s. Ibni-ilī.
+535bd551-c967-82ed-7293-7939a586e411,letter,sentences_oare_published_texts,8521abca-f30e-41b7-b7bc-9a0789adb77e,0.6341580615581597,"To Pūšu-kēn from Aššur-Šamšī, Puzur-Ištar and Aššur-mālik:"
+535bd551-c967-82ed-7293-7939a586e411,letter,sentences_oare_published_texts,d0693a9e-ccea-54da-a602-acb7e233aa2f,0.3661842596417223,"Puzur-Šamaš brings you 1 mina silver under my seal, Puzur-Šamaš brings you 1 mina silver."
+02176c1f-e00b-4716-b41a-5ad8271c165d,debt note,sentences_oare_published_texts,a3bb3f59-b3dd-436e-a2ea-ebe049455293,0.60149102812991,Dādāya owes Ikūn-pīya 1/2 mina refined silver.
+02176c1f-e00b-4716-b41a-5ad8271c165d,debt note,sentences_oare_published_texts,8bf2c1df-63d4-4f24-bea3-0fb595ae0a7a,0.6071883488241009,He will pay 6 weeks from the ḫamuštum of Innām-Aššur.
+02176c1f-e00b-4716-b41a-5ad8271c165d,debt note,sentences_oare_published_texts,a9ab61cf-5963-c180-3898-27a76268fb99,0.9478104505197148,"If he does not pay (on time), he will add 1/2 shekels per mina per month."
+02176c1f-e00b-4716-b41a-5ad8271c165d,debt note,sentences_oare_published_texts,5715f83c-6eb6-4a5a-9fa8-302f3d627027,1.0000000000000009,Month: Teʾinātim.
+02176c1f-e00b-4716-b41a-5ad8271c165d,debt note,sentences_oare_published_texts,5715f83c-6eb6-4a5a-9fa8-302f3d627027,0.5806612270095541,"Witnesses: Aššur-durī, Abu-šalim."
+907c804b-640d-71b6-aa83-db91fc233bca,letter,sentences_oare_published_texts,58d7ef78-49f1-44af-bc76-cd08de3bd0b9,0.5730435481280185,"Seals: Amurrum-bāni s. Manana, Puzur-ša-Aššur s. Aššur-mālik, Ilabrat-bāni s. Aššur-mālik, Idī-Ištar s. Aššur-mālik."
+907c804b-640d-71b6-aa83-db91fc233bca,letter,sentences_oare_published_texts,f2bc521e-b3c0-4d4a-a777-d241665a16f7,0.4946237401040174,"Witnesses: Uṣur-ša-Aššur, Ilabrat-bāni and Idī-Ištar s. Aššur-mālik, Pūšu-kēn 2 minas refined silver."
+907c804b-640d-71b6-aa83-db91fc233bca,letter,sentences_oare_published_texts,f2bc521e-b3c0-4d4a-a777-d241665a16f7,0.4323698838186351,"To Pūšu-kēn in the city, he will add 1/2 shekels per mina per month as interest."
+907c804b-640d-71b6-aa83-db91fc233bca,letter,sentences_oare_published_texts,149708d1-4787-4eea-adb1-b6276c908c41,0.3821434826285162,He will pay the silver in the city.
+907c804b-640d-71b6-aa83-db91fc233bca,letter,sentences_oare_published_texts,f5f41f5f-1ef9-0d31-b1b0-a17adab76035,0.9616081570562056,"They will pay (on time), he will pay the rate of the colony."
+907c804b-640d-71b6-aa83-db91fc233bca,letter,sentences_oare_published_texts,63322d49-4b8b-4ce9-9fad-9455614fb356,0.3282541671066505,If he does not pay the silver from the tablet of 12 1/2 minas silver and its interest of the debt of Uṣur-ša-Aššur.
+907c804b-640d-71b6-aa83-db91fc233bca,letter,sentences_oare_published_texts,94e719f8-b8b6-f159-59ae-7ba6c61e07d0,0.4900333257743871,To Kulumaya and Buzāzu from Pilaḫaya:
+907c804b-640d-71b6-aa83-db91fc233bca,letter,sentences_oare_published_texts,1342cbc6-31e7-1901-7b2c-d27c91757cc8,0.3659584665747527,Take care to send it to me and send it to me.
+85a45589-23d0-3bfc-36b3-ebf6314792ed,letter,sentences_oare_published_texts,b5cfac6a-d1f2-4566-9288-8f290a8bc233,0.3889915064510836,"As for the city, I will not return to the city."
+85a45589-23d0-3bfc-36b3-ebf6314792ed,letter,sentences_oare_published_texts,da1f0c98-ecd3-781a-a3be-49616ec33bb0,0.2151028422568509,Take care to send the murṣum to Aššuṣur.
+85a45589-23d0-3bfc-36b3-ebf6314792ed,letter,sentences_oare_published_texts,78b27bcc-a569-4c29-6474-2dd51e37b15b,0.4863130827284062,Take care to send it to you.
+85a45589-23d0-3bfc-36b3-ebf6314792ed,letter,sentences_oare_published_texts,f6af4a38-990e-a4af-ccd2-3833811c2041,0.27943090185967,If they do not return to the copper of the copper and I will not return to Purušḫattum.
+4fc1aa9a-5439-7971-859e-dc03f58e53b4,contract of sale,sentences_oare_published_texts,80aad5cf-57d3-4fc3-a93a-feb98e83b567,0.2802684478883572,He will pay the silver from the ḫamuštum of Aššur.
+d9e2cfda-97b4-45a3-be25-abc8644c5761,unknown,sentences_oare_published_texts,1f969304-1971-4333-85cc-39a89ef6a900,1.0000000000000002,"If he does not pay (on time), he will add 1/2 shekels per mina per month."
+339b3889-144e-4aff-8e43-502066c5fc12,letter,sentences_oare_published_texts,dbb92609-3eb7-a100-f59f-5b57201a6dac,0.3400743652776131,From the price of the textiles and the price of the textiles and the tin and textiles and the tin and textiles.
+339b3889-144e-4aff-8e43-502066c5fc12,letter,sentences_oare_published_texts,f4a09ef4-5711-d4c1-b632-ef15a1819b59,0.3844277225792804,"Take care to send you 5 kusītum-shekels, 1 textile from the transport of Dān-Aššur and the transport of Dān-Aššur and the transport of the colony office."
+339b3889-144e-4aff-8e43-502066c5fc12,letter,sentences_oare_published_texts,cc42fcaa-8516-4192-9424-badfedca6a62,0.6287938386802653,The remainder of the silver and send it to me.
+339b3889-144e-4aff-8e43-502066c5fc12,letter,sentences_oare_published_texts,5d5c062f-4fde-4bd4-9e0d-6ab4d8989d49,0.3217613232454219,The tablet of the tablet of Aššur-imittī in Ḫurama in Šalim-Aššur s. Ennam-Aššur.
+339b3889-144e-4aff-8e43-502066c5fc12,letter,sentences_oare_published_texts,60949893-43bb-328e-8ea5-e6a244c3bfbe,0.340579116685315,If he does not pay the tablet and let your message come and send it to you.
+339b3889-144e-4aff-8e43-502066c5fc12,letter,sentences_oare_published_texts,44412635-494c-2184-b00c-5b08d4dc5b24,0.3844806209024318,"Take care to send the tablet to the son of Ummianum, and send it to the son of Mianum, and send it to me."
+339b3889-144e-4aff-8e43-502066c5fc12,letter,sentences_oare_published_texts,814ad661-c264-4d94-9c1e-2273334268e6,0.3935866910789594,The remainder of the silver is 1 shekel of silver in the silver.
+43a8fc7a-5090-de2c-5be5-c37d59c00d17,letter,sentences_oare_published_texts,a933b626-b430-4a76-91e4-d8faae3b6a0c,0.5092734000372262,"The tablet of Pūšu-kēn which you wrote to you, saying: ""I will send it to you."""
+43a8fc7a-5090-de2c-5be5-c37d59c00d17,letter,sentences_oare_published_texts,d2c51d4a-aa0c-45ba-1b17-122e0a3a538d,0.2978906748725343,The 1/3 talent 1/3 talent of silver which you wrote to Šalatuwar and send to Šalatuwar.
+fce5e64c-e730-46ee-bc6a-2929208a18c5,unknown,sentences_oare_published_texts,f66b905a-d055-4ae4-8b8b-d5cfcc339822,0.595384296696689,"Seals: Aššur-mālik s. Puzur-Ištar, Aššur-rabi s. Aguza, Aššur-šamšī s. Ennam-Adad."
+fce5e64c-e730-46ee-bc6a-2929208a18c5,unknown,sentences_oare_published_texts,f66b905a-d055-4ae4-8b8b-d5cfcc339822,0.4634688331726959,Aššur-šamšī s. Ennam-Adad owes Aššur-mālik 1 mina 3 shekels refined silver.
+fce5e64c-e730-46ee-bc6a-2929208a18c5,unknown,sentences_oare_published_texts,c38a9418-bc16-4fe1-b4fe-ff7c39296d75,0.5721619221251272,He will pay 5 weeks from the ḫamuštum of Šū-Kūbim and Elama.
+fce5e64c-e730-46ee-bc6a-2929208a18c5,unknown,sentences_oare_published_texts,c833d6cc-c0a5-4dff-8b0e-862944df1673,0.7905380802974886,"If he does not pay (on time), he will add 1/2 shekels per mina per month."
+bcbd0c29-ddbe-3fc6-e2cf-0a6234b8d588,letter,sentences_oare_published_texts,4e40607b-ced3-4841-a5fb-83fc90a41d7b,0.659762189854679,"My dear brothers, take care to send it."
+bcbd0c29-ddbe-3fc6-e2cf-0a6234b8d588,letter,sentences_oare_published_texts,5605667e-91bd-4a0d-8a97-84938138a4b1,0.6553272434520546,"If he does not pay (on time), he will add 1/2 shekels silver."
+b8866742-1e00-4273-acac-f687eeeb472f,letter,sentences_oare_published_texts,8521abca-f30e-41b7-b7bc-9a0789adb77e,0.7536461644354128,To Pūšu-kēn and Amur-Aššur from Aššur-mālik:
+b8866742-1e00-4273-acac-f687eeeb472f,letter,sentences_oare_published_texts,6a45976f-2c34-4be7-8087-26c6abd4ab74,0.5441660111145444,To Amur-Aššur:
+b8866742-1e00-4273-acac-f687eeeb472f,letter,sentences_oare_published_texts,68ac49be-52ce-727a-6e18-e5ba35ba98e5,0.2662659272670666,Take care to send the silver and send it to me.
+35700cdc-47e2-34ae-7b28-ecb421752e37,memo,sentences_oare_published_texts,58d7ef78-49f1-44af-bc76-cd08de3bd0b9,0.5529116620860234,"Seals: Dādāya s. Aššur-imittī, Šū-Ḫubur s. Iddin-abum, Kukulānum s. Kutāya."
+35700cdc-47e2-34ae-7b28-ecb421752e37,memo,sentences_oare_published_texts,75958e62-7e1a-b253-b9b9-4669437491ab,0.6163361408274178,Kukulānum owes Enlil-bāni 1 mina refined silver.
+35700cdc-47e2-34ae-7b28-ecb421752e37,memo,sentences_oare_published_texts,ddd76005-a365-48c5-88b5-b3a809bfa76a,0.2974715238774374,He will pay 77 pirikannu-textiles from Enlil-bāni.
+35700cdc-47e2-34ae-7b28-ecb421752e37,memo,sentences_oare_published_texts,154bfa3c-bd94-439c-b139-06e6d0a027af,0.5500467738873888,"He will pay 6 weeks from the ḫamuštum of Aššur-imittī, month Ša sarrātim, eponymate after Ilī-ālim."
+35700cdc-47e2-34ae-7b28-ecb421752e37,memo,sentences_oare_published_texts,a61b73e0-8aa0-2e18-d9c0-6188792c7fbb,0.9241582088402204,"If he does not pay (on time), he will add 1/2 shekels per mina per month."
+35700cdc-47e2-34ae-7b28-ecb421752e37,memo,sentences_oare_published_texts,41fa4e9a-5e44-9462-5ce3-d74719aea3ba,0.3471454589695312,"From Kukulānum to Waḫšušana, to Waḫšušana."
+35700cdc-47e2-34ae-7b28-ecb421752e37,memo,sentences_oare_published_texts,826445f1-9a31-413c-9c0a-b7c823953a37,0.2616057747039084,"As for the silver which Kanesh will pay the silver from Kanesh, they will pay the silver from Kanesh, and they will pay the silver under my seal and the seal of Kukulanum and send it to you."
+35700cdc-47e2-34ae-7b28-ecb421752e37,memo,sentences_oare_published_texts,004a7dbd-57ce-46f8-9691-409be61c676e,0.4986462869622093,"Seals: Kukulānum s. Kutāya, Lā-qēpum s. Puzur-Sadue, Šū-Enlil s. Mannu-kē-Aššur."
+35700cdc-47e2-34ae-7b28-ecb421752e37,memo,sentences_oare_published_texts,75958e62-7e1a-b253-b9b9-4669437491ab,0.6149186658690768,Šū-Enlil owes Enlil 1 mina refined silver.
+35700cdc-47e2-34ae-7b28-ecb421752e37,memo,sentences_oare_published_texts,f352e4ba-65ff-43bf-88ce-8e3e073943be,1.0,Month: ša kēnātim.
+35700cdc-47e2-34ae-7b28-ecb421752e37,memo,sentences_oare_published_texts,c45b3838-e7b5-408c-a986-c86cf301efb8,0.5100712727369658,Eponymate: after Ennam-Aššur.
+35700cdc-47e2-34ae-7b28-ecb421752e37,memo,sentences_oare_published_texts,ed8f6ce2-b53d-42f8-bdfb-5efe0740a89f,0.4584520980994543,They will pay 4 months from the ḫamuštum of Al-aḫum and Aššur-bāni and Aššur-mālik.
+35700cdc-47e2-34ae-7b28-ecb421752e37,memo,sentences_oare_published_texts,e1c36aba-58a7-d19f-5865-6152cc026a10,0.7848760902712966,"If he does not pay (on time), he will add 1/2 shekels per mina per month."
+35700cdc-47e2-34ae-7b28-ecb421752e37,memo,sentences_oare_published_texts,8fa7f521-c563-4b20-8d89-5be17ec9a078,0.5717292151030773,"Seals: Aḫu-waqar s. Šū-Ištar, Ilī-nādā s. Aššur-nādā, Kulumaya s. Aššur-imittī, Buzāzu s. Pūšu-kēn."
+35700cdc-47e2-34ae-7b28-ecb421752e37,memo,sentences_oare_published_texts,75958e62-7e1a-b253-b9b9-4669437491ab,0.4615581114121321,Buzāzu owes Enlil-bāni 1/2 mina refined silver.
+35700cdc-47e2-34ae-7b28-ecb421752e37,memo,sentences_oare_published_texts,c9e3fe00-2409-f3e0-4dda-e11c64182513,0.4591672603351596,"He will add 1 shekel per mina per month from the ḫamuštum of Liptānum, month Qarrātim, eponymate of Sama."
+35700cdc-47e2-34ae-7b28-ecb421752e37,memo,sentences_oare_published_texts,c57e6909-85e4-a151-3c34-9f5decdd13b6,0.4227784403586004,Kulumaya owes to Kulumaya.
+35700cdc-47e2-34ae-7b28-ecb421752e37,memo,sentences_oare_published_texts,f5f41f5f-1ef9-0d31-b1b0-a17adab76035,0.9999999999999994,"He will pay (on time), he will pay the rate of the colony."
+35700cdc-47e2-34ae-7b28-ecb421752e37,memo,sentences_oare_published_texts,58d7ef78-49f1-44af-bc76-cd08de3bd0b9,0.5889884675253045,"Seals: Qatātum s. Idī-Ištar, Aššur-rabi s. Lā-qēpum, Nānāya s. Ḫananum, Puzur-Aššur s. Amur-Aššur."
+35700cdc-47e2-34ae-7b28-ecb421752e37,memo,sentences_oare_published_texts,75958e62-7e1a-b253-b9b9-4669437491ab,0.4785797389231304,Seal of Enlil-bāni owes Puzur-Aššur 1 mina refined silver.
+35700cdc-47e2-34ae-7b28-ecb421752e37,memo,sentences_oare_published_texts,2ee64c13-a638-4006-af31-c4b6b39d077c,0.5543904889699539,He will pay the silver in the silver.
+35700cdc-47e2-34ae-7b28-ecb421752e37,memo,sentences_oare_published_texts,1b94528b-fe70-f651-95d9-28c2651d54f4,0.8830564349733704,"He will pay (on time), he will add 1/2 shekels per mina per month."
+5afe4e5f-0b4b-9d14-dde8-a03beed2653f,letter,sentences_oare_published_texts,d447dfd3-4b4d-410a-2bb2-e79d594a3d5e,0.4336432857698725,"To Puzur-Aššur, Kulumaya, Amur-Ištar and Amur-ilī from Ilī-nādā:"
+5afe4e5f-0b4b-9d14-dde8-a03beed2653f,letter,sentences_oare_published_texts,8f818ff1-37e6-8aed-5614-ed818bc50fac,0.4664368949644926,Take care to send it to me.
+5afe4e5f-0b4b-9d14-dde8-a03beed2653f,letter,sentences_oare_published_texts,a3bb3f59-b3dd-436e-a2ea-ebe049455293,0.2837530722511844,Dādāya owes Tamḫura 1/2 shekels silver.
+5afe4e5f-0b4b-9d14-dde8-a03beed2653f,letter,sentences_oare_published_texts,f4a09ef4-5711-d4c1-b632-ef15a1819b59,0.3746771038637072,Take care to send the silver from the silver and send it to me.
+5afe4e5f-0b4b-9d14-dde8-a03beed2653f,letter,sentences_oare_published_texts,1342cbc6-31e7-1901-7b2c-d27c91757cc8,0.426504363157356,"As for the silver, I will not return the silver."
+5afe4e5f-0b4b-9d14-dde8-a03beed2653f,letter,sentences_oare_published_texts,effedebb-3c32-4d36-aab5-185b66849c47,0.4946806076326326,"My dear brother, send the silver and send it to me."
+5afe4e5f-0b4b-9d14-dde8-a03beed2653f,letter,sentences_oare_published_texts,a78670e2-3087-12ab-db75-35755e42a13f,0.3523705163775651,"My dear brother, take care to send the silver to you."
+5afe4e5f-0b4b-9d14-dde8-a03beed2653f,letter,sentences_oare_published_texts,1a2160c3-e34f-220a-f612-0a73fb6ae213,0.3174510163920819,If you will not return to the silver of Aršiaḫ took the silver which Aršiaḫ did not return to you.
+5afe4e5f-0b4b-9d14-dde8-a03beed2653f,letter,sentences_oare_published_texts,8f818ff1-37e6-8aed-5614-ed818bc50fac,0.451390506980362,The 1 mina of silver belonging to the ikrībīya is bound to you.
+5afe4e5f-0b4b-9d14-dde8-a03beed2653f,letter,sentences_oare_published_texts,cc42fcaa-8516-4192-9424-badfedca6a62,0.4230779495034408,The remainder of the silver from the transport and the tablet of the transport and the tablet.
+de0e3a73-e4f9-47a5-884a-e860f03c5ec9,unknown,sentences_oare_published_texts,daf2c9f8-b0ca-44c9-acfb-cfc63cb65ce9,0.3088882480987939,Šamaš-mutabbel owes 2 raqqatum textiles.
+d78269b2-915e-4266-b16e-56a5ef6b84c9,unknown,sentences_oare_published_texts,1d6cfb32-62eb-62e8-d17f-64028704cf1a,0.4911775472273333,"Seals: Tūḫniš, Kubidi, Ištar-ilšu."
+d78269b2-915e-4266-b16e-56a5ef6b84c9,unknown,sentences_oare_published_texts,7200b492-4164-491f-b0f6-e5e0b9c2c225,0.278226913078908,Tūḫniš s. Ilī-dān owes 14 talents copper from the ḫamuštum of Tuḫniš s. Ilī-dān.
+d78269b2-915e-4266-b16e-56a5ef6b84c9,unknown,sentences_oare_published_texts,03afa072-8f71-4403-b303-086f6097db3f,0.8582851611633229,Month: Al-anātim.
+d78269b2-915e-4266-b16e-56a5ef6b84c9,unknown,sentences_oare_published_texts,82a8cb91-3909-4c10-b616-d1d050c528bf,0.6598207361876903,"If he does not pay (on time), he will add interest at the rate of 3 months."
+27bb0a4d-dce5-56d5-7798-cbb2a55fd33f,letter,sentences_oare_published_texts,6bee27f6-8bc5-8c18-df06-71f4e3029f51,0.397305894659547,"To Aššur-imittī, Šū-Ištar, Šū-Ḫubur, Ennānum and Buburanum from Imdī-ilum:"
+27bb0a4d-dce5-56d5-7798-cbb2a55fd33f,letter,sentences_oare_published_texts,f8abbe34-7efb-3fb1-d5cc-876fae9329b4,0.2715968552469886,The remainder of the transport of Amur-ilī from the transport of Amur-ilī.
+27bb0a4d-dce5-56d5-7798-cbb2a55fd33f,letter,sentences_oare_published_texts,9bec1d14-f967-5eb8-5a70-0503081be5de,0.2979979872796228,"From the luqutum of the transport of Al-aḫum, so that Al-aḫum Erubani, so that Al-aḫum entrusted to you for the transport."
+27bb0a4d-dce5-56d5-7798-cbb2a55fd33f,letter,sentences_oare_published_texts,5c5f2ec9-5dd3-aa81-cd93-23aee23853f5,0.232670185995181,"My dear brothers, and the colony office of Puzur-Aššur which you wrote to you, I will not return to you."
+27bb0a4d-dce5-56d5-7798-cbb2a55fd33f,letter,sentences_oare_published_texts,ee086b86-1ce3-b682-b322-9b7e834abb50,0.2958517161094179,Al-aḫum did not release the silver and do not release the silver to you.
+27bb0a4d-dce5-56d5-7798-cbb2a55fd33f,letter,sentences_oare_published_texts,d57efcf7-1b68-4bc2-afde-38dc5d6b10de,0.4702253991037525,Hinnaya brings you to you.
+27bb0a4d-dce5-56d5-7798-cbb2a55fd33f,letter,sentences_oare_published_texts,e76b53bb-83e3-8e28-3dca-683926fe82d6,0.3849088103582284,"I said, ""Let your message come to the tablet of Amur-ilī, let Puzur-Aššur, and the šēpum of Puzur-Aššur, and the šēpum of Puzur-Aššur and the šēpum of Al-aḫum to Kanesh and the silver and let your message com"
+27bb0a4d-dce5-56d5-7798-cbb2a55fd33f,letter,sentences_oare_published_texts,a2cd52f3-f128-aa62-e8df-69fbac96e7ff,0.2128505310303699,"As for the merchant, you will send it to you."
+27bb0a4d-dce5-56d5-7798-cbb2a55fd33f,letter,sentences_oare_published_texts,3aa7ba9b-55e0-ecfa-cce6-bf1b662b74c9,0.2915528029157361,"Puzur-Aššur kaṣār, Pūšu-kēn brought to you, I will send it to you."
+27bb0a4d-dce5-56d5-7798-cbb2a55fd33f,letter,sentences_oare_published_texts,164a8ef2-9c1d-aad5-442d-001251d5b935,0.3253305541523159,"Mamaya, Pilaḫ-Ištar s. Uzuwa brings you to you."
+72512048-434a-0902-c3d2-2463a9e2fdcf,letter,sentences_oare_published_texts,71be8ed8-27b2-47e3-849c-809fc0b3a99f,0.7383113347756296,"To Imdī-ilum, -a and the merchant from Pūšu-kēn:"
+72512048-434a-0902-c3d2-2463a9e2fdcf,letter,sentences_oare_published_texts,b442b658-192a-247c-1b8a-63ee5b132b5b,0.4241466874771472,"The remainder of the textiles, 1 mina 7 1/2 shekels of silver, 1 mina 6 shekels of silver, 1 mina 6 shekels of silve"
+4bd5afec-6ad6-70c1-f6b9-5a84e9fad7e8,memo,sentences_oare_published_texts,7b17e821-ad61-4a1b-b54a-952d13b40793,0.5910340584016617,"Seals: Ištar-palil s. Šū-Kūbum, Šumi-abiya s. Aššur-nīšu, Aḫu-waqar s. Šū-Ištar, Liptanum s. Lālum."
+4bd5afec-6ad6-70c1-f6b9-5a84e9fad7e8,memo,sentences_oare_published_texts,75958e62-7e1a-b253-b9b9-4669437491ab,0.3768037451270432,He will add 1 mina 18 2/3 shekels refined silver from the textile of Ikuppiya.
+4bd5afec-6ad6-70c1-f6b9-5a84e9fad7e8,memo,sentences_oare_published_texts,77f85a31-b948-42fa-9f93-b3794d84418c,0.5958765272610392,He will pay 6 weeks from the ḫamuštum of Šū-Ištar.
+4bd5afec-6ad6-70c1-f6b9-5a84e9fad7e8,memo,sentences_oare_published_texts,66aefcfb-37fa-489d-90eb-663d60120983,0.5418998869728426,"If he does not pay (on time), he will add 1/2 shekel per mina per month as interest."
+4bd5afec-6ad6-70c1-f6b9-5a84e9fad7e8,memo,sentences_oare_published_texts,6d3168f3-99ba-46a2-865f-3e60fd30e30a,0.7587112019079647,Seal of the colony of Kanesh:
+4bd5afec-6ad6-70c1-f6b9-5a84e9fad7e8,memo,sentences_oare_published_texts,f66b905a-d055-4ae4-8b8b-d5cfcc339822,0.3591770723541782,Aššur-mālik owes 12 minas refined silver.
+4bd5afec-6ad6-70c1-f6b9-5a84e9fad7e8,memo,sentences_oare_published_texts,206c11fc-a57d-4463-955b-64303413b85b,0.5745755992953948,"He will add 2 shekels per mina per month from the ḫamuštum of Innāya s. Amuraya, month Alānātim, eponymate Aššur-mālik."
+4bd5afec-6ad6-70c1-f6b9-5a84e9fad7e8,memo,sentences_oare_published_texts,b3779a21-9d6d-4b57-a93a-f6bd609335c1,0.6173453287567154,"Seals: Innāya s. Elāli, Ennum-Aššur s. Šalim, Aššur-taklāku s. Al-aḫum, Kulumaya s. Aššur-imittī, Aššur-nīmrī s. Idī-Suen."
+4bd5afec-6ad6-70c1-f6b9-5a84e9fad7e8,memo,sentences_oare_published_texts,75958e62-7e1a-b253-b9b9-4669437491ab,0.5926639845144712,They will add 1 mina 13 shekels refined silver.
+4bd5afec-6ad6-70c1-f6b9-5a84e9fad7e8,memo,sentences_oare_published_texts,ea1de114-c2a7-42ab-b84c-3a8a46485167,0.5078063478835362,"From the ḫamuštum of Mannum-bālum-Aššur, month Ša sarrātim, eponymate after Iddin-aḫum."
+4bd5afec-6ad6-70c1-f6b9-5a84e9fad7e8,memo,sentences_oare_published_texts,a4b06ad1-c685-504c-8821-fbd76df8c97f,0.5045074349103897,"If he does not pay (on time), he will add 1/2 shekel per mina per month as interest."
+4bd5afec-6ad6-70c1-f6b9-5a84e9fad7e8,memo,sentences_oare_published_texts,53ddd68e-c1e3-4586-9f60-70036b96d50b,0.5007417668430978,"Innāya, Ennaya owe Ennum-Aššur and Aššur-taklāku silver."
+4bd5afec-6ad6-70c1-f6b9-5a84e9fad7e8,memo,sentences_oare_published_texts,5d5c062f-4fde-4bd4-9e0d-6ab4d8989d49,0.6064451490377103,"Seals: Atata s. Amur-Ištar, Šū-Ištar s. Šukkatum, Aššur-ṭāb s. Ennam-Anum."
+4bd5afec-6ad6-70c1-f6b9-5a84e9fad7e8,memo,sentences_oare_published_texts,1b94528b-fe70-f651-95d9-28c2651d54f4,0.4756318387602552,Aššur-ṭāb owes Aššur-mālik 1 mina silver.
+4bd5afec-6ad6-70c1-f6b9-5a84e9fad7e8,memo,sentences_oare_published_texts,1b94528b-fe70-f651-95d9-28c2651d54f4,0.4599703382029864,"He will pay 15 weeks from the ḫamuštum of Puzur-Sadue and Itūr-ilī, month Kuzallu, eponymate Adad-bāni."
+4bd5afec-6ad6-70c1-f6b9-5a84e9fad7e8,memo,sentences_oare_published_texts,1b94528b-fe70-f651-95d9-28c2651d54f4,0.9609738446718716,"If he does not pay (on time), he will add 1/2 shekels per mina per month."
+4bd5afec-6ad6-70c1-f6b9-5a84e9fad7e8,memo,sentences_oare_published_texts,1b94528b-fe70-f651-95d9-28c2651d54f4,0.8830564349733704,"He will pay (on time), he will add 1/2 shekels per mina per month."
+4356cef8-1d51-4d88-9eb4-a5f3873b6c9a,unknown,sentences_oare_published_texts,9361f2a9-c921-47f4-869f-615f76cf20db,0.6170179221145061,"Seals: Idī-Suen s. Itūr-ilī, Kurub-Ištar s. Puzur-ilī, Puzur-Ištar s. Dalaš, Amur-Aššur."
+4356cef8-1d51-4d88-9eb4-a5f3873b6c9a,unknown,sentences_oare_published_texts,f5dea027-8a8a-4d66-b8b3-d6aa9a959d6a,0.5695788453583572,Amur-Aššur s. Ilī-ālim owes Aššur-rēʾī 2 minas refined silver.
+22cd925b-c42a-4389-b05b-e0e7a5cfc295,unknown,sentences_oare_published_texts,b4e72204-0f67-4d9a-85c0-df0ae2a780d8,0.3663240206329207,Aššur-nādā owes 13 minas refined silver and its interest 13 minas refined silver and its interest.
+22cd925b-c42a-4389-b05b-e0e7a5cfc295,unknown,sentences_oare_published_texts,79cefbac-e992-45ad-87b4-5d5f3c2976ce,0.4607413649284152,"If he does not pay (on time), he will add 1/2 shekels per mina per month as interest."
+22cd925b-c42a-4389-b05b-e0e7a5cfc295,unknown,sentences_oare_published_texts,f5f41f5f-1ef9-0d31-b1b0-a17adab76035,0.4669951043205544,"Witnesses: Al-aḫum, Aššur-ṭāb, Ibni-ilī, Burkannum."
+1a94b894-e07a-4045-8e2a-ba308ccd0415,debt note,sentences_oare_published_texts,5d5c062f-4fde-4bd4-9e0d-6ab4d8989d49,0.4708740411596423,"If he does not pay (on time), he will add 1 mina per month as interest."
+cd3dfc3b-4833-87b9-4fb1-e2a81944dbf7,unknown,sentences_oare_published_texts,908b33d8-2e06-f748-530b-0538f1c6e1d3,0.4102081411519694,"Witnesses: Buzutaya and Imdī-ilum, Aššur-imittī, Ennum-Bēlum, Amur-Aššur, Pūšu-kēn brings it to Ennum-Aššur s. Šalim-aḫum."
+bff411ef-5eef-0a5d-26ea-db4431484895,debt note,sentences_oare_published_texts,9d63f7d9-4edb-30a4-6648-1a668d844131,0.4728224835366993,Gal-galiya and Alu owe Pūšu-kēn 1 mina silver.
+bff411ef-5eef-0a5d-26ea-db4431484895,debt note,sentences_oare_published_texts,d05451ac-5f2b-157d-fa0f-c24b642fbdfc,0.6765247693217037,He will pay 15 weeks from the ḫamuštum of Itūr-ilī and Kurub-Ištar.
+bff411ef-5eef-0a5d-26ea-db4431484895,debt note,sentences_oare_published_texts,66aefcfb-37fa-489d-90eb-663d60120983,0.776527295021612,"If he does not pay (on time), he will add 2 shekels per mina per month."
+bff411ef-5eef-0a5d-26ea-db4431484895,debt note,sentences_oare_published_texts,0a4a6d81-85d8-4cb5-9d19-1e74675f89cb,0.4983580166808825,"Witnesses: Aššur-dān, Ikūn-pī-Aššur, Aššur-ṭāb"
+a875961e-191c-6eb5-470c-2e4f177e2036,debt note,sentences_oare_published_texts,068623c9-c424-40fe-8fdc-d260e559926d,0.4884851073653978,He will pay 14 weeks from the ḫamuštum of Lā-qēpim and Nāb-Suen.
+2b2cc5ac-0af9-4999-b44b-d2c0258237ed,letter,sentences_oare_published_texts,284e459c-f95a-ff57-8317-dcf800411ff3,0.9750151175267638,To Šū-Ḫubur from Imdī-ilum and Pūšu-kēn:
+2b2cc5ac-0af9-4999-b44b-d2c0258237ed,letter,sentences_oare_published_texts,74a50b22-2148-d51e-00bc-fb06fcfed5a1,0.3559850889858149,"Irma-Aššur brought 5 kutānum-textiles, 1 textile was 4 1/2 talents tin under my seal, 4 1/3 talents tin under my seal."
+2b2cc5ac-0af9-4999-b44b-d2c0258237ed,letter,sentences_oare_published_texts,daf2c9f8-b0ca-44c9-acfb-cfc63cb65ce9,0.3202897991580165,The 1/3 mina of silver and 2 shekels of silver from the colony office and 2 shekels of silver and 2 shekels of silver to Batqum.
+2b2cc5ac-0af9-4999-b44b-d2c0258237ed,letter,sentences_oare_published_texts,1e09c056-b416-4d5a-aa0b-cee5afcd0884,0.3056709059923104,"From the 1 mina 3 1/2 shekels of silver which you wrote to you, 4 minas 5 shekels, 12 textiles, 6 minas of -ni-adi."
+d2b1d903-1da3-98e1-309f-7445115bc66b,debt note,sentences_oare_published_texts,d451bff1-89f5-4e68-bc91-0beb93cadd46,0.5031597053537893,Šū-Ḫurpiya and Kurkura owe Aššur-nādā 1 mina 5 shekels refined silver.
+d2b1d903-1da3-98e1-309f-7445115bc66b,debt note,sentences_oare_published_texts,77f85a31-b948-42fa-9f93-b3794d84418c,0.6744278088448941,He will pay 3 weeks from the ḫamuštum of Šū-Anum and Iliš-tīkal.
+d2b1d903-1da3-98e1-309f-7445115bc66b,debt note,sentences_oare_published_texts,80b96b8a-f8f9-4508-b05f-f1a76268e64c,0.7377052106615165,"If he does not pay (on time), he will add 3 shekels per mina per month."
+d2b1d903-1da3-98e1-309f-7445115bc66b,debt note,sentences_oare_published_texts,0a4a6d81-85d8-4cb5-9d19-1e74675f89cb,0.6605814827898652,"Witnesses: Aššur-mālik, Il-bāni"
+bd4f3195-9b66-be2e-ff2b-b58548aa5167,letter,sentences_oare_published_texts,f76bc18c-aa3b-1e13-a9ae-6236abfc19e9,0.3213950143303131,Take care to send the silver and send it to me.
+bd4f3195-9b66-be2e-ff2b-b58548aa5167,letter,sentences_oare_published_texts,80aad5cf-57d3-4fc3-a93a-feb98e83b567,0.4498453381136482,He will pay the silver from the textile of Wašira.
+bd4f3195-9b66-be2e-ff2b-b58548aa5167,letter,sentences_oare_published_texts,9715151b-501a-4b99-874f-10eb770c6ae7,0.7726707514485405,"My dear brother, take care to send it to you."
+bd4f3195-9b66-be2e-ff2b-b58548aa5167,letter,sentences_oare_published_texts,b6c6f210-967c-ea04-bee8-54f1f32cf5a9,0.2718392378829366,"My dear father, do not return to you."
+bd4f3195-9b66-be2e-ff2b-b58548aa5167,letter,sentences_oare_published_texts,f4a09ef4-5711-d4c1-b632-ef15a1819b59,0.5448854105885037,"If Puzur-Suen do not send the silver of Puzur-Suen to you, send it to you."
+bd4f3195-9b66-be2e-ff2b-b58548aa5167,letter,sentences_oare_published_texts,898aa927-0c61-4d11-a709-81fc0c14d90d,0.2842512150134015,"If he does not pay (on time), he will pay the silver in the colony office."
+2662f6f7-f5cd-b855-84aa-64c03ccae277,letter,sentences_oare_published_texts,60949893-43bb-328e-8ea5-e6a244c3bfbe,0.3857439767108583,Hananum s. Ubḫakum owes 1 mina refined silver.
+2662f6f7-f5cd-b855-84aa-64c03ccae277,letter,sentences_oare_published_texts,f352e4ba-65ff-43bf-88ce-8e3e073943be,0.7748910597206068,He will pay 1/2 mina per month.
+2662f6f7-f5cd-b855-84aa-64c03ccae277,letter,sentences_oare_published_texts,aa16c485-2aeb-4f4f-a27d-029588c834e0,0.3352079618003867,Aḫ-marši owes 1 mina silver in Kuzallī.
+2662f6f7-f5cd-b855-84aa-64c03ccae277,letter,sentences_oare_published_texts,057d1f78-c8f8-8af6-65e9-fc445d11ee0d,0.2845040655780887,The remainder of the colony office of 4 minas tin under my seal and send it to you and Ḫanānum and send it to me.
+7148a330-0933-46ce-9666-153d9b06ad95,agreement (contract),sentences_oare_published_texts,8ec16c18-6201-1ec9-cf7f-8084e7c1ef77,0.5279903349573012,"Lā-qēpum said, ""Let Lā-qēpum pay the silver from the city to the city and the tablet of the city to the city"
+7148a330-0933-46ce-9666-153d9b06ad95,agreement (contract),sentences_oare_published_texts,3e87aad8-cd8c-4f8d-96e9-c68e062d4a1a,0.3026631264192353,From Pūšu-kēn to the tablet of the city and the tablet of the city.
+7148a330-0933-46ce-9666-153d9b06ad95,agreement (contract),sentences_oare_published_texts,a3466b90-939b-e1bd-a300-f116b2410253,0.4709965274160998,"Witnesses: Il-bāni s. Amur-Aššur, Ikuppiya s. Šū-Ištar, Ina-Suen s. Ennanim s. Amua."
+b652089e-89fe-416f-b7c0-c5fefb57eff8,unknown,sentences_oare_published_texts,5d5c062f-4fde-4bd4-9e0d-6ab4d8989d49,0.519463843226805,Ikūnim owes Aššur-imittī 1 mina 3 shekels refined silver.
+b652089e-89fe-416f-b7c0-c5fefb57eff8,unknown,sentences_oare_published_texts,fa616c6b-81b6-4e56-b42d-5a5954eba68e,0.7488913425759565,He will pay 40 weeks from the ḫamuštum of Amurrum-bāni and Ikūnim.
+b652089e-89fe-416f-b7c0-c5fefb57eff8,unknown,sentences_oare_published_texts,068623c9-c424-40fe-8fdc-d260e559926d,0.8372254320474883,"If he does not pay (on time), he will add 1/2 shekels per mina per month as interest."
+b652089e-89fe-416f-b7c0-c5fefb57eff8,unknown,sentences_oare_published_texts,93040e53-ffd8-43ef-a7be-163d7a58fcb4,0.7967172016701689,Month: Allanātim.
+b652089e-89fe-416f-b7c0-c5fefb57eff8,unknown,sentences_oare_published_texts,2956080a-fb75-468a-99b8-5fadcbf0457e,0.5184181511185826,"Witnesses: Aššur-rēʾī, Azunaya, Aššur-mālik."
+43fe4f73-33e5-96d6-844d-5c5e800fd5af,unknown,sentences_oare_published_texts,a8eee8fe-1582-4203-8063-51af26e91f83,0.3760198548291263,Enna-Suen s. Ilī-ālim owes Waḫšušana 1/2 shekel of silver from Waḫšušana.
+43fe4f73-33e5-96d6-844d-5c5e800fd5af,unknown,sentences_oare_published_texts,ac3b4093-17e9-404f-ae03-ddc6cb0482d9,0.3256263020915772,Witnesses: Luzina s. Aššur-bāni.
+dc1bd17f-b6e9-0761-9fb9-a81d0d795606,letter,sentences_oare_published_texts,985223ce-071e-7229-029c-64c17b15755c,0.3586505696128346,"The debt of the colony office of Ennam-Aššur, 5 minas 5 shekels (silver), 25 minas 5 shekels."
+dc1bd17f-b6e9-0761-9fb9-a81d0d795606,letter,sentences_oare_published_texts,6bee27f6-8bc5-8c18-df06-71f4e3029f51,0.5744362820059346,He will pay 1/2 mina 5 shekels.
+dc1bd17f-b6e9-0761-9fb9-a81d0d795606,letter,sentences_oare_published_texts,331e44ee-fb14-418b-b41c-55abefe272ce,0.4798520732085164,He will pay 4 1/2 shekels per mina per month.
+dc1bd17f-b6e9-0761-9fb9-a81d0d795606,letter,sentences_oare_published_texts,1dcab0ac-ab5c-90c4-9455-5474e3bc0a96,0.457689430943611,The remainder of the donkey was 3 minas.
+dc1bd17f-b6e9-0761-9fb9-a81d0d795606,letter,sentences_oare_published_texts,aa16c485-2aeb-4f4f-a27d-029588c834e0,0.3867546747866455,They will send it to you.
+dc1bd17f-b6e9-0761-9fb9-a81d0d795606,letter,sentences_oare_published_texts,060f609d-36ae-16d2-f3b3-2db864a8d034,0.8357037741534783,The remainder of the tin was 2 minas.
+dc1bd17f-b6e9-0761-9fb9-a81d0d795606,letter,sentences_oare_published_texts,060f609d-36ae-16d2-f3b3-2db864a8d034,0.3815407220592551,He will pay 6 1/2 minas tin to Ennam-Aššur.
+dc1bd17f-b6e9-0761-9fb9-a81d0d795606,letter,sentences_oare_published_texts,1f420e88-39d6-fc81-3df9-cce09e15f8ec,0.2497998253346665,Take care to send you 10 1/2 minas tin for you.
+dc1bd17f-b6e9-0761-9fb9-a81d0d795606,letter,sentences_oare_published_texts,eb1f6643-2f42-4b06-b027-a69079109619,0.5017660401452748,"From the 72 textiles belonging to the colony office, 2 1/2 textiles, 1 2/3 shekels of silver."
+dc1bd17f-b6e9-0761-9fb9-a81d0d795606,letter,sentences_oare_published_texts,dfbb9356-5533-c828-57f7-07e55e6895a6,0.4858228525771867,Send 2 1/2 shekels silver and 2 1/2 shekels silver.
+dc1bd17f-b6e9-0761-9fb9-a81d0d795606,letter,sentences_oare_published_texts,eb1f6643-2f42-4b06-b027-a69079109619,0.2972850198946308,He will pay 1/2 textile for the textile of Tanāpulu.
+0ba7c664-c792-4bdf-b3b0-4d7d68b3c172,memo,sentences_oare_published_texts,93040e53-ffd8-43ef-a7be-163d7a58fcb4,0.5531528283973067,Amur-Aššur owes 2 minas of copper.
+0ba7c664-c792-4bdf-b3b0-4d7d68b3c172,memo,sentences_oare_published_texts,aa16c485-2aeb-4f4f-a27d-029588c834e0,0.3002784750474793,Balṭušar s. Zu owes 10 shekels silver.
+0ba7c664-c792-4bdf-b3b0-4d7d68b3c172,memo,sentences_oare_published_texts,329935fe-1153-48d1-a1b2-407527584ed7,0.5789214076903401,Witnesses: Ištar-pilaḫ
+0ba7c664-c792-4bdf-b3b0-4d7d68b3c172,memo,sentences_oare_published_texts,93040e53-ffd8-43ef-a7be-163d7a58fcb4,0.336842367521488,Ilī-Ištar owes 1/2 mina of copper.
+0ba7c664-c792-4bdf-b3b0-4d7d68b3c172,memo,sentences_oare_published_texts,161ceac9-ac62-8a59-05f2-af935e84f0b5,0.4745527823672132,Uṣur-ša-Aššur owes Uṣur-ša-Aššur 1/2 shekel silver.
+0ba7c664-c792-4bdf-b3b0-4d7d68b3c172,memo,sentences_oare_published_texts,bdf62c81-286c-407f-98f4-8674d658779b,0.3131035963572159,Aššur-bāni s. Ḫazuzum owes 1 mina per month.
+0ba7c664-c792-4bdf-b3b0-4d7d68b3c172,memo,sentences_oare_published_texts,111cd2be-5224-2bd7-159b-ed4c842d0c9c,0.5260635398636545,"Witnesses: Dādiya, Puzur-Aššur, Aḫuni, son of Titiya"
+0ba7c664-c792-4bdf-b3b0-4d7d68b3c172,memo,sentences_oare_published_texts,aa16c485-2aeb-4f4f-a27d-029588c834e0,0.4717955736255386,Puzur-Ištar s. Idī-Suen owes 2 minas silver.
+0ba7c664-c792-4bdf-b3b0-4d7d68b3c172,memo,sentences_oare_published_texts,1eacdd31-34bc-467a-8f21-3f23fffce832,0.8170885952947966,"If he does not pay (on time), he will add 1 shekel per mina per month."
+0ba7c664-c792-4bdf-b3b0-4d7d68b3c172,memo,sentences_oare_published_texts,2c395bfd-6304-45b4-9fb6-c2f23ddeb25e,0.8411608836800826,Month: Ṣipʾum.
+0ba7c664-c792-4bdf-b3b0-4d7d68b3c172,memo,sentences_oare_published_texts,59dd11c7-664d-223e-3c53-3e6350be91fe,0.4227961899660801,Aššur-bāni s. Aššur-bēl-awātim owes 1 shekel silver.
+0ba7c664-c792-4bdf-b3b0-4d7d68b3c172,memo,sentences_oare_published_texts,803449c3-3581-4dbc-b973-a2a65254b224,0.6778280087388682,"If he does not pay (on time), he will add 1/2 shekels per mina per month."
+0ba7c664-c792-4bdf-b3b0-4d7d68b3c172,memo,sentences_oare_published_texts,f66b905a-d055-4ae4-8b8b-d5cfcc339822,0.5475196895896508,Imlikaya owes 10 shekels silver.
+0ba7c664-c792-4bdf-b3b0-4d7d68b3c172,memo,sentences_oare_published_texts,84fa53b6-5d15-47e6-a61e-8d1fb306cafe,0.7851368782668847,"If he does not pay (on time), he will add interest at the rate of the colony."
+0ba7c664-c792-4bdf-b3b0-4d7d68b3c172,memo,sentences_oare_published_texts,82a8cb91-3909-4c10-b616-d1d050c528bf,1.0000000000000002,Month: Teʾinātum.
+0ba7c664-c792-4bdf-b3b0-4d7d68b3c172,memo,sentences_oare_published_texts,1a924723-0e7b-43a8-9213-bb12a4cd145e,0.540973406319807,Šū-Mabiya owes 1 shekel silver.
+0ba7c664-c792-4bdf-b3b0-4d7d68b3c172,memo,sentences_oare_published_texts,75958e62-7e1a-b253-b9b9-4669437491ab,0.6530223714294456,"If he does not pay (on time), he will add 1 shekel per mina per month."
+0ba7c664-c792-4bdf-b3b0-4d7d68b3c172,memo,sentences_oare_published_texts,5ddb3a30-152e-0172-cb06-c2c002ed1cfa,0.9503765081650178,Month: Ab-šarrānē
+0ba7c664-c792-4bdf-b3b0-4d7d68b3c172,memo,sentences_oare_published_texts,f0b4e0e0-6096-6698-fd41-34d85fbd1e87,0.7924668489517216,Month: Aššur-rēʾī
+0ba7c664-c792-4bdf-b3b0-4d7d68b3c172,memo,sentences_oare_published_texts,93040e53-ffd8-43ef-a7be-163d7a58fcb4,0.4716996263955477,Aššur-imittī owes 1 mina of copper.
+0ba7c664-c792-4bdf-b3b0-4d7d68b3c172,memo,sentences_oare_published_texts,e69ed573-3211-49cc-8091-f8830c91f059,0.5801081964417845,"If he does not pay (on time), he will add 1 mina per month."
+0ba7c664-c792-4bdf-b3b0-4d7d68b3c172,memo,sentences_oare_published_texts,7f2e90ba-99ac-4fbf-8583-39b8ed9fbed5,0.447891005386393,Puzur-Aššur owes 1/2 mina copper.
+0ba7c664-c792-4bdf-b3b0-4d7d68b3c172,memo,sentences_oare_published_texts,f3d4ca78-4dab-4438-8216-37a952ee1651,0.4805355439983444,Sd--bāni owes 1 mina 1 shekel silver.
+0ba7c664-c792-4bdf-b3b0-4d7d68b3c172,memo,sentences_oare_published_texts,b05376c2-fc3d-49f8-9792-a25c0df9c383,0.4585788345861784,Witnesses: Ennam-Aššur s. Ḫanānum.
+0ba7c664-c792-4bdf-b3b0-4d7d68b3c172,memo,sentences_oare_published_texts,75958e62-7e1a-b253-b9b9-4669437491ab,0.6530223714294456,"If he does not pay (on time), he will add 1 shekel per mina per month."
+0ba7c664-c792-4bdf-b3b0-4d7d68b3c172,memo,sentences_oare_published_texts,8856d509-c02a-4f15-879a-522a49d83a92,0.5613043915194167,Month: Kanbārta.
+930e4898-4a0f-e0d0-8249-534aa66e9140,unknown,sentences_oare_published_texts,624ec652-d489-482b-a557-27a3fa01273e,0.2919221844067918,From Suetata to Iddin-abum:
+0726176c-a6d3-4b47-8bd4-1f5a5b2463b3,unknown,sentences_oare_published_texts,f66b905a-d055-4ae4-8b8b-d5cfcc339822,0.5265886509819735,Šalim-Aššur owes Buzutaya 1 mina refined silver.
+c69143bd-82a6-4547-be68-b81fe792fd06,letter,sentences_oare_published_texts,211d86ac-d2aa-b507-a7ad-9e59e51d5fb5,0.5118964937766246,To Šū-Anum from Šilamassī:
+c69143bd-82a6-4547-be68-b81fe792fd06,letter,sentences_oare_published_texts,c71205a0-28d8-7151-0e81-ac0ce22ada2b,0.4151811392735964,"I said, ""Puzur-Ištar brings you 1/2 mina of silver which Puzur-Ištar brings you to you."""
+c69143bd-82a6-4547-be68-b81fe792fd06,letter,sentences_oare_published_texts,6354886f-3ebc-464e-a74a-60b99d4bc4b7,0.4861736188979305,"They said, ""I will not return to him."""
+c69143bd-82a6-4547-be68-b81fe792fd06,letter,sentences_oare_published_texts,b6758521-a951-5e1d-d5ad-6f0e0a4330cc,0.3808556537940979,From the silver of the textiles and the textiles of Naniya brought to you the silver and the silver of Naniya brought to you.
+f72b4ebe-a9a0-e788-8709-fac902d755b5,letter,sentences_oare_published_texts,9ee9bff8-e38e-88cf-8d77-7e0bad55b161,1.0,To Pūšu-kēn from Puzur-Aššur:
+f72b4ebe-a9a0-e788-8709-fac902d755b5,letter,sentences_oare_published_texts,c5cfad37-9ac0-54c8-89cf-515fefd2cf5d,0.5565315694690077,"My dear brother, take care to send it to you."
+f72b4ebe-a9a0-e788-8709-fac902d755b5,letter,sentences_oare_published_texts,efeb2f1a-165d-4626-9772-3bc2b072e395,0.3421646232041741,Take care to send the silver and send it to the city and send it to me.
+f72b4ebe-a9a0-e788-8709-fac902d755b5,letter,sentences_oare_published_texts,97814ab2-44c4-ac8e-65fd-33eeca322985,0.5999838869979852,Adada s. Ikūn-pī-Aššur owes 10 minas silver which Adada s. Ikūn-pī-Aššur will pay the silver and send it to you.
+f72b4ebe-a9a0-e788-8709-fac902d755b5,letter,sentences_oare_published_texts,43497057-81ce-bb3b-0df5-9727559189dd,0.3739824499420676,"My dear brother, Imkuwa brings you to you."
+c1e6273e-f270-d632-623e-2b88f18d912f,letter,sentences_oare_published_texts,37b583a2-46e3-b3c9-094d-c571945d8246,0.2534977666567762,"My dear brother, saying: ""You wrote me."""
+5e349090-917d-4c1d-b6fd-688f09a4da7a,unknown,sentences_oare_published_texts,865819f8-c241-4a99-a954-388ca77efcd3,0.9435109289727808,"He will add 1/2 shekels per mina per month from the ḫamuštum of Uṣur-ša-Ištar month Ṣipim, eponymate Iddin-aḫum."
+5e349090-917d-4c1d-b6fd-688f09a4da7a,unknown,sentences_oare_published_texts,a1d9a827-0894-4474-9075-9cf1ebbb9d43,0.7028973469838801,They will add 1/2 shekels per mina per month as interest.
+e694b475-4e22-4987-b62d-124c630afe06,unknown,sentences_oare_published_texts,c45b3838-e7b5-408c-a986-c86cf301efb8,0.6302619597914126,Adad-ṣulūlī owes Adad-ṣulūlī 10 minas refined silver.
+e694b475-4e22-4987-b62d-124c630afe06,unknown,sentences_oare_published_texts,7e083fd9-c897-2c03-22c3-ac1decd73133,0.4937786108618061,"If he does not pay (on time), he will add 1/2 shekels per mina per month."
+67d94ec6-c595-40f2-b474-e017242656e4,contract of sale,sentences_oare_published_texts,2568e284-ffa5-518a-69a6-a32101513437,0.5360249042393093,"If he does not pay (on time), he will pay 10 minas refined silver to Šarat-Ištar."
+67d94ec6-c595-40f2-b474-e017242656e4,contract of sale,sentences_oare_published_texts,060449c3-ad2b-01f7-86c9-47435f95ad7c,0.4212335374626688,He will pay 1/2 shekel rate refined silver from the merchant.
+67d94ec6-c595-40f2-b474-e017242656e4,contract of sale,sentences_oare_published_texts,b58a5bc3-0ef8-06d6-f69c-8a06d1ad5328,0.3850952204457979,Šišaḫšušar owes 1/2 shekels refined silver from the transport of Šamaš.
+67d94ec6-c595-40f2-b474-e017242656e4,contract of sale,sentences_oare_published_texts,214680a4-6b88-0072-8fc0-d4a29818fa74,0.5996021904372812,I gave 1 shekel of silver to Kurub-Ištar.
+67d94ec6-c595-40f2-b474-e017242656e4,contract of sale,sentences_oare_published_texts,771e48d1-5ad1-63d5-7ced-690a01102f98,0.4279479951249806,The silver of Aššur-imittī to Šarrat-Ištar:
+67d94ec6-c595-40f2-b474-e017242656e4,contract of sale,sentences_oare_published_texts,ab5dd556-42d7-57e2-cd9e-dff681615468,0.3158751168784096,As for the 1 shekel of silver to Ennam-Aššur s. Idī-Suen.
+67d94ec6-c595-40f2-b474-e017242656e4,contract of sale,sentences_oare_published_texts,7200b492-4164-491f-b0f6-e5e0b9c2c225,0.5170723477578021,"Witnesses: Idī-abum, Anina, Anina s. Puzur-Anna."
+d5ae9ae1-b42c-4e0e-879a-169e24667e1a,letter,sentences_oare_published_texts,5714da19-2a0a-5c00-4b40-2b6fd729b4b2,0.8275962160433018,Thus Aššur-idī to Aššur-nādā:
+d5ae9ae1-b42c-4e0e-879a-169e24667e1a,letter,sentences_oare_published_texts,d9058197-10a1-4a9f-b722-74d11f358762,0.3167332845684071,Aššur-bēlāwātim brought to you 13 minas refined silver from the colony office of Aššur-bēlāwātim and the proceeds of 13 minas refined silver in the city.
+f49dcb4a-246f-a124-1b49-baf06a276bc8,letter,sentences_oare_published_texts,60949893-43bb-328e-8ea5-e6a244c3bfbe,1.0,"As for the 1 mina of silver, they will send it to me."
+f49dcb4a-246f-a124-1b49-baf06a276bc8,letter,sentences_oare_published_texts,cffb94bb-788d-1e19-0593-1f8d1e064d86,0.7410514132407681,"In the presence of 2 talents 10 minas under seal, 16 1/2 shekels silver was 7 minas 2/3 shekels silver."
+f49dcb4a-246f-a124-1b49-baf06a276bc8,letter,sentences_oare_published_texts,11bafcdd-8f06-4799-b12d-404e3f196f1a,0.5686916660080718,He will pay 1 shekel (to?) the massāum.
+f49dcb4a-246f-a124-1b49-baf06a276bc8,letter,sentences_oare_published_texts,e333a4ba-2ca8-ec21-1c9f-d3a3343cdc74,0.4560065278790892,"The remainder of the 17 shekels silver, the price of 1 donkey."
+f49dcb4a-246f-a124-1b49-baf06a276bc8,letter,sentences_oare_published_texts,90a730a4-db5a-c884-ae2b-d1aec44aa8a8,0.5126094305536198,He will pay 1 shekel (to?) the colony.
+f49dcb4a-246f-a124-1b49-baf06a276bc8,letter,sentences_oare_published_texts,d451bff1-89f5-4e68-bc91-0beb93cadd46,0.364872473444404,Šū-ruen of Aššur-taklāku brings you 2 textiles of Aššur-taklāku.
+f49dcb4a-246f-a124-1b49-baf06a276bc8,letter,sentences_oare_published_texts,71be8ed8-27b2-47e3-849c-809fc0b3a99f,0.7773065881831283,As for the 1/2 mina of silver which Enna-Bēlum brings you 1/2 mina of silver from Enna-Bēlum.
+f49dcb4a-246f-a124-1b49-baf06a276bc8,letter,sentences_oare_published_texts,3f1b1daf-4955-7f44-0961-840fccba7d90,0.440907671349245,He will pay 1/2 mina 5 shekels tin and 15 shekels silver was 15 shekels silver.
+f49dcb4a-246f-a124-1b49-baf06a276bc8,letter,sentences_oare_published_texts,68897c7e-6949-c359-7827-8ee18f89a557,0.5692271054036808,Aššur-taklāku brings you to you.
+f49dcb4a-246f-a124-1b49-baf06a276bc8,letter,sentences_oare_published_texts,e333a4ba-2ca8-ec21-1c9f-d3a3343cdc74,1.0000000000000002,"As for the merchant, send it to you."
+67839ec3-9db7-4618-8508-310ed2b3211e,testimony,sentences_oare_published_texts,d9058197-10a1-4a9f-b722-74d11f358762,0.4291692966027666,Adad-ṣulūlī owes Adad-ṣulūlī to Buzazu.
+67839ec3-9db7-4618-8508-310ed2b3211e,testimony,sentences_oare_published_texts,b177c15d-0dd5-45fb-bc52-e77f493090f9,1.0000000000000009,The colony office of Kanesh gave us for the dagger of Aššur.
+67839ec3-9db7-4618-8508-310ed2b3211e,testimony,sentences_oare_published_texts,93040e53-ffd8-43ef-a7be-163d7a58fcb4,0.4474247442927372,"Witnesses: Aššur-ṭāb s. Puzur-Aššur, Aššur-imittī s. Iddin-er."
+dd12ca69-8495-49a5-8e79-f54b520f01ad,letter,sentences_oare_published_texts,741a606f-ef48-24ad-cc76-63a8bea7fda7,0.9271608135864376,"To Alāhum, Aššur-nādā and Idī-Suen from Ilī-ālum:"
+dd12ca69-8495-49a5-8e79-f54b520f01ad,letter,sentences_oare_published_texts,bc118e61-1677-84ca-618c-d72039f19a57,0.3235340338584342,"As for the transport of Kuzāzum, the transport of Kuzazum."
+dd12ca69-8495-49a5-8e79-f54b520f01ad,letter,sentences_oare_published_texts,2a9bbdee-dcb4-425b-b6a8-3745796e6c02,0.5124668066853585,Abauya brings you 1 shekel of silver.
+dd12ca69-8495-49a5-8e79-f54b520f01ad,letter,sentences_oare_published_texts,2eeebc23-0ca8-646a-f59c-2db77d478a79,0.442283403324913,"If he does not pay (on time), he will add 3 shekels refined silver."
+dd12ca69-8495-49a5-8e79-f54b520f01ad,letter,sentences_oare_published_texts,e69ed573-3211-49cc-8091-f8830c91f059,0.7273346894593709,Eponymate: Šū-Daya s. Ennānum.
+dd12ca69-8495-49a5-8e79-f54b520f01ad,letter,sentences_oare_published_texts,b045fb32-7f94-cc4b-1fa0-df0435901491,0.632884098667381,"If he does not pay (on time), he will add interest at the rate of the silver."
+dd12ca69-8495-49a5-8e79-f54b520f01ad,letter,sentences_oare_published_texts,a9ab61cf-5963-c180-3898-27a76268fb99,0.3001562069350614,If they do not pay the silver and the remainder of the silver an
+48be3c4a-02d0-4a66-a6e8-d627dc32b36b,letter,sentences_oare_published_texts,3eda6e85-169a-b7b9-43e6-b7b7ef9f4dd5,0.3490550528589204,"To the silver belonging to the transport of Imgua, the 16 shekels of silver which you wrote to you."
+48be3c4a-02d0-4a66-a6e8-d627dc32b36b,letter,sentences_oare_published_texts,06f26425-39f7-2977-f7c5-70317195ecde,0.7277179816842384,Šū-Ištar brings you 1 talent of tin and Šū-Ištar brings to you.
+48be3c4a-02d0-4a66-a6e8-d627dc32b36b,letter,sentences_oare_published_texts,c5cfad37-9ac0-54c8-89cf-515fefd2cf5d,0.368048546894008,"My dear brother, so that Al-bēlī brings you 1 shekel of silver from the transport of Al-bēlī, so that Al-bēlī brings you 1 shekel of silver to you."
+48be3c4a-02d0-4a66-a6e8-d627dc32b36b,letter,sentences_oare_published_texts,f351df44-835c-1ba6-5c11-a88d08406b0b,0.300475471366579,"My dear father, send it to you."
+48be3c4a-02d0-4a66-a6e8-d627dc32b36b,letter,sentences_oare_published_texts,ddc0247f-f9dd-d37e-7fac-0d1d121e26fb,1.0000000000000002,"If he does not release the silver, he does not release."
+48be3c4a-02d0-4a66-a6e8-d627dc32b36b,letter,sentences_oare_published_texts,ddc0247f-f9dd-d37e-7fac-0d1d121e26fb,0.9056112009337984,Take care to send the silver and textiles.
+48be3c4a-02d0-4a66-a6e8-d627dc32b36b,letter,sentences_oare_published_texts,79543fee-ed27-9539-6ca9-69d65931f2e7,0.2386037033519803,Take care to send you your tablets.
+48be3c4a-02d0-4a66-a6e8-d627dc32b36b,letter,sentences_oare_published_texts,312e0e16-9bef-3064-5299-a9569634ae39,0.3519074738975447,"If he does not give the silver to me, send it to me."
+48be3c4a-02d0-4a66-a6e8-d627dc32b36b,letter,sentences_oare_published_texts,c5cfad37-9ac0-54c8-89cf-515fefd2cf5d,0.4073590118438475,Kulumaya brings you to you.
+48be3c4a-02d0-4a66-a6e8-d627dc32b36b,letter,sentences_oare_published_texts,0480d321-8019-4775-bb29-5ac41b659c02,0.464463888772204,"My dear brother, saying: ""I will send it to you."""
+8437f850-5ee2-4706-aac1-77c115e420b9,debt note | partnership,sentences_oare_published_texts,9ce80797-485f-4ad6-a3eb-477180b48f05,0.4420955412354115,"Witnesses: Atuman s. Aššur-lamassī, Mannum-bālum-Aššur s. Nāb-Suen, Aššur-mālik s. Suen-nādā."
+ed59d53f-db2f-4628-9ec3-b66e4b70d7fe,debt note,sentences_oare_published_texts,311470a1-7909-49cc-8a83-4f7ffea85386,0.9091005302802924,"If he does not pay (on time), he will add 1/2 shekels per mina per month as interest."
+3a82887a-bb91-cd4b-06a6-0b7821d34968,debt note,sentences_oare_published_texts,28e3b036-f568-426a-a4e1-b1b603277872,0.4906597016677015,He will add 1/2 shekel per mina per month from the ḫamuštum of Idī-Kūbum.
+3a82887a-bb91-cd4b-06a6-0b7821d34968,debt note,sentences_oare_published_texts,9be1e0a7-99f9-616e-7b81-8e2342f5c349,0.3451487973533569,"Witnesses: Aššur-ištakil s. Lulu, Dug-Aššur s. Nimar-Ištar."
+78b2ce01-b984-4fc3-b13f-54b1029e38b0,unknown,sentences_oare_published_texts,6d3168f3-99ba-46a2-865f-3e60fd30e30a,0.6703658948696394,"Seals: Lālum, Zuba, Asu."
+78b2ce01-b984-4fc3-b13f-54b1029e38b0,unknown,sentences_oare_published_texts,10b1ed0f-860a-4a3d-939e-3a7f43aca52e,0.4779920390643191,Asu owes Aššur-rēʾī 10 minas refined silver.
+78b2ce01-b984-4fc3-b13f-54b1029e38b0,unknown,sentences_oare_published_texts,7188acfd-1267-4d80-a062-6954f7cdd600,0.8235530105562087,"If he does not pay (on time), he will add 1/2 shekels per mina per month."
+524c3033-974b-08dc-1ad3-57d1e9c71496,letter,sentences_oare_published_texts,992b27b9-8e0c-b0a1-5730-dc99f6e5cf57,0.4945479522097081,To Pūšu-kēn and Gal-Aššur from Kuzallum:
+524c3033-974b-08dc-1ad3-57d1e9c71496,letter,sentences_oare_published_texts,b9128501-8c96-8688-8619-026847b75050,0.246523861995412,"As for the textiles of the textiles from the textiles of the textiles from the palace, and the colony office of the palace."
+524c3033-974b-08dc-1ad3-57d1e9c71496,letter,sentences_oare_published_texts,ddc0247f-f9dd-d37e-7fac-0d1d121e26fb,0.1942382776873937,Idnīnu and Gal-Aššur to the colony office of the colony office.
+524c3033-974b-08dc-1ad3-57d1e9c71496,letter,sentences_oare_published_texts,33287d6b-fd19-d181-7348-b11edb9b4e77,1.0,To Pūšu-kēn:
+524c3033-974b-08dc-1ad3-57d1e9c71496,letter,sentences_oare_published_texts,d61d72c0-a1ac-2544-8e62-1dea27b526ab,0.2572620501992122,As for the textiles which you must not release the textiles of Kalam.
+524c3033-974b-08dc-1ad3-57d1e9c71496,letter,sentences_oare_published_texts,20128a8b-a963-4126-a713-8266da50bd17,0.2876210520258541,If Innā-Suen brings you 20 minas silver for the silver which Innā-Suen brings you 20 minas silver to you.
+524c3033-974b-08dc-1ad3-57d1e9c71496,letter,sentences_oare_published_texts,679827c7-bb12-2189-07c2-9854f3d221c7,0.2186451581040921,As for the silver I will pay your silver from your silver.
+524c3033-974b-08dc-1ad3-57d1e9c71496,letter,sentences_oare_published_texts,060449c3-ad2b-01f7-86c9-47435f95ad7c,0.2431996478679794,"My dear brothers, do not release the silver."
+524c3033-974b-08dc-1ad3-57d1e9c71496,letter,sentences_oare_published_texts,624ec652-d489-482b-a557-27a3fa01273e,0.3532531101065398,If you do not give him to you 20 minas of silver for the 20 minas of silver.
+524c3033-974b-08dc-1ad3-57d1e9c71496,letter,sentences_oare_published_texts,dff850c8-ccd4-44a9-9994-2834ca832a6d,0.4416841599954143,The textiles of the textiles which you wrote to the textiles.
+e0b4cfc8-a2a9-42f1-82c1-9ab665c8762b,unknown,sentences_oare_published_texts,b58baad2-78ef-4b54-af23-f697a63c3710,0.6438785963797657,"Seals: Šalim-Aššur, Amur-Šamaš s. Saliti, Ikūnum s. Ilī-bāni."
+e0b4cfc8-a2a9-42f1-82c1-9ab665c8762b,unknown,sentences_oare_published_texts,495f3b50-4ba9-41a9-afc1-739de63e305b,0.7074108662254207,He will add 1 shekel per mina per month from the ḫamuštum of Aguza and Aššur-idī.
+94813d6b-ba3b-4974-b983-b85b506b1f52,unknown,sentences_oare_published_texts,af25b641-d124-40e5-a9f8-56b46e8b5eb0,0.6829712775880659,"Seals: Bur-Aššur, Ennum-Aššur, Abu-šalim."
+94813d6b-ba3b-4974-b983-b85b506b1f52,unknown,sentences_oare_published_texts,f5dea027-8a8a-4d66-b8b3-d6aa9a959d6a,1.0,Aššur-rēʾī owes Aššur-rēʾī 10 minas refined silver.
+94813d6b-ba3b-4974-b983-b85b506b1f52,unknown,sentences_oare_published_texts,af25b641-d124-40e5-a9f8-56b46e8b5eb0,1.0000000000000004,"If he does not pay (on time), he will add 1/2 shekels per mina per month as interest."
+bc152d71-743c-4429-8c76-3162e2baf01c,debt note,sentences_oare_published_texts,1b94528b-fe70-f651-95d9-28c2651d54f4,0.3122481798120362,Kadada owe Ḫulupa owe Kannu-ašu and Inar owe Aššur-mālik 1 mina refined silver.
+bc152d71-743c-4429-8c76-3162e2baf01c,debt note,sentences_oare_published_texts,8f6eb0af-5b97-4221-a109-bd58219e0c1a,0.3173027287161202,He will add 1/2 shekels per mina per month as interest from the ḫamuštum of Enna-Suen and Aššur-mālik.
+bc152d71-743c-4429-8c76-3162e2baf01c,debt note,sentences_oare_published_texts,93040e53-ffd8-43ef-a7be-163d7a58fcb4,0.6579204503340336,Month: ša sarrātim.
+bc152d71-743c-4429-8c76-3162e2baf01c,debt note,sentences_oare_published_texts,a753e885-08c0-49a2-9296-1c2d0e244c0b,0.9103195184785502,The silver is bound to the silver is with the silver.
+bc152d71-743c-4429-8c76-3162e2baf01c,debt note,sentences_oare_published_texts,58cc8096-5883-4058-9303-ba759e526058,0.4875965339020417,"Witnesses: Šū-Piaḫšu, Kariya, Dulala, Šū-Kūbum, Abī."
+fcb11275-7b0b-0409-4850-f55c1f07062d,letter,sentences_oare_published_texts,52a1cf8d-f03b-178d-396e-524aa0cd1a21,0.358772619790922,"1 kutānum textile under my seal, 5 minas of tin under my seal, 5 minas of tin under my seal."
+fcb11275-7b0b-0409-4850-f55c1f07062d,letter,sentences_oare_published_texts,52a1cf8d-f03b-178d-396e-524aa0cd1a21,0.5452318783464307,He will add 1 textile to the merchant of the merchant and the merchant of the merchant.
+fcb11275-7b0b-0409-4850-f55c1f07062d,letter,sentences_oare_published_texts,52a1cf8d-f03b-178d-396e-524aa0cd1a21,0.9463426621455756,The merchant is bound to the merchant.
+fcb11275-7b0b-0409-4850-f55c1f07062d,letter,sentences_oare_published_texts,51ae78ca-2d56-e281-5580-e7480ad582f8,0.7134678702412222,Month: 2 months.
+fcb11275-7b0b-0409-4850-f55c1f07062d,letter,sentences_oare_published_texts,52a1cf8d-f03b-178d-396e-524aa0cd1a21,0.3191948187897338,"As for the textiles, I will give the textiles."
+fcb11275-7b0b-0409-4850-f55c1f07062d,letter,sentences_oare_published_texts,1dcab0ac-ab5c-90c4-9455-5474e3bc0a96,0.3395751917998403,The remainder of the tin of the son of Idī-Ištar which 5 minas tin for the son of Idī-Ištar which 5 minas tin to Amurum.
+fcb11275-7b0b-0409-4850-f55c1f07062d,letter,sentences_oare_published_texts,33312dc1-66d5-7639-cba2-86988f1a4f85,0.2873404625727895,Take care to send it to the city.
+fcb11275-7b0b-0409-4850-f55c1f07062d,letter,sentences_oare_published_texts,d7f31909-9236-d776-8fb0-b8575400e6d8,0.4119156450412487,The silver belonging to the textiles of the textiles and the merchant will send it to you.
+28afbb6f-c21b-9f6c-49e8-18ec9167400a,letter,sentences_oare_published_texts,41fa4e9a-5e44-9462-5ce3-d74719aea3ba,1.0000000000000004,To Pūšu-kēn from Šū-Ištar:
+28afbb6f-c21b-9f6c-49e8-18ec9167400a,letter,sentences_oare_published_texts,0480d321-8019-4775-bb29-5ac41b659c02,0.3076642877377877,"My dear father, take care to send it to me."
+28afbb6f-c21b-9f6c-49e8-18ec9167400a,letter,sentences_oare_published_texts,057d1f78-c8f8-8af6-65e9-fc445d11ee0d,0.3553924221335576,"To the silver of Kulumaya and Imkuwa, 10 talents 50 minas tin under seal, 3 minas tin under seal, 10 kutānum textiles, 10 kutānum textiles, 17 donkeys."
+28afbb6f-c21b-9f6c-49e8-18ec9167400a,letter,sentences_oare_published_texts,fc8f3c1f-ed90-4f79-bd9d-77ccbb8a1475,0.2505926523637106,The remainder of the textiles in Ḫaḫḫum.
+28afbb6f-c21b-9f6c-49e8-18ec9167400a,letter,sentences_oare_published_texts,4e6a85fb-f9be-4743-a549-8fd3709d141e,0.360444921189899,I gave 1 shekel of silver and 1 shekel of silver and I will send it to you.
+28afbb6f-c21b-9f6c-49e8-18ec9167400a,letter,sentences_oare_published_texts,37b583a2-46e3-b3c9-094d-c571945d8246,0.6299696885144868,Take care to send you your textiles.
+28afbb6f-c21b-9f6c-49e8-18ec9167400a,letter,sentences_oare_published_texts,60949893-43bb-328e-8ea5-e6a244c3bfbe,0.2784328796456071,Take care to send it to you.
+28afbb6f-c21b-9f6c-49e8-18ec9167400a,letter,sentences_oare_published_texts,4fb0aca8-2ccd-4429-bef1-fe9999ce9b7b,0.5842514150863716,Take care to send 1 mina silver to me.
+5c779b6e-e6b3-cc46-3cd9-83fe7944fdb9,letter,sentences_oare_published_texts,803f72fd-7f4a-82c4-60b2-0093c9a6c3d1,0.7048166030640842,To Aššur-nādā and Kukulānum from Kurub-Ištar:
+5c779b6e-e6b3-cc46-3cd9-83fe7944fdb9,letter,sentences_oare_published_texts,f6b5ebf1-50c3-4998-ad35-6ffda2f4dcf5,0.3508723579549542,"You said, ""Aššur-lamassī and Azutaya textiles which Aššur-lamassī and Azutaya took the textiles for Aššur-nādā and the textiles to Aššur-nādā."""
+5c779b6e-e6b3-cc46-3cd9-83fe7944fdb9,letter,sentences_oare_published_texts,f4a09ef4-5711-d4c1-b632-ef15a1819b59,0.337024118592731,"My dear brother, take care to send it to you and send it to you."
+5c779b6e-e6b3-cc46-3cd9-83fe7944fdb9,letter,sentences_oare_published_texts,9d1362bb-ecbd-adb7-68a8-2fed38f0c971,0.3715060104278685,"My dear brothers, and they will send it to you."
+99ae91a8-eaee-42cb-863e-d2479e28f40a,debt note,sentences_oare_published_texts,aae11ab2-e493-5493-cc5d-dc4c103ed63c,0.7344760341183986,"If he does not pay (on time), he will pay at the rate of the colony."
+99ae91a8-eaee-42cb-863e-d2479e28f40a,debt note,sentences_oare_published_texts,93040e53-ffd8-43ef-a7be-163d7a58fcb4,0.5239203328692612,"Witnesses: Aššur-ṭāb, Al-aḫum."
+eaa52099-9a80-cc55-6849-a22ddaea9bb6,letter,sentences_oare_published_texts,ec6c0422-2473-8781-e500-2f179f65c91b,0.8197110024794583,"From Šalim-aḫum to Lā-qēpum, Ilī-ālum and Pūšu-kēn:"
+eaa52099-9a80-cc55-6849-a22ddaea9bb6,letter,sentences_oare_published_texts,cde3a4b0-6249-49ec-a62b-4fee8d458cb2,0.3351771662661395,The merchandise of the merchant in Kanesh.
+eaa52099-9a80-cc55-6849-a22ddaea9bb6,letter,sentences_oare_published_texts,ee086b86-1ce3-b682-b322-9b7e834abb50,0.5876717467880477,As for the merchant and send it to me a merchant and send it to me.
+eaa52099-9a80-cc55-6849-a22ddaea9bb6,letter,sentences_oare_published_texts,75901ee7-09ba-44a9-4f33-51476b8b696f,0.3951492136559477,Dān-Aššur and the house of the house.
+eaa52099-9a80-cc55-6849-a22ddaea9bb6,letter,sentences_oare_published_texts,b045fb32-7f94-cc4b-1fa0-df0435901491,0.4867349810046402,He will pay the silver and its interest at the merchant of the merchant.
+eaa52099-9a80-cc55-6849-a22ddaea9bb6,letter,sentences_oare_published_texts,e904f527-3205-f6d5-7cc4-007902b0d3fd,0.5564664525139748,"As for the merchant, do not return to you."
+eaa52099-9a80-cc55-6849-a22ddaea9bb6,letter,sentences_oare_published_texts,3efd5922-30d7-4d8d-a7e9-7991f9bd7579,0.4908814778828815,From the ḫamuštum of Al-aḫum and Aššur-bāni has been paid.
+eaa52099-9a80-cc55-6849-a22ddaea9bb6,letter,sentences_oare_published_texts,ee086b86-1ce3-b682-b322-9b7e834abb50,0.4369716323751008,Take care to send it to you.

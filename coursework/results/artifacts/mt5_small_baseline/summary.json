@@ -1,0 +1,22 @@
+{
+  "run_id": "mt5_small_baseline",
+  "artifact_source": "outputs/coursework/mt5_small_baseline/best_model.pt",
+  "config_path": "coursework/configs/mt5_small_baseline.yaml",
+  "source_prefix": "translate Akkadian to English: ",
+  "remove_gaps": false,
+  "strip_determinatives": false,
+  "tag_sumerograms": false,
+  "strip_homophone_subscripts": true,
+  "use_dictionary_gloss": false,
+  "max_glosses": 8,
+  "independent": {
+    "bleu": 6.933871013465839,
+    "chrf": 19.322816601567023,
+    "combined": 11.575055850064919
+  },
+  "newtest": {
+    "bleu": 6.641826577210123,
+    "chrf": 18.78682222794209,
+    "combined": 11.170443821749773
+  }
+}

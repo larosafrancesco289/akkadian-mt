@@ -1,0 +1,952 @@
+doc_id,genre,sentence_idx,anchor_valid,word_start,word_end,prediction
+008a0b1b-0319-5104-01ab-5f1e8e389aef,note,0,True,1,29,I entrusted 1 talent 52 minas 5 shekels tin and 10 kutānum-textiles belonging to Ennum-Aššur s. Puzur-Ištar in his tablet with his tin and the textiles to Uṣur-ša-Aššur s. Aššur-mālik his representative.
+008a0b1b-0319-5104-01ab-5f1e8e389aef,note,1,True,29,41,"Witnesses: Pūšu-kēn s. Sueyya, Puzur-Aššur s. Šū-Laban, Amur-ilī s. Ibī-Sua."
+f5ffae2d-8854-50db-3f64-641a30b5b478,unknown,0,True,1,9,Mawašḫi owes Aššur-nādā 1 mina 7 1/2 shekels silver.
+f5ffae2d-8854-50db-3f64-641a30b5b478,unknown,1,True,9,16,He will pay one week from the ḫamuštum of Naram-Suen.
+f5ffae2d-8854-50db-3f64-641a30b5b478,unknown,2,True,16,27,"If you do not pay, you will add 3 shekels per mina per month as interest."
+f5ffae2d-8854-50db-3f64-641a30b5b478,unknown,3,True,27,35,"Witnesses: Mezilī, Šarmama, Ḫalitka, Kušuman."
+063ab271-8cce-758c-d31a-6160eaa9ac3e,unknown,0,True,1,10,Pūšu-kēn gave 2 minas refined silver to Kuziya for the caravan.
+063ab271-8cce-758c-d31a-6160eaa9ac3e,unknown,1,True,10,14,Witnesses: Puzur-šadū s. Aššur-nādā.
+83924082-730e-4e46-8dda-cd94fd5dabf0,debt note,0,True,0,17,"Seals: Aššur-mālik s. Erraya, Elāli s. Ipilis, Aššur-idī s. Kukulānum, Ikuppiya s. Šū-Suen."
+83924082-730e-4e46-8dda-cd94fd5dabf0,debt note,1,True,17,28,Aššur-mālik s. Erraya owes the merchant 1 mina 1 shekel refined silver.
+83924082-730e-4e46-8dda-cd94fd5dabf0,debt note,2,True,28,34,From the ḫamuštum of Aššur-imittī s. Zupalali.
+83924082-730e-4e46-8dda-cd94fd5dabf0,debt note,3,True,34,36,Month: Ḫubur.
+83924082-730e-4e46-8dda-cd94fd5dabf0,debt note,4,True,36,41,Eponymate: Aššur-imittī s. Ilī-bāni.
+83924082-730e-4e46-8dda-cd94fd5dabf0,debt note,5,True,41,49,"If he does not pay (on time), he will add 1/2 shekels per mina per month."
+9b33f950-3f23-48f5-81eb-0ffc8f0f1195,unknown,0,True,1,12,Aššur-mālik s. Erraya owes the merchant 1 mina 1 shekel refined silver.
+9b33f950-3f23-48f5-81eb-0ffc8f0f1195,unknown,1,True,12,18,From the ḫamuštum of Aššur-imittī s. Zupalali.
+9b33f950-3f23-48f5-81eb-0ffc8f0f1195,unknown,2,True,18,20,Month: Ḫubur.
+9b33f950-3f23-48f5-81eb-0ffc8f0f1195,unknown,3,True,20,25,Eponymate: Aššur-imittī s. Ilī-bāni.
+9b33f950-3f23-48f5-81eb-0ffc8f0f1195,unknown,4,True,25,33,"If he does not pay (on time), he will add 1/2 shekels per mina per month."
+9b33f950-3f23-48f5-81eb-0ffc8f0f1195,unknown,5,True,33,45,"Witnesses: Elāli s. Ipilis, Aššur-idī s. Kukulānum, Ikuppiya s. Šū-Suen."
+ffe434da-6ad4-4f48-badc-7a79706799d5,unknown,0,True,8,31,Aššur-bēl-awātim and Akuza owe Buzutaya 1/2 mina refined silver.
+ffe434da-6ad4-4f48-badc-7a79706799d5,unknown,1,True,31,35,"If he does not pay (on time), he will add 1/2 shekels per mina per month."
+c37e3b5d-e0be-4bd2-956f-a24bc54d30ce,debt note,0,True,1,12,Arši-aḫ s. Aššur-bāni owes Imdī-ilum 1 mina 12 1/3 shekels refined silver.
+c37e3b5d-e0be-4bd2-956f-a24bc54d30ce,debt note,1,True,12,16,From the ḫamuštum of Al-aḫum he has 3 weeks to pay.
+c37e3b5d-e0be-4bd2-956f-a24bc54d30ce,debt note,2,True,16,18,Month: Al-anātum.
+c37e3b5d-e0be-4bd2-956f-a24bc54d30ce,debt note,3,True,18,27,"Witnesses: Usānum s. Amur-Aššur, Mašhi-ilī, Abīya s. Ṭāb-ṣilli-Aššur."
+0d3637ec-cd23-40d8-bd26-321de2eef68a,letter,0,True,0,8,"To Sukkallīya, Šū-Anum and Ikūn-pī-Aššur from Idī-Enzum:"
+0d3637ec-cd23-40d8-bd26-321de2eef68a,letter,1,True,8,11,To Ikuppī-Aššur:
+0d3637ec-cd23-40d8-bd26-321de2eef68a,letter,2,True,11,17,Aḫ-šalim and Aššur-nādā did not give me silver.
+0d3637ec-cd23-40d8-bd26-321de2eef68a,letter,3,True,17,21,Let your message come to them.
+0d3637ec-cd23-40d8-bd26-321de2eef68a,letter,4,True,21,27,I owe you 2 minas 4 shekels silver.
+0d3637ec-cd23-40d8-bd26-321de2eef68a,letter,5,True,27,32,You paid 2 minas amūrum for my accountings.
+0d3637ec-cd23-40d8-bd26-321de2eef68a,letter,6,True,32,50,"If he does not send the silver to you, let Sukkallīya and Šū-Anum take the silver for interest and give it to you."
+0d3637ec-cd23-40d8-bd26-321de2eef68a,letter,7,True,50,67,"If you do not receive the silver after your departure, send it to Aḫ-šalim and Aššur-nādā so that they send your silver."
+bd0b06df-0484-4c68-90ce-4c9f2163a4fb,debt note,0,True,0,25,"Seals: Upuiman, Artaya, Taḫaya, Ḫippu-ašu."
+e45aefb0-ac20-4c31-8164-0e0b8fdb063c,debt note,0,True,1,10,Isāya and Irradān owe Lā-qēpum 2 minas refined silver.
+e45aefb0-ac20-4c31-8164-0e0b8fdb063c,debt note,1,True,10,20,They will pay 33 weeks from the ḫamuštum of Agua and Lāqēp.
+e45aefb0-ac20-4c31-8164-0e0b8fdb063c,debt note,2,True,20,34,"If they do not pay at the fulfillment of their term, they will add 1/2 shekels per mina per month."
+e45aefb0-ac20-4c31-8164-0e0b8fdb063c,debt note,3,True,34,38,"Witnesses: Naram-Suen, Nūr-Ištar."
+e45aefb0-ac20-4c31-8164-0e0b8fdb063c,debt note,4,True,38,43,They are responsible for the silver.
+6cb11c6a-386b-4fdd-ac2d-6d9ee276070d,unknown,0,True,0,38,"Seals: Puzur-ilī s. Ilī-iš-tikal, Wasipuršu, Aššur-rēṣī, Tarikutaša"
+8dbb2468-5561-4934-bdde-d313877d8ad6,debt note,0,True,1,11,Ištar-ilī s. his son owes Amur-Ištar 1 mina 5 shekels refined silver.
+8dbb2468-5561-4934-bdde-d313877d8ad6,debt note,1,True,11,19,He will pay 20 weeks from the ḫamuštum of Iddinaya.
+8dbb2468-5561-4934-bdde-d313877d8ad6,debt note,2,True,19,21,Month: Kuzalli.
+8dbb2468-5561-4934-bdde-d313877d8ad6,debt note,3,True,21,25,Eponymate: Ilī-šu-rabi s. Bazia
+8dbb2468-5561-4934-bdde-d313877d8ad6,debt note,4,True,25,39,"If he does not pay (on time), he will add 1/2 shekels per mina per month as interest."
+8dbb2468-5561-4934-bdde-d313877d8ad6,debt note,5,True,39,45,"Witnesses: Ibni-Adad, Uzuwa, Mušmeni."
+2bd516e4-cd00-4d03-96c5-0a4b7c11545a,unknown,0,True,0,12,"Seals: Adad-bāni s. Išar-bēlī, Pilaḫ-Suen s. Aššur-enna."
+2bd516e4-cd00-4d03-96c5-0a4b7c11545a,unknown,1,True,12,17,He seized us against Šū-Bēlī son of Buluṭ-bēlī and said:
+2bd516e4-cd00-4d03-96c5-0a4b7c11545a,unknown,2,True,17,86,"Aššur-mālik said to Aššur-mālik: ""For 30 days the man will return to you for 30 days the man will not return to you for 30 days the man will return to you for 30 da"
+2bd516e4-cd00-4d03-96c5-0a4b7c11545a,unknown,3,True,86,88,Month: Ab-šarrānē.
+2bd516e4-cd00-4d03-96c5-0a4b7c11545a,unknown,4,True,88,90,Eponymate: Ḫatiu.
+2bd516e4-cd00-4d03-96c5-0a4b7c11545a,unknown,5,True,90,109,For these proceedings we gave us for these proceedings and we gave our testimony before the gods of the city and the colony office of Šuppiluliya and we gave our testimony before Aššur's dagger.
+f944c761-1362-807b-ce7c-27bf66aa0a26,contract of sale,0,True,0,8,"Seals: Aššur-dān, Buzia, Imdī-ilum, Aššur-ṭāb."
+f944c761-1362-807b-ce7c-27bf66aa0a26,contract of sale,1,True,8,29,"Regarding the 9 2/3 minas refined silver which my colony gave to Aššur-nādā for ebuṭum, Aššur-ṭāb received the silver and its price from the City and Aššur-ṭāb took his goods."
+f944c761-1362-807b-ce7c-27bf66aa0a26,contract of sale,2,True,29,36,"If anyone returns to Aššur-nādā, Aššur-ṭāb will clear him."
+5575df69-5d8b-797e-acf3-33594ce09bfa,unknown,0,True,1,10,Iliš-tīkal brought you 2 minas refined silver in his previous transport.
+5575df69-5d8b-797e-acf3-33594ce09bfa,unknown,1,True,10,214,"I gave 1 mina of silver for my accountings, 1 mina of 10 shekels for my accountings, and 10 shekels for my accountings, the remainder of my silver is 2 minas 7 1/2 shekels and 2 minas 6 shekels and 5 shekels amūtum textiles which Elāt son of panaka gave"
+912c522a-b7f2-4b64-b67e-bd5356fe1b5b,unknown,0,True,0,14,Because you deposited your message and you deposited your message and there is no matter available for the palace.
+912c522a-b7f2-4b64-b67e-bd5356fe1b5b,unknown,1,True,14,22,I paid you 1 mina of silver under my seal and Šū-Anum and Nakiliyat bring it to you.
+912c522a-b7f2-4b64-b67e-bd5356fe1b5b,unknown,2,True,22,23,I am in your possession.
+912c522a-b7f2-4b64-b67e-bd5356fe1b5b,unknown,3,True,23,24,Here.
+e0fe72bf-874c-46d5-9b98-e263427e397e,letter,0,True,0,8,To Amur-Ištar and Pūšu-kēn from Kunīlum:
+e0fe72bf-874c-46d5-9b98-e263427e397e,letter,1,True,8,22,"Amur-Aššur brings you 2 minas 7 1/2 shekels of silver belonging to Hinnaya, the price of the gold which the colony owes to him, under my seal."
+e0fe72bf-874c-46d5-9b98-e263427e397e,letter,2,True,22,32,"There, if you have deposited the textiles belonging to Hinnaya, pay the silver."
+e0fe72bf-874c-46d5-9b98-e263427e397e,letter,3,True,32,65,"If Hinnaya's message about this merchandise, do not sell anything to me, then I shall say to Pūšu-kēn: ""Do not sell anything to me."""
+01c149e6-7dc3-4b74-b9c0-9e3bc9548a4a,debt note,0,True,1,8,Ṭāb-ṣill-Aššur owes Buzāzu 2 minas refined silver.
+01c149e6-7dc3-4b74-b9c0-9e3bc9548a4a,debt note,1,True,8,22,"He will pay 40 weeks from the ḫamuštum of Iddin-abum s. Aššur-rabi, month Ab-šarrānē, eponymate Maṣi-ilī."
+01c149e6-7dc3-4b74-b9c0-9e3bc9548a4a,debt note,2,True,22,34,"If he does not pay (on time), he will add 1/2 shekels per mina per month."
+01c149e6-7dc3-4b74-b9c0-9e3bc9548a4a,debt note,3,True,34,35,The house of Aššur-nādā is the house.
+4c3eef56-f43a-4e04-ae62-eabeff05cd71,unknown,0,True,1,26,"Šū-Kūbum son of Ištar-palil gave to Niwahšušar son of Tuimum, Šimat-Suen son of Aššur-taklāku and the son of Aššur-taklāku to Niwahšušar son of Tuimum, Šimat-Suen son of Aššur-taklāku and the son of Aššur-taklāku to them."
+4c3eef56-f43a-4e04-ae62-eabeff05cd71,unknown,1,True,26,29,Month: Maḫḫur Ilī
+4c3eef56-f43a-4e04-ae62-eabeff05cd71,unknown,2,True,29,33,Eponymate: Munamirum s. Sin-išmeani.
+4c3eef56-f43a-4e04-ae62-eabeff05cd71,unknown,3,True,33,49,"Witnesses: Enna-Suen s. Aššur-imittī, Šalim-Aššur s. Pūšu-kēn, Adad-bāni s. Sukkallum."
+4ded5d1c-57fb-4fb9-a487-48acc6e7135a,debt note,0,True,36,40,"Witnesses: Nakilit, Ašiet."
+2dc4ae35-c637-3a0b-ff7c-935ad1de5191,note,0,True,1,25,"The 1 mina of silver which Ikūnum brought to Amur-Šamaš and Pūšu-kēn as our servants, there is a tablet with seals of Pūšu-kēn and Ikūnum in the house of Imdī-ilum in the house of Imdī-ilum."
+2dc4ae35-c637-3a0b-ff7c-935ad1de5191,note,1,True,25,40,"Saklīya, son of Šū-Ištar, son of Napraka, and Mannum-kī-Aššur, son of Šū-Bēlum, died."
+2dc4ae35-c637-3a0b-ff7c-935ad1de5191,note,2,True,40,61,"Then Ilī-bāni, Suen-rēʾī and Aššur-nīšu, the sons of Amur-Ištar, son of Amur-ilī, entered and he cleared the tablets of his father's father."
+bcf16e38-87fa-cb78-cba7-47f95ebb8c14,legal challenge,0,True,1,14,He took 1 mina of silver to me and we will release his tablet with his seal and we will inform us about the matter.
+bcf16e38-87fa-cb78-cba7-47f95ebb8c14,legal challenge,1,True,14,20,We entrusted the remainder of the gold in my tablets.
+bcf16e38-87fa-cb78-cba7-47f95ebb8c14,legal challenge,2,True,20,42,"He said, ""Until I have discussed with you, and I will take 1/3 mina of gold for my hand and I will take it for 6 minas of gold."""
+bcf16e38-87fa-cb78-cba7-47f95ebb8c14,legal challenge,3,True,42,51,"I said, ""Wherever Pūšu-kēn left, you will take the silver and take it."""
+bcf16e38-87fa-cb78-cba7-47f95ebb8c14,legal challenge,4,True,51,59,He deducted that he did not return anything to me.
+46d1e1ad-6000-b09b-6025-4d0c46760d96,note,0,True,1,9,I entrusted 2 minas silver under the seals of Lulu to Pūšu-kēn.
+46d1e1ad-6000-b09b-6025-4d0c46760d96,note,1,True,9,15,"Witnesses: Puzur-Aššur s. Ilišudāya, Anali."
+c803f46e-3634-ed06-d89d-56895704d199,memo,0,True,1,16,Aḫ-šalim s. Buzutaya and Aššur-taklāku s. Al-aḫum owe Enlil-bāni 1 mina 1 shekel refined silver.
+c803f46e-3634-ed06-d89d-56895704d199,memo,1,True,16,24,They will pay 46 weeks from the ḫamuštum of Luzina.
+c803f46e-3634-ed06-d89d-56895704d199,memo,2,True,24,36,"If they do not pay (on time), they will add 1 shekel per mina per month as interest."
+c803f46e-3634-ed06-d89d-56895704d199,memo,3,True,36,38,Month: Bēlet-ekallim
+c803f46e-3634-ed06-d89d-56895704d199,memo,4,True,38,56,"Eponymate: the eponymate after Agutum, they will return to the mina of the colony at 1/2 shekels and they will pay the silver."
+c803f46e-3634-ed06-d89d-56895704d199,memo,5,True,56,69,Aḫ-šalim s. Buzutaya and Aššur-taklāku s. Al-aḫum owe Enlil-bāni 2 minas refined silver.
+c803f46e-3634-ed06-d89d-56895704d199,memo,6,True,69,77,They will pay 35 weeks from the ḫamuštum of Luzina.
+c803f46e-3634-ed06-d89d-56895704d199,memo,7,True,77,101,"If they do not pay (on time), they will add 1 shekel per mina per month as interest."
+c803f46e-3634-ed06-d89d-56895704d199,memo,8,True,101,110,Dadaya s. Aššur-imittī owes Enlil-bāni 2 minas refined silver.
+c803f46e-3634-ed06-d89d-56895704d199,memo,9,True,110,129,"From the month ša sarrātim, eponymate after Maṣi-ilī, he will arrive in Kanesh and he will pay 5 months to pay."
+c803f46e-3634-ed06-d89d-56895704d199,memo,10,True,129,142,"If he does not pay (on time), he will add 1/2 shekels per mina per month."
+c803f46e-3634-ed06-d89d-56895704d199,memo,11,True,142,151,Šū-Suen s. Iliya owes Enlil-bāni 2 minas refined silver.
+c803f46e-3634-ed06-d89d-56895704d199,memo,12,True,151,165,"From the ḫamuštum of kaššim after Ennānum, month Allanātum, eponymate after Agutum."
+c803f46e-3634-ed06-d89d-56895704d199,memo,13,True,165,173,"If he does not pay (on time), he will add 1/2 shekels per mina per month."
+c803f46e-3634-ed06-d89d-56895704d199,memo,14,True,173,180,Nāb-Suen owes Enlil-bāni 2 minas refined silver.
+c803f46e-3634-ed06-d89d-56895704d199,memo,15,True,180,188,He will pay 11 weeks from the ḫamuštum of Ennānum.
+c803f46e-3634-ed06-d89d-56895704d199,memo,16,True,188,195,"If he does not pay (on time), he will add 1/2 shekels per mina per month."
+c803f46e-3634-ed06-d89d-56895704d199,memo,17,True,195,197,Month: Kuzalli.
+c803f46e-3634-ed06-d89d-56895704d199,memo,18,True,197,200,Eponymate: Agutum.
+c803f46e-3634-ed06-d89d-56895704d199,memo,19,True,200,207,Nūr-kīlī owes Enlil-bāni 2 minas refined silver.
+c803f46e-3634-ed06-d89d-56895704d199,memo,20,True,207,214,He will pay one month from the ḫamuštum of Enna-Suen.
+c803f46e-3634-ed06-d89d-56895704d199,memo,21,True,214,222,"If he does not pay (on time), he will add 1/2 shekels per mina per month."
+c803f46e-3634-ed06-d89d-56895704d199,memo,22,True,222,231,Aššur-taklāku s. Burqiya owes Enlil-bāni 2 minas refined silver.
+c803f46e-3634-ed06-d89d-56895704d199,memo,23,True,231,241,He will pay 15 weeks from the ḫamuštum of Kurub-Ištar s. Al-aḫim.
+c803f46e-3634-ed06-d89d-56895704d199,memo,24,True,241,250,"If he does not pay (on time), he will add 1/2 shekels per mina per month."
+c803f46e-3634-ed06-d89d-56895704d199,memo,25,True,250,253,Month: ša sarrātim
+c803f46e-3634-ed06-d89d-56895704d199,memo,26,True,253,258,Eponymate: Enna-Suen s. Šū-Aššur
+c803f46e-3634-ed06-d89d-56895704d199,memo,27,True,258,267,Lā-qēpim s. Šū-Aššur owes Enlil-bāni 2 minas refined silver.
+c803f46e-3634-ed06-d89d-56895704d199,memo,28,True,267,281,"He will pay 6 weeks from the ḫamuštum of Aššur-taklāku s. Al-aḫim, month Teʾinātim, eponymate Maṣi-ilī."
+c803f46e-3634-ed06-d89d-56895704d199,memo,29,True,281,290,"If he does not pay (on time), he will add interest at the rate of 2/3 shekel 15 grains."
+3f76f1f9-c0a8-0484-0d4c-5f23ba93f5ed,note,0,True,1,28,"Uṣur-ša-Aššur took 1 mina of silver for our father, 1 mina of silver and 30 minas of wool from the caravan of Pūšu-kēn in Karpata and Al-aḫum wrote his tablet."
+3f76f1f9-c0a8-0484-0d4c-5f23ba93f5ed,note,1,True,28,37,Al-aḫum has his sealed tablet which will come to him for interest.
+3f76f1f9-c0a8-0484-0d4c-5f23ba93f5ed,note,2,True,37,69,"10 minas of silver, the beulātum, 7 shekels of silver, the price of the kusītum, 1 black donkey which Idī-Ištar left, and 40 minas of copper, the remainder of my copper"
+3f76f1f9-c0a8-0484-0d4c-5f23ba93f5ed,note,3,True,69,78,Hulupa took 10 shekels silver belonging to Ganua for his be'ulātum.
+3f76f1f9-c0a8-0484-0d4c-5f23ba93f5ed,note,4,True,78,95,"2 minas silver and its interest and 6 shekels silver which were when they come to the pazurtum, Adad-bāni s. Budādum owes Adad-bāni s. Budādum."
+8bfb4a77-351b-4497-fb8f-abd3862ecc12,debt note,0,True,10,18,He will pay 2 months from the beginning of the month ša Teʾinātim.
+8bfb4a77-351b-4497-fb8f-abd3862ecc12,debt note,1,True,18,33,"If he does not pay at the fulfillment of his term, he will add 1/2 shekels per mina per month."
+8bfb4a77-351b-4497-fb8f-abd3862ecc12,debt note,2,True,33,37,Eponymate: Abīya s. Šū-Dagan.
+8bfb4a77-351b-4497-fb8f-abd3862ecc12,debt note,3,True,37,41,He will pay the silver in Kanesh.
+8bfb4a77-351b-4497-fb8f-abd3862ecc12,debt note,4,True,41,45,"Witnesses: Kurub-Ištar, Šalim-Aššur."
+cb580d64-81ee-55ad-40e4-c244937110f9,debt note,0,True,0,16,"Seals: Bēlum-bāni s. Aššur-bēl-awātim, Šamaš-Suen s. Manniya, Wereṣī s. Suen, Nimar-Ištar s. Puzur-Suen."
+cb580d64-81ee-55ad-40e4-c244937110f9,debt note,1,True,16,24,Nimar-Ištar owes Buzāzu 1 talent fine copper.
+cb580d64-81ee-55ad-40e4-c244937110f9,debt note,2,True,24,38,"He will pay 2 months from the ḫamuštum of Šumma-libba-Aššur, month ša kēnātim, eponymate after Samaya."
+cb580d64-81ee-55ad-40e4-c244937110f9,debt note,3,True,38,49,"If he does not pay (on time), he will add 1/2 minas per month as interest."
+cb580d64-81ee-55ad-40e4-c244937110f9,debt note,4,True,49,56,I entrusted this tablet to Ilī-mītī s. Šū-Ištar.
+cb580d64-81ee-55ad-40e4-c244937110f9,debt note,5,True,56,64,"Witnesses: Aššur-idīn s. Šū-Ištar, Idī-Suen s. Enna-Suen."
+ef7d38bc-df71-4437-82e5-85dc33d58b62,debt note,0,True,1,9,Adad-rabi the servant owes Aḫu-waqar 10 shekels refined silver.
+ef7d38bc-df71-4437-82e5-85dc33d58b62,debt note,1,True,9,20,He will add 1/2 shekels per mina per month as interest from the ḫamuštum of Šū-Kūbum and Amur-Šamaš.
+ef7d38bc-df71-4437-82e5-85dc33d58b62,debt note,2,True,20,27,Month: ša sarrātim.
+ef7d38bc-df71-4437-82e5-85dc33d58b62,debt note,3,True,27,31,"Witnesses: Panaka, Adad-pilaḫ."
+d76a351b-e322-3dfd-4007-64c3189729b2,letter,0,True,0,5,To Innāya from Mannum-bālum-Aššur:
+d76a351b-e322-3dfd-4007-64c3189729b2,letter,1,True,5,9,What did you write to me?
+d76a351b-e322-3dfd-4007-64c3189729b2,letter,2,True,9,11,"You said, ""You will say."""
+c2850a38-14d0-40ce-8bb0-5c3d3378a8eb,letter,0,True,0,13,"To Aššur-imittī, Ennum-Bēlum, Ennānum and Buburānum from Imdī-ilum, Pūšu-kēn, Aššur-ṣulūlī, and Uṣur-ša-Ištar:"
+c2850a38-14d0-40ce-8bb0-5c3d3378a8eb,letter,1,True,13,18,Puzur-Aššur died.
+c2850a38-14d0-40ce-8bb0-5c3d3378a8eb,letter,2,True,18,26,Both silver and the tablets of Puzur-Aššur are available.
+c2850a38-14d0-40ce-8bb0-5c3d3378a8eb,letter,3,True,26,38,"We seized both in Wašhania tablets, both in Waḫšušana and in"
+c2850a38-14d0-40ce-8bb0-5c3d3378a8eb,letter,5,True,46,53,Concerning his they left and they were disappointed.
+c2850a38-14d0-40ce-8bb0-5c3d3378a8eb,letter,6,True,53,59,"Also, I will depart with"
+c2850a38-14d0-40ce-8bb0-5c3d3378a8eb,letter,7,True,59,78,"I said, ""Either from the transport of Ennum-Bēlum or from the transport of Ennum-Bēlum or for every mina of silver, so that I can inform this silver."""
+c2850a38-14d0-40ce-8bb0-5c3d3378a8eb,letter,8,True,78,82,Let me bring it to me so that they let the silver come.
+c2850a38-14d0-40ce-8bb0-5c3d3378a8eb,letter,9,True,82,105,"At Šamaš-šamšī you read our letter, 40 minas silver which Ennum-Bēlum brought to you, its excise added, its wrappings are paid, its wrappings are paid, and its wrappings are paid"
+c2850a38-14d0-40ce-8bb0-5c3d3378a8eb,letter,10,True,105,110,Here Imdī-ilum is delighted concerning the matter of the god.
+c2850a38-14d0-40ce-8bb0-5c3d3378a8eb,letter,11,True,110,132,"We said, ""Let the price come and let Imdī-ilum bring every mina of silver at our arrival and let Imdī-ilum bring every mina of silver at our arrival and let Imdī-ilum bring our silver at our arrival and we will bring our silver at our arrival."""
+c2850a38-14d0-40ce-8bb0-5c3d3378a8eb,letter,12,True,132,142,"If anyone arrives for you, send him to Imdī-ilum, saying:"
+5c82c790-daf8-fcb8-84ed-6fd1f863c4a0,letter,0,True,0,11,"From Enlil-bāni to Aššur-rabi, Al-aḫum, Ab-šalim, and Šakrilka and Idī-Šamaš:"
+5c82c790-daf8-fcb8-84ed-6fd1f863c4a0,letter,1,True,11,37,"If the merchandise has been deposited, then send the merchandise to the merchandise which are available in the house and send it with the palace and our during seals and send it with the palace and our during seals with your seals with the palace and our d"
+5c82c790-daf8-fcb8-84ed-6fd1f863c4a0,letter,2,True,37,52,"Both the household and the household, wherever they are available, seal wherever they are available, and give me a copy of as much as you left to the maid."
+5c82c790-daf8-fcb8-84ed-6fd1f863c4a0,letter,3,True,52,63,"Now, enter the palace in the palace and let the maid come with Al-aḫum."
+5c82c790-daf8-fcb8-84ed-6fd1f863c4a0,letter,4,True,63,68,Give it to purchases for purchases.
+5c82c790-daf8-fcb8-84ed-6fd1f863c4a0,letter,6,True,81,106,"As for the pahikari of the house of Šū-Ištar, send 1/2 mina of silver to the house of Šū-Ištar and send it to Ab-šalim and pay him 7 1/2 shekels of silver."
+5c82c790-daf8-fcb8-84ed-6fd1f863c4a0,letter,7,True,106,119,"If you have purchased food, send it to you with the food and send it to me."
+5c48fb69-38b1-6922-f895-24d63de91e53,letter,0,True,0,6,To Pūšu-kēn from Lamassī:
+5c48fb69-38b1-6922-f895-24d63de91e53,letter,1,True,6,10,Kulumaya brings you 10 textiles.
+5c48fb69-38b1-6922-f895-24d63de91e53,letter,2,True,10,14,Idī-Suen brings you 10 textiles.
+5c48fb69-38b1-6922-f895-24d63de91e53,letter,3,True,14,20,Dān-Aššur brought 1 shekel of silver from the caravan.
+5c48fb69-38b1-6922-f895-24d63de91e53,letter,4,True,20,30,Ea-šar brought 1 shekel of silver from the caravan and the itgurum of the caravan.
+5c48fb69-38b1-6922-f895-24d63de91e53,letter,5,True,30,36,Idī-Suen brought 1 mina of goods from the caravan.
+5c48fb69-38b1-6922-f895-24d63de91e53,letter,6,True,36,42,Aḫu-waqar brought 1 mina of silver from the caravan.
+5c48fb69-38b1-6922-f895-24d63de91e53,letter,7,True,42,48,Ikuppiya brought 1 supplement of silver.
+5c48fb69-38b1-6922-f895-24d63de91e53,letter,8,True,48,54,The son of Ibī-sua brought 1 shekel of silver.
+5c48fb69-38b1-6922-f895-24d63de91e53,letter,9,True,54,59,"They brought samalātum, itgurātum and its interest."
+5c48fb69-38b1-6922-f895-24d63de91e53,letter,10,True,59,71,"If you are my lord, do not send it to you concerning the textiles about which you wrote, do not inform you."
+5c48fb69-38b1-6922-f895-24d63de91e53,letter,11,True,71,82,"When the servants arrived, I will balance one or two kabtum-textiles for the first transport."
+5c48fb69-38b1-6922-f895-24d63de91e53,letter,12,True,82,90,"Also, I will entrust it to the house and to the servants."
+5c48fb69-38b1-6922-f895-24d63de91e53,letter,13,True,90,95,I did not release the textiles and I did not send you textiles.
+5c48fb69-38b1-6922-f895-24d63de91e53,letter,14,True,95,99,The textiles are available according to my account.
+5c48fb69-38b1-6922-f895-24d63de91e53,letter,15,True,99,102,I will send it to you with the next traveler.
+5c48fb69-38b1-6922-f895-24d63de91e53,letter,16,True,102,114,"In the house of Abum-ilī, Ikūn-pīya belongs to Ataya, the house of Ataya."
+5c48fb69-38b1-6922-f895-24d63de91e53,letter,17,True,114,124,"Also, I seized me and he said, ""I will write to him. I will not write to him."""
+5c48fb69-38b1-6922-f895-24d63de91e53,letter,18,True,124,127,He departed and he departed.
+5c48fb69-38b1-6922-f895-24d63de91e53,letter,19,True,127,130,You say to him there:
+5c48fb69-38b1-6922-f895-24d63de91e53,letter,20,True,130,143,"You said, ""Why is it that you have settled your representatives in my house?"""
+5c48fb69-38b1-6922-f895-24d63de91e53,letter,21,True,143,150,"Now, concerning the bapirum which you wrote, the bapirum will deposit the bapirum."
+5c48fb69-38b1-6922-f895-24d63de91e53,letter,22,True,150,151,Eponymate: Epiš.
+5c48fb69-38b1-6922-f895-24d63de91e53,letter,23,True,151,152,He will clear the silver.
+5c48fb69-38b1-6922-f895-24d63de91e53,letter,24,True,152,156,"Also, the servant returned to the merchant."
+5c48fb69-38b1-6922-f895-24d63de91e53,letter,25,True,156,158,Set out and come.
+5c48fb69-38b1-6922-f895-24d63de91e53,letter,26,True,158,162,Send Aššur to Suni.
+5c48fb69-38b1-6922-f895-24d63de91e53,letter,27,True,162,166,"Also, your transport was seized."
+dce8df93-a002-6cb0-2b78-44957c06b3c0,letter,0,True,0,5,To Aššur-idī from Aššur-nādā:
+dce8df93-a002-6cb0-2b78-44957c06b3c0,letter,1,True,5,43,"My dear father and lord, as for the 1 mina of silver which Kurub-Ištar brought to you, and all of the goods which Ilī-ālum sent to you, let him clear the goods to the fulfillment of the fulfillmen"
+dce8df93-a002-6cb0-2b78-44957c06b3c0,letter,2,True,43,57,"If the merchandise does not dispatch the merchandise here, who will balance my silver here?"
+dce8df93-a002-6cb0-2b78-44957c06b3c0,letter,3,True,57,63,"They said, ""You will go to your father."""
+dce8df93-a002-6cb0-2b78-44957c06b3c0,letter,4,True,63,66,The father is representative of his name.
+dce8df93-a002-6cb0-2b78-44957c06b3c0,letter,6,True,93,119,"If you do not send me, clear the silver from my package and the nakrum of Aššur-taklāku and the nakrum of Aššur-taklāku and clear the goods here so that I do not leave the goods he"
+e9011e48-1b10-5be3-6d7b-88ba0b231623,letter,0,True,0,6,From Kurub-Ištar to Aššur-nādā:
+e9011e48-1b10-5be3-6d7b-88ba0b231623,letter,1,True,6,13,"Aššur-bāni brought 15 minas silver, its excise tax."
+e9011e48-1b10-5be3-6d7b-88ba0b231623,letter,2,True,13,27,"I brought 30 minas tin to you, thereof I gave 2 minas tin to Pilaḫ-Ištar."
+e9011e48-1b10-5be3-6d7b-88ba0b231623,letter,3,True,27,32,Pilaḫ-Ištar brings you 2 minas tin under my seal.
+a658fd2f-0163-7778-999c-bfab8ef4343d,letter,0,True,0,5,To Pūšu-kēn from Sueyya:
+a658fd2f-0163-7778-999c-bfab8ef4343d,letter,1,True,5,7,The tablet is deposited.
+a658fd2f-0163-7778-999c-bfab8ef4343d,letter,2,True,7,8,Let him inform me.
+a658fd2f-0163-7778-999c-bfab8ef4343d,letter,3,True,8,12,Send a message to my investors.
+a658fd2f-0163-7778-999c-bfab8ef4343d,letter,4,True,12,24,"Also, you did not say anything, saying: ""Let me send 1 shekel of silver to my son."""
+a658fd2f-0163-7778-999c-bfab8ef4343d,letter,5,True,24,30,"If you are my brothers, let your message come and come."
+37f138f9-3782-813c-1d76-58ce6044c1c5,debt note,0,True,1,13,Zupa Šateya and Ṣilli-Ištar owe the merchant 26 shekels silver which owe to the merchant.
+37f138f9-3782-813c-1d76-58ce6044c1c5,debt note,1,True,13,25,For this silver he will pay to the merchants according to their names.
+37f138f9-3782-813c-1d76-58ce6044c1c5,debt note,2,True,25,35,He will pay 3 months from the ḫamuštum of Ḫuraṣānum and Aššur-mālik.
+37f138f9-3782-813c-1d76-58ce6044c1c5,debt note,3,True,35,38,Month: Ab šarrānē.
+37f138f9-3782-813c-1d76-58ce6044c1c5,debt note,4,True,38,40,Eponymate: Aššur-idī
+37f138f9-3782-813c-1d76-58ce6044c1c5,debt note,5,True,40,44,"Witnesses: Pilaḫ-Aššur, Sueyya."
+24acccc4-2424-e1a9-575d-8cf3467cc871,unknown,0,True,59,67,"Witnesses: Ral-galiya, Taliya, Azu, Peruwa."
+c16149da-1d00-f8a7-2988-339067d35571,letter,0,True,1,12,"You took 2 minas refined silver, 15 shekels its interest, the copper belonging to Abuna's father."
+c16149da-1d00-f8a7-2988-339067d35571,letter,1,True,12,153,"As for the silver and its interest, Šū-Adad brought 2 minas refined silver for your name."
+3b924c5a-1e08-2b72-c790-8a9b1fb5a834,letter,0,True,0,5,From Pūšu-kēn to Lamassī:
+3b924c5a-1e08-2b72-c790-8a9b1fb5a834,letter,1,True,5,10,The remainder of your textiles are cleared.
+3b924c5a-1e08-2b72-c790-8a9b1fb5a834,letter,2,True,10,26,"The textiles which you gave to Puzur-Aššur, 1 textile excise, 2 textiles price, the remainder of 17 textiles."
+3b924c5a-1e08-2b72-c790-8a9b1fb5a834,letter,3,True,26,30,Aḫu-waqar brought 1 textile.
+3b924c5a-1e08-2b72-c790-8a9b1fb5a834,letter,4,True,30,34,Ea-šar brought 1 textile.
+3b924c5a-1e08-2b72-c790-8a9b1fb5a834,letter,5,True,34,37,Idī-Suen brought 1 textile.
+3b924c5a-1e08-2b72-c790-8a9b1fb5a834,letter,6,True,37,49,"Thereof, I deposited 3 textiles to Puzur-Aššur and I gave 20 textiles to him and I gave it to his account."
+3b924c5a-1e08-2b72-c790-8a9b1fb5a834,letter,7,True,49,55,The remainder of your textiles is 11 textiles.
+3b924c5a-1e08-2b72-c790-8a9b1fb5a834,letter,8,True,55,66,"Thereof, Kulumaya brings you 1/2 minas silver, its excise tax, its shipping charges are paid under my seal."
+3b924c5a-1e08-2b72-c790-8a9b1fb5a834,letter,9,True,66,91,"From the textiles which I sent to you, 2 textiles for writing and the silver which Kulumaya brings to you, 1 mina of silver which Kulumaya brings to you."
+3b924c5a-1e08-2b72-c790-8a9b1fb5a834,letter,10,True,91,119,"They brought the proceeds from Purušḫattum and 7 shekels of silver belonging to Il-bāni which the son of Kusārum paid, and from the price of the remainder of your textiles, Idī-Suen will send to you."
+3b924c5a-1e08-2b72-c790-8a9b1fb5a834,letter,11,True,119,123,To Lamassī:
+3b924c5a-1e08-2b72-c790-8a9b1fb5a834,letter,12,True,123,128,Give the fine textiles to the servants.
+3b924c5a-1e08-2b72-c790-8a9b1fb5a834,letter,13,True,128,129,Let them bring it to me.
+3b924c5a-1e08-2b72-c790-8a9b1fb5a834,letter,14,True,129,130,Let them dispatch them.
+3b924c5a-1e08-2b72-c790-8a9b1fb5a834,letter,15,True,130,141,"Why is it that you informed me about whatever you said, I am here when they said, I will come to your donkey."
+3b924c5a-1e08-2b72-c790-8a9b1fb5a834,letter,16,True,141,144,"If Ennaya arrives, I will depart."
+bd211716-1619-0ad2-179c-d5c8092f4edd,unknown,0,True,1,12,"Pūšu-kēn took 2 minas 10 shekels tin, the excise tax of 8 talents tin."
+bd211716-1619-0ad2-179c-d5c8092f4edd,unknown,1,True,12,24,"Pūšu-kēn took 1 mina 8 shekels silver, the price of the donkey."
+47d39864-3f95-41bb-9a50-1080224f6e6c,letter,0,True,0,11,"From Aššur-imittī, Erra-ilī and Aššur-bāni to Pūšu-kēn and say:"
+47d39864-3f95-41bb-9a50-1080224f6e6c,letter,2,True,18,35,"Thereof, 2 talents 10 minas tin and 20 minas hand tin at a rate of 1/2 shekels (per mina) were paid."
+47d39864-3f95-41bb-9a50-1080224f6e6c,letter,4,True,37,47,"1 šurūtum textile, the wrappings were 20 shekels, they borrowed 1/3 shekels silver."
+47d39864-3f95-41bb-9a50-1080224f6e6c,letter,5,True,47,55,The donkeys borrowed 2/3 mina 5/6 shekels silver.
+47d39864-3f95-41bb-9a50-1080224f6e6c,letter,6,True,55,58,Their gear was 2 shekels.
+47d39864-3f95-41bb-9a50-1080224f6e6c,letter,7,True,58,61,Their debt was 2 shekels.
+47d39864-3f95-41bb-9a50-1080224f6e6c,letter,8,True,61,66,1 shekel (to?) the textile for the saitum.
+47d39864-3f95-41bb-9a50-1080224f6e6c,letter,9,True,66,68,The exit tax was 2 shekels.
+47d39864-3f95-41bb-9a50-1080224f6e6c,letter,10,True,68,77,"In total, Šumi-abiya brings you the goods of 15 minas 3 1/3 shekels silver."
+47d39864-3f95-41bb-9a50-1080224f6e6c,letter,11,True,77,83,The remainder of your silver will come to you in the transport of Mannum-bālum-Aššur.
+fe5ff12d-8e8e-44db-93e8-a32d3ed0582a,letter,0,True,0,5,From Šū-Ḫubur to Pūšu-kēn:
+fe5ff12d-8e8e-44db-93e8-a32d3ed0582a,letter,1,True,5,19,"Concerning Ikūnum about which you wrote, I will bring it to you here concerning his words and I will write to you with the next travelers."
+fe5ff12d-8e8e-44db-93e8-a32d3ed0582a,letter,2,True,19,28,"As for the silver which you sent to me, because tin has been paid, we did not release the tin."
+fe5ff12d-8e8e-44db-93e8-a32d3ed0582a,letter,3,True,28,35,We purchased textiles from my silver and I will dispatch you with the next travelers.
+fe5ff12d-8e8e-44db-93e8-a32d3ed0582a,letter,4,True,35,43,"As for the 10 minas tin which has come to you, I owe your tin to your tin."
+fe5ff12d-8e8e-44db-93e8-a32d3ed0582a,letter,5,True,43,47,He does not owe the tin after the fulfillment.
+fe5ff12d-8e8e-44db-93e8-a32d3ed0582a,letter,6,True,47,57,"Concerning the matter of the son of Qatim, why is it this that you did not write me about anything?"
+fe5ff12d-8e8e-44db-93e8-a32d3ed0582a,letter,7,True,57,72,I hear that the man owes 30 minas silver to Aššur-šamšī his brother and his tablet is there.
+fe5ff12d-8e8e-44db-93e8-a32d3ed0582a,letter,8,True,72,76,Seal the message and let your message come.
+ca51c8a7-0b65-9162-113c-d2ba8d548760,unknown,0,True,1,9,He will pay 7 ḫamuštum weeks from Nurkilī.
+ca51c8a7-0b65-9162-113c-d2ba8d548760,unknown,1,True,9,17,"Witnesses: Aššur-ṭāb s. Kiki, Dadāya s. Aššur-imittī."
+8ea02783-ecbc-467b-9130-2073e047d3ef,letter,0,True,0,6,To Aššur-nādā from Aššur-taklāk:
+8ea02783-ecbc-467b-9130-2073e047d3ef,letter,1,True,6,15,"I took 1 talent textiles, 3 minas tin for your guarantors."
+8ea02783-ecbc-467b-9130-2073e047d3ef,letter,2,True,15,22,He deducted 1 mina 10 shekels silver to your accounts.
+8ea02783-ecbc-467b-9130-2073e047d3ef,letter,3,True,22,44,1 mina 40 minas per mina for the silver from the caravan of Pūšu-kēn and I took 12 talents 50 minas textiles and 6 minas textiles.
+57514857-ee34-4480-88ce-f3b0db9047cb,letter,0,True,0,7,To Idī-abum and Puzur-Aššur from Šū-Ištar:
+57514857-ee34-4480-88ce-f3b0db9047cb,letter,1,True,7,13,"My dear brothers, what can I write to you?"
+57514857-ee34-4480-88ce-f3b0db9047cb,letter,2,True,13,24,"My dear father and lord, why did you not deposit the silver?"
+57514857-ee34-4480-88ce-f3b0db9047cb,letter,3,True,24,35,Let your message come so that every mina 5 shekels silver should be added as interest.
+57514857-ee34-4480-88ce-f3b0db9047cb,letter,4,True,35,50,Let him bring both the merchandise and the textiles from Akkadian textiles and the kutānum-textiles which Enni have deposited and write to them with me.
+57514857-ee34-4480-88ce-f3b0db9047cb,letter,5,True,50,131,Let him make purchases and send it to you there and send the silver and its interest there and send the silver and its interest there.
+b91982a7-ab8b-4e95-8496-38a678a64d64,legal writing(s),0,True,1,46,"2 talents 50 minas of poor quality copper under his seal, the palace of Pūšu-kēn, 3 talents 40 minas of silver under his seal, 5 talents of massive copper under his seal, 6 minas of silver and 5 shekels of gol"
+b91982a7-ab8b-4e95-8496-38a678a64d64,legal writing(s),1,True,46,55,"Thereof, the donkey belonging to Kulumaya and Urani is 4 talents of refined silver."
+b91982a7-ab8b-4e95-8496-38a678a64d64,legal writing(s),3,True,60,66,"10 minas of silver, 13 black donkeys from the wrappings."
+b91982a7-ab8b-4e95-8496-38a678a64d64,legal writing(s),4,True,66,71,"Thereof, 3 black donkeys, 3 black donkeys."
+b91982a7-ab8b-4e95-8496-38a678a64d64,legal writing(s),5,True,71,78,I entrusted this to Kulumaya and Sueyya.
+b91982a7-ab8b-4e95-8496-38a678a64d64,legal writing(s),6,True,78,90,"Witnesses: Šumma-libbi-Aššur s. Kuskusim, Ilī-nādā s. Aššur-nādā, Šalim-Aššur s. Itūr-ilī."
+0b041db1-f392-49d1-ae4d-3858ec1622b8,letter,0,True,0,63,To Innāya from Ikūn-pīya:
+0b041db1-f392-49d1-ae4d-3858ec1622b8,letter,1,True,63,89,"Concerning the matter of which you are here, if you wish to read my tablets, let your message come and let your message come."
+29eb2a1b-586a-4dcb-842c-3db017f3e525,debt note,0,True,1,25,Uṣur-ša-Aššur owes Buzāzu 1 mina refined silver.
+29eb2a1b-586a-4dcb-842c-3db017f3e525,debt note,1,True,25,29,From the ḫamuštum of Idī-Kūbum.
+29eb2a1b-586a-4dcb-842c-3db017f3e525,debt note,2,True,29,31,Month: Qarrātim
+29eb2a1b-586a-4dcb-842c-3db017f3e525,debt note,3,True,31,33,Eponymate: Ikuppī-Ištar
+29eb2a1b-586a-4dcb-842c-3db017f3e525,debt note,4,True,33,39,"Witnesses: Ikuppiya, Adad-Andul, Aššur-nimrī."
+127c139f-180a-484b-b8ab-274be5ad342e,letter,0,True,0,9,"To Abu-šalim, Šū-Anum, Šalim-Aššur and Ennišru from Pūšu-kēn:"
+127c139f-180a-484b-b8ab-274be5ad342e,letter,1,True,9,21,"I hear that the caravan of the house is exhausted, Abu-šalim brings 3 shekels of silver under seals to Enišru."
+127c139f-180a-484b-b8ab-274be5ad342e,letter,2,True,21,25,My dear brothers and lords are your servants.
+127c139f-180a-484b-b8ab-274be5ad342e,letter,3,True,25,33,Give 2 talents to Enišru and you will be able to make your decision.
+127c139f-180a-484b-b8ab-274be5ad342e,letter,4,True,33,47,Let him leave so that we can clear both the palace and the father of my father and I am able to settle your words.
+127c139f-180a-484b-b8ab-274be5ad342e,letter,5,True,47,49,"Please, take care!"
+127c139f-180a-484b-b8ab-274be5ad342e,letter,6,True,49,55,"My dear brothers, dispatch the house so that the house can come."
+127c139f-180a-484b-b8ab-274be5ad342e,letter,7,True,55,58,What is it that he wrote?
+127c139f-180a-484b-b8ab-274be5ad342e,letter,8,True,58,69,"He said, ""In the house, until my instructions do not come to him until my instructions come, he will not depart."""
+127c139f-180a-484b-b8ab-274be5ad342e,letter,9,True,69,72,To Šalim-Aššur:
+127c139f-180a-484b-b8ab-274be5ad342e,letter,10,True,72,81,From the 1/3 mina la 1 shekel of silver belonging to Puzur-Aššur.
+e0255830-ef60-4bf4-8c9b-cfbcc6312cab,agreement (contract) | legal writing(s),0,True,0,6,Pūšu-kēn and Lamassī departed from the City.
+e0255830-ef60-4bf4-8c9b-cfbcc6312cab,agreement (contract) | legal writing(s),2,True,13,24,"Do not return to Pūšu-kēn, his sons, his sons and his servants, Lamassī and his sons will not return to Pūšu-kēn."
+e0255830-ef60-4bf4-8c9b-cfbcc6312cab,agreement (contract) | legal writing(s),3,True,24,42,"They wrote me with Aššur, with regard to the transport of Aššur, with regard to the transport of th"
+e0255830-ef60-4bf4-8c9b-cfbcc6312cab,agreement (contract) | legal writing(s),4,True,42,58,"Witnessed by, by Aluwa, by Nuḫanu, by, by -Aššur."
+b7a9f9d1-7a5c-4d64-59b2-ac4595cf2fea,letter,0,True,0,6,From Aššur-idī to Aššur-nādā:
+b7a9f9d1-7a5c-4d64-59b2-ac4595cf2fea,letter,1,True,6,149,"1 talent 10 minas tin under seal, 24 textiles under seal, 24 textiles under seal, 5 kutānum-textiles belonging to Naruqqiya, 12 kutānum-textiles belonging to Aššur-nādā, 11 textiles belonging to Aššur-nādā, 11 textiles belonging to Aššur-nādā"
+b7a9f9d1-7a5c-4d64-59b2-ac4595cf2fea,letter,2,True,149,153,"Witnesses: Azuwa, Ilī-dālim."
+6a998979-c372-e298-04a2-31038984461a,letter,0,True,0,11,To Pūšu-kēn and Aššur-nīšu from Ikūn-pīya:
+6a998979-c372-e298-04a2-31038984461a,letter,1,True,11,25,"2 donkeys, 15 talents fine copper, Mišlum, Masium, Ḫaburatāyum and my servants are deposited in the transport."
+6a998979-c372-e298-04a2-31038984461a,letter,2,True,25,29,"Also, deposit the copper."
+6a998979-c372-e298-04a2-31038984461a,letter,3,True,29,33,"Also, I did not return the donkeys."
+6a998979-c372-e298-04a2-31038984461a,letter,4,True,33,42,I am staying in Tuhpiya in Tuḫpiya.
+6a998979-c372-e298-04a2-31038984461a,letter,5,True,42,46,I hear that I am delayed to the City.
+6a998979-c372-e298-04a2-31038984461a,letter,6,True,46,54,Until the end of the merchant he will pay 10 minas copper.
+6a998979-c372-e298-04a2-31038984461a,letter,7,True,54,57,It is not silver.
+6a998979-c372-e298-04a2-31038984461a,letter,8,True,57,61,10 shekels were entrusted to my account.
+6a998979-c372-e298-04a2-31038984461a,letter,9,True,61,64,The copper is no copper.
+6a998979-c372-e298-04a2-31038984461a,letter,10,True,64,70,I entrusted 2 minas to my account and I purchased donkeys.
+6a998979-c372-e298-04a2-31038984461a,letter,11,True,70,78,"My dear father and lord, why are you writing to whom?"
+6a998979-c372-e298-04a2-31038984461a,letter,12,True,78,102,Give both 4 donkeys or 5 donkeys for the previous terms and send them to Purušḫattum and let them bring them to Purušḫattum and let them bring 1 shekel of silver and
+6a998979-c372-e298-04a2-31038984461a,letter,13,True,102,111,"Now, if you do not owe a donkey, take me with my brother."
+6a998979-c372-e298-04a2-31038984461a,letter,14,True,111,114,To Kulumaya:
+6a998979-c372-e298-04a2-31038984461a,letter,15,True,114,116,Let your message come.
+753bc087-34f0-7971-c1b9-2a038fabe14c,letter,0,True,0,5,From Šū-Ḫubur to Pūšu-kēn:
+753bc087-34f0-7971-c1b9-2a038fabe14c,letter,1,True,5,18,"Concerning the matter of Puzur-Anna son of Qatim, here there is nothing to take a single shekel of silver."
+753bc087-34f0-7971-c1b9-2a038fabe14c,letter,2,True,18,31,"There, as much as you can, leave the man and pay the silver and give it to him for purchases."
+753bc087-34f0-7971-c1b9-2a038fabe14c,letter,3,True,31,40,"If he does not have his sealed tablet with his sealed seals here, he will add interest here."
+753bc087-34f0-7971-c1b9-2a038fabe14c,letter,4,True,40,46,Ennum-Aššur s. Šalim-aḫum will go with the caravan.
+753bc087-34f0-7971-c1b9-2a038fabe14c,letter,5,True,46,51,Here the servant is held in the house.
+753bc087-34f0-7971-c1b9-2a038fabe14c,letter,6,True,51,55,There is his servant there.
+753bc087-34f0-7971-c1b9-2a038fabe14c,letter,7,True,55,58,He does not inform him.
+753bc087-34f0-7971-c1b9-2a038fabe14c,letter,8,True,58,61,I did not enjoy your instructions.
+753bc087-34f0-7971-c1b9-2a038fabe14c,letter,9,True,61,65,Dispatch him and send it to him so that they can return the servant.
+753bc087-34f0-7971-c1b9-2a038fabe14c,letter,10,True,65,73,"If you are my brother, seize my daughter or not your daughter, send him to him."
+bfd3ef8a-69fd-2d25-b92f-ad646713310d,letter,0,True,0,7,From Aššur-mālik and Šalim-Aššur to Pūšu-kēn:
+bfd3ef8a-69fd-2d25-b92f-ad646713310d,letter,1,True,7,20,"Concerning the price of Akidiya about which you wrote, since they departed, they did not enter the City."
+bfd3ef8a-69fd-2d25-b92f-ad646713310d,letter,2,True,20,31,"Their hands are delayed, and if they depart to Kuṣi, we will bring to you the price of your balaṭum."
+bfd3ef8a-69fd-2d25-b92f-ad646713310d,letter,3,True,31,36,And we will pay the silver from our own funds.
+bfd3ef8a-69fd-2d25-b92f-ad646713310d,letter,4,True,36,39,Take care to send the silver.
+bfd3ef8a-69fd-2d25-b92f-ad646713310d,letter,5,True,39,41,Aššur-mālik said:
+bfd3ef8a-69fd-2d25-b92f-ad646713310d,letter,6,True,41,53,"My dear brother, because you are delayed and you brought every mina of silver from my accounts, Ennāya informed Ennāya."
+bfd3ef8a-69fd-2d25-b92f-ad646713310d,letter,7,True,53,65,"Also, take care to send the 10 minas silver belonging to Puzur-Ištar son of Aššur-mālik."
+bfd3ef8a-69fd-2d25-b92f-ad646713310d,letter,8,True,65,69,I have heard your tablet and have been delayed.
+bfd3ef8a-69fd-2d25-b92f-ad646713310d,letter,9,True,69,71,From Šalim-Aššur:
+bfd3ef8a-69fd-2d25-b92f-ad646713310d,letter,10,True,71,75,I seized the servant with Enna-Suen.
+bfd3ef8a-69fd-2d25-b92f-ad646713310d,letter,11,True,75,83,"Also, concerning your 10 kutānum-textiles which I gave him, Enna-Suen brings it."
+bfd3ef8a-69fd-2d25-b92f-ad646713310d,letter,12,True,83,89,"My dear brother, if you arrive, I will release the servant to him."
+bfd3ef8a-69fd-2d25-b92f-ad646713310d,letter,13,True,89,92,Let the servant reach the servant with you.
+bfd3ef8a-69fd-2d25-b92f-ad646713310d,letter,14,True,92,98,Enna-Suen is responsible for my kutānum-textiles.
+049e7360-c5c6-4eb4-b79b-62c6ba25902c,letter,0,True,0,7,From Aššur-nādā to Aššur-taklāku and Šišahšušar:
+049e7360-c5c6-4eb4-b79b-62c6ba25902c,letter,1,True,7,25,"Why is it that you said, ""Ela gave me 20 black donkeys and 15 black donkeys belonging to Kutupiš, but there is no one year."""
+049e7360-c5c6-4eb4-b79b-62c6ba25902c,letter,2,True,25,39,"Wherever we deposited 40 minas, Ilī-šar and Ḫulupa brought 2 1/2 minas tin which Ilī-šar and Ḫulupa brought."
+049e7360-c5c6-4eb4-b79b-62c6ba25902c,letter,3,True,39,57,"Urgent, the silver belonging to Ḫaluli, Azu and Tutuli, and Kaupa, send me 10 buqlum-textiles, 10 buqlum-textiles, and send me 10 buqlum-textiles."
+049e7360-c5c6-4eb4-b79b-62c6ba25902c,letter,4,True,57,61,"If you have delayed the deficiencies, take care."
+049e7360-c5c6-4eb4-b79b-62c6ba25902c,letter,5,True,61,67,"If Ababa does not pay (on time), let your message come."
+049e7360-c5c6-4eb4-b79b-62c6ba25902c,letter,6,True,67,69,Send the gold.
+b6feb106-2303-a2df-7eb9-b4e28f5da735,letter,0,True,0,9,"From Pūšu-kēn, Aššur-dān and Ennum-Aššur to Ištar-pilaḫ:"
+b6feb106-2303-a2df-7eb9-b4e28f5da735,letter,1,True,9,31,"As for the 10 minas silver which Abātum brought to Pūšu-kēn, Pūšu-kēn gave us the silver which Pūšu-kēn gave us and thereof we paid 1/3 mina 6 2/3 shekels silver to Iddin-abum."
+b6feb106-2303-a2df-7eb9-b4e28f5da735,letter,2,True,31,37,We paid 2 shekels silver for the donkey.
+b6feb106-2303-a2df-7eb9-b4e28f5da735,letter,3,True,37,43,I gave 2 shekels of silver to Ennum-Aššur.
+b6feb106-2303-a2df-7eb9-b4e28f5da735,letter,4,True,43,45,Let him bring you there.
+b6feb106-2303-a2df-7eb9-b4e28f5da735,letter,5,True,45,54,"The remainder of the silver, 1/2 mina 8 1/3 shekels is available with Pūšu-kēn."
+b6feb106-2303-a2df-7eb9-b4e28f5da735,letter,6,True,54,60,Iddin-abum did not give the tin to Ennum-Aššur.
+b6feb106-2303-a2df-7eb9-b4e28f5da735,letter,7,True,60,65,We took the tin and we will send it to you with the next travelers.
+aabe6681-8a4a-ca58-2a5a-c9fc683217d2,letter,0,True,0,5,To Pūšu-kēn from Ikuppiya:
+aabe6681-8a4a-ca58-2a5a-c9fc683217d2,letter,1,True,5,12,Šū-Nūnu departed.
+aabe6681-8a4a-ca58-2a5a-c9fc683217d2,letter,2,True,12,16,Take care to deposit your merchandise.
+aabe6681-8a4a-ca58-2a5a-c9fc683217d2,letter,3,True,16,25,I gave 2 minas of massive copper and 10 interests to Elāli's account.
+dd8e9f4b-b378-f996-c76c-542b8cb0f6b7,letter,0,True,0,9,To Aššur-mutabbil and Ṭāb-Aššur from Aššur-idī:
+dd8e9f4b-b378-f996-c76c-542b8cb0f6b7,letter,1,True,9,20,"The tablet concerning the 17 minas silver which I left in your house, in our accounts."
+dd8e9f4b-b378-f996-c76c-542b8cb0f6b7,letter,2,True,20,37,The tablet he died and Pūšu-kēn son of Buzāzu returned to me a tablet with 10 minas silver.
+dd8e9f4b-b378-f996-c76c-542b8cb0f6b7,letter,3,True,37,65,"In the šaḫat of Ṭāb-Aššur my brother stood there and let him seize the tablet with the 10 minas silver concerning the debt of Pūšu-kēn son of Šerawašašumi, so that he seizes the accounts of my brother."
+64e0776b-ee95-a1fd-527d-c67907fd7e36,debt note,0,True,20,56,Amur-Aššur s. Papalanum owes Šū-Ḫubur 2 minas refined silver.
+cc4f7bf0-6666-27c7-5a3a-c0918b1c8c51,debt note,0,True,18,30,He will pay 10 weeks from the ḫamuštum of Aššur-ṭāb.
+cc4f7bf0-6666-27c7-5a3a-c0918b1c8c51,debt note,1,True,30,31,"If he does not pay (on time), he will add 1/2 shekels per mina per month."
+3741a71d-2fcb-4bd3-be80-09c7d7cd3ebf,unknown,0,True,4,8,Puzur-Aššur owes Aššur-idī 2 minas refined silver.
+3741a71d-2fcb-4bd3-be80-09c7d7cd3ebf,unknown,1,True,8,35,He will pay 13 weeks from the ḫamuštum of Idna.
+b46698b8-d062-4504-9574-19412ea971a6,debt note,0,True,0,13,"Seals: Irma-Aššur s. Nidebāni, Ikuppī-Aššur s. Puzur-Ištar, Buṣānum s. Puzur-Suen."
+b46698b8-d062-4504-9574-19412ea971a6,debt note,1,True,13,24,Buṣānum s. Puzur-Suen owes Adad-ṣulūlī 1 mina 15 shekels refined silver.
+b46698b8-d062-4504-9574-19412ea971a6,debt note,2,True,24,40,"He will pay 25 weeks from the ḫamuštum of Innāya and Aššur-mālik, month Kuzalli, eponymate Aššur-idī s. Šuli."
+b46698b8-d062-4504-9574-19412ea971a6,debt note,3,True,40,51,"If he does not pay (on time), he will add 1/2 shekels per mina per month."
+6694cd19-356f-4fdc-81a5-e6e1cbed0486,unknown,0,True,8,16,Ilī-ānum owes Ilī-ānum 1/3 mina refined silver.
+6694cd19-356f-4fdc-81a5-e6e1cbed0486,unknown,1,True,16,23,He will pay 1 week from the ḫamuštum of Aššur-ṭāb.
+6694cd19-356f-4fdc-81a5-e6e1cbed0486,unknown,2,True,23,32,"If he does not pay (on time), he will add 1/2 shekels per mina per month as interest."
+1ba2ebae-5106-4ba3-941b-ab9b05e44c1b,unknown,0,True,22,35,"If he does not pay (on time), he will add 1/2 shekels per month as interest."
+e8d1bea7-71a7-c708-d66e-904a7887c790,debt note,0,True,1,8,Kunaya owes Puzur-Suen 2 minas refined silver.
+e8d1bea7-71a7-c708-d66e-904a7887c790,debt note,1,True,8,18,He will pay 40 weeks from the ḫamuštum of Ennānum and Šalim-Aššur.
+e8d1bea7-71a7-c708-d66e-904a7887c790,debt note,2,True,18,29,"If he does not pay (on time), he will add 1/2 shekels per mina per month."
+e8d1bea7-71a7-c708-d66e-904a7887c790,debt note,3,True,29,36,"Month: Kuzalli, eponymate Ibni-Adad s. Baqqunum."
+e8d1bea7-71a7-c708-d66e-904a7887c790,debt note,4,True,36,44,"Witnesses: Puzur-sadue, Uṣur-ša-Aššur s. Agua, Aššur-iš-takkil."
+29fd9a1d-02ad-1ba5-a82c-645dc5094285,debt note,0,True,89,93,"Witnesses: Dadānum, Šalim-Aššur."
+72249235-520d-51f9-9675-e83c4807fe41,testimony,0,True,0,4,Kuziya seized us against Dān-Aššur and said:
+72249235-520d-51f9-9675-e83c4807fe41,testimony,1,True,4,51,"Kuziya said to Dān-Aššur: ""My dear brother, my dear brother, the 3 minas silver which you gave to the son of Erraya and they will come to the City and they will come to the City and I will take the silver to the son of Erraya so that you will take the s"
+72249235-520d-51f9-9675-e83c4807fe41,testimony,2,True,51,69,We deducted Dān-Aššur and we deducted every mina of silver for 3 minas of silver and Kuziya will come to the son of Erraya and Kudādum.
+72249235-520d-51f9-9675-e83c4807fe41,testimony,3,True,69,79,"Dān-Aššur answered: ""If you have left every mina of silver, I will take the silver here."""
+72249235-520d-51f9-9675-e83c4807fe41,testimony,4,True,79,89,"Kuziya said, ""Take the silver belonging to Ṭāb-ṣilli-Aššur son of Puzur-Muš."""
+72249235-520d-51f9-9675-e83c4807fe41,testimony,5,True,89,102,"For these matters, the wabartum of Upe gave us for these matters and we gave our testimony before the dagger of Aššur."
+72249235-520d-51f9-9675-e83c4807fe41,testimony,6,True,102,112,"Witnesses: Pilaḫ-Aššur s. Aššur-Šamši, Aššur-nādā s. Šū-Enlil."
+e038e30e-bd92-4f78-a78c-a60455ee7b43,debt note,0,True,10,13,Son of Uṣur-ša-Aššur owes 2 minas refined silver.
+e038e30e-bd92-4f78-a78c-a60455ee7b43,debt note,1,True,13,26,They will pay the silver per month as interest.
+e038e30e-bd92-4f78-a78c-a60455ee7b43,debt note,2,True,26,27,"If they do not pay (on time), they will add 1/2 shekels per mina per month."
+e038e30e-bd92-4f78-a78c-a60455ee7b43,debt note,3,True,27,29,Month: Ḫubur.
+e038e30e-bd92-4f78-a78c-a60455ee7b43,debt note,4,True,29,33,Eponymate: Ikuppiya s. Šalim-Aššur.
+0ac20387-f297-4143-99d1-0de0df671951,unknown,0,True,0,6,"Seals: Puzur-Aššur, Aššur-mālik."
+0ac20387-f297-4143-99d1-0de0df671951,unknown,1,True,6,15,Šū-Aššur s. Al-aḫum owes Aššur-rēʾī 10 shekels silver.
+0ac20387-f297-4143-99d1-0de0df671951,unknown,2,True,15,34,He will pay 3 weeks from the ḫamuštum of Aguza and Aššur-idī.
+0ac20387-f297-4143-99d1-0de0df671951,unknown,3,True,34,47,"If he does not pay (on time), he will add 1/2 shekels per mina per month as interest."
+1c05fdac-ec46-4056-a6ef-f4fe1ab68990,letter,0,True,8,17,To Pilah-Ištar from Pilah-Ištar:
+1c05fdac-ec46-4056-a6ef-f4fe1ab68990,letter,1,True,17,22,He will come concerning Ilī-nādā s. Bazia.
+1c05fdac-ec46-4056-a6ef-f4fe1ab68990,letter,2,True,22,46,"Why is it that there they cleared the merchandise there and the house to Kanesh and my brothers deposited the house to Kanesh, what is it that my father and my brothers deposited the merchandise on my account?"
+1c05fdac-ec46-4056-a6ef-f4fe1ab68990,letter,3,True,46,52,"After 10 years from the ḫamuštum of Aššur-mālik, my father departed."
+1c05fdac-ec46-4056-a6ef-f4fe1ab68990,letter,4,True,52,56,Why is it that my father did not seize it?
+1c05fdac-ec46-4056-a6ef-f4fe1ab68990,letter,5,True,56,66,They did not give the silver to my father and he returned him.
+1c05fdac-ec46-4056-a6ef-f4fe1ab68990,letter,6,True,66,87,Iliš-tīkal deposited the silver of my father's silver.
+1c05fdac-ec46-4056-a6ef-f4fe1ab68990,letter,7,True,87,101,"Why is it that he seized my silver from my father's silver, not to the representative or to Iliš-tikal?"
+1c05fdac-ec46-4056-a6ef-f4fe1ab68990,letter,8,True,101,118,"As for my brothers and my brothers, we will inform him with him, either in Burušhaddum or in Ulama or in Wahšušana."
+1c05fdac-ec46-4056-a6ef-f4fe1ab68990,letter,9,True,118,122,Why is it that they did not give us anything?
+1c05fdac-ec46-4056-a6ef-f4fe1ab68990,letter,10,True,122,127,"Also, his messages did not come."
+1c05fdac-ec46-4056-a6ef-f4fe1ab68990,letter,11,True,127,136,He did not write to his representatives and did not write me.
+1c05fdac-ec46-4056-a6ef-f4fe1ab68990,letter,12,True,136,160,"Also, Šū-Bēlum's daughter received the transport tariff with me and I have received the instructions of the silver 1 mina or 2 minas of silver to Ulama and in his father's house the merchandise will be sent to Ulama in his house."
+1c05fdac-ec46-4056-a6ef-f4fe1ab68990,letter,13,True,160,165,Why is it that he does not seize my silver?
+1c05fdac-ec46-4056-a6ef-f4fe1ab68990,letter,14,True,165,183,"My dear father and lords, do not inform me because when my father died, when my father died, they sent me more silver and my tablets of my father's tablets."
+1c05fdac-ec46-4056-a6ef-f4fe1ab68990,letter,15,True,183,195,"My dear father and lords, for 5 years my brothers seized a maṣārtum and the maṣārtum is placed in the case of the case."
+1c05fdac-ec46-4056-a6ef-f4fe1ab68990,letter,16,True,195,199,My dear brothers are available in the house.
+1c05fdac-ec46-4056-a6ef-f4fe1ab68990,letter,17,True,199,218,"Also, here, I brought 1 or 2 minas of silver to the caravan of the maḫirum and I am delayed concerning the matter of the representative."
+1c05fdac-ec46-4056-a6ef-f4fe1ab68990,letter,18,True,218,226,If Ilī-nādā deposits a favor there and he will delay anything.
+1c05fdac-ec46-4056-a6ef-f4fe1ab68990,letter,19,True,226,232,"My dear father and lords, you are the son of the donkey."
+1c05fdac-ec46-4056-a6ef-f4fe1ab68990,letter,20,True,232,243,We purchased the colony and let them come to the City so that they come to the City.
+1c05fdac-ec46-4056-a6ef-f4fe1ab68990,letter,21,True,243,279,"Let him come here and let him come so that we wrote the tablets of our father's father, either tablets or tablets, and we wrote to the man for the silver of the man."
+1c05fdac-ec46-4056-a6ef-f4fe1ab68990,letter,22,True,279,286,He will not overvalue to him the tablet of my father.
+1c05fdac-ec46-4056-a6ef-f4fe1ab68990,letter,23,True,286,288,They will pay the silver and they will pay.
+2d44cd07-44d5-4738-a5d3-159dccc3eb92,unknown,0,True,13,28,Aššur-rēʾī owes Aššur-rēʾī 1/2 shekels refined silver.
+2d44cd07-44d5-4738-a5d3-159dccc3eb92,unknown,1,True,28,37,"If he does not pay (on time), he will add 1/2 shekels per mina per month as interest."
+440e60c5-df01-41d3-a621-f4061f10562a,unknown,0,True,0,17,"Seals: Aḫu-waqar s. Šū-Ištar, Aššur-taklāku s. Amria, Puzur-Abēḫ s. Ennum-Aššur, Šū-Anum s. Menānum."
+440e60c5-df01-41d3-a621-f4061f10562a,unknown,1,True,17,28,Šū-Anum s. Menānum owes Šū-Ištar s. Aššur-bāni 2 minas refined silver.
+440e60c5-df01-41d3-a621-f4061f10562a,unknown,2,True,28,37,He will pay 6 weeks from the ḫamuštum after Ennaḫ-ilī.
+440e60c5-df01-41d3-a621-f4061f10562a,unknown,3,True,37,51,"If he does not pay at the fulfillment of his term, he will add 1/2 shekels per mina per month."
+440e60c5-df01-41d3-a621-f4061f10562a,unknown,4,True,51,53,Month: Kuzallī
+440e60c5-df01-41d3-a621-f4061f10562a,unknown,5,True,53,57,Eponymate: Šū-Suen s. Papilim.
+4989e99e-2144-401c-abee-48ab716dfc6d,unknown,0,True,0,77,"Seals: Pilaḫ-Aššur s. Bizaza, Hinnaya s. Aššur-ṭāb."
+5b351b70-31c3-442a-8788-e339ebb8c1dd,unknown,0,True,8,18,Ištar-bāni owes Ištar-bāni 1/2 mina refined silver.
+5b351b70-31c3-442a-8788-e339ebb8c1dd,unknown,1,True,18,30,He will pay 10 weeks from the ḫamuštum of Aššur-ṣulūlī.
+5b351b70-31c3-442a-8788-e339ebb8c1dd,unknown,2,True,30,32,"If he does not pay (on time), he will add 1/2 shekels per mina per month."
+5b351b70-31c3-442a-8788-e339ebb8c1dd,unknown,3,True,32,51,Aššur-ṭāb s. Ḫuraṣānum owes Ištar-bāni 1 mina 1/2 shekels refined silver.
+5b351b70-31c3-442a-8788-e339ebb8c1dd,unknown,4,True,51,56,He will pay 10 weeks from the ḫamuštum of Aššur-ṭāb.
+5b351b70-31c3-442a-8788-e339ebb8c1dd,unknown,5,True,56,63,"If he does not pay (on time), he will add 1/2 shekels per mina per month."
+5b351b70-31c3-442a-8788-e339ebb8c1dd,unknown,6,True,63,82,Aššur-mālik s. Šū-Enlil owes Ištar-bāni 1 mina 7 shekels refined silver.
+5b351b70-31c3-442a-8788-e339ebb8c1dd,unknown,7,True,82,92,He will pay 10 weeks from the ḫamuštum of Aššur-ṭāb.
+5b351b70-31c3-442a-8788-e339ebb8c1dd,unknown,8,True,92,101,"If he does not pay (on time), he will add 4 minas of silver as interest."
+5b351b70-31c3-442a-8788-e339ebb8c1dd,unknown,9,True,101,122,Ištar-bāni owes Ištar-bāni 1/2 mina refined silver.
+5b351b70-31c3-442a-8788-e339ebb8c1dd,unknown,10,True,122,179,"If he does not pay (on time), he will add 1/2 shekels per mina per month as interest."
+6b405c46-50a6-4deb-ac9a-d66e8607f883,unknown,0,True,0,12,"Seals: Puzur-Aššur s. Suen-nādā, Šū-Ištar s. Ilili, Aššur-ṭāb s. Ida."
+6b405c46-50a6-4deb-ac9a-d66e8607f883,unknown,1,True,12,22,Regarding Aššur-ṭāb's debt of 2 1/2 minas refined silver.
+6b405c46-50a6-4deb-ac9a-d66e8607f883,unknown,2,True,22,24,Aššur-rēʾī owes Aššur-rēʾī 10 minas refined silver.
+6b405c46-50a6-4deb-ac9a-d66e8607f883,unknown,3,True,24,51,He will pay 15 weeks from the ḫamuštum of Aššur-rēʾī and Lā-qēpim.
+6b405c46-50a6-4deb-ac9a-d66e8607f883,unknown,4,True,51,62,"If he does not pay (on time), he will add 1/2 shekels per mina per month as interest."
+762de6f5-ed49-4735-b87a-6c2e77b2b243,unknown,0,True,17,21,"Witnesses: Aššur-dāni, Lālum."
+9dcb5f02-fc2a-465d-a47b-7b6401dd85ae,unknown,0,True,8,13,Šū-Ištar owes Šū-Ištar 1/3 mina refined silver.
+9dcb5f02-fc2a-465d-a47b-7b6401dd85ae,unknown,1,True,13,36,Eponymate: Enna-Suen s. Šū-Aššur.
+c7278cd1-cba2-4600-8911-e7934dbd543a,unknown,0,True,0,36,"Seals: Nāb-Suen, Amur-Aššur of the debt of Aššur-rābi."
+de207a62-7ae9-4c27-a1d4-d5e0a246c8d7,unknown,0,True,4,8,Kikiya owes Aššur-rēʾī 1 mina 5 shekels refined silver.
+de207a62-7ae9-4c27-a1d4-d5e0a246c8d7,unknown,1,True,8,29,He will pay 3 weeks from the ḫamuštum of Kura and Sukkalliya.
+de207a62-7ae9-4c27-a1d4-d5e0a246c8d7,unknown,2,True,29,38,"If he does not pay (on time), he will add 1/2 shekels per mina per month as interest."
+de207a62-7ae9-4c27-a1d4-d5e0a246c8d7,unknown,3,True,38,43,"Witnesses: Dadānum, Dudu his servant."
+ee9b412d-a5e5-455d-9ef6-875bb017400e,memo,0,True,1,10,Aššur-imittī s. Ikuppī-Ištar owes Enlil-bāni 2 minas refined silver.
+ee9b412d-a5e5-455d-9ef6-875bb017400e,memo,1,True,10,24,He will add 1 shekel per mina per month from the ḫamuštum of Ennānum s. Šū-Ḫubur.
+ee9b412d-a5e5-455d-9ef6-875bb017400e,memo,2,True,24,26,Month: Kuzalli.
+ee9b412d-a5e5-455d-9ef6-875bb017400e,memo,3,True,26,29,Eponymate: Agutum.
+ee9b412d-a5e5-455d-9ef6-875bb017400e,memo,4,True,29,36,The colony of Enlil-bāni owes 2 minas refined silver.
+ee9b412d-a5e5-455d-9ef6-875bb017400e,memo,5,True,36,57,"He will add 2/3 shekels 15 grains per mina per month from the ḫamuštum of Kurub-Ištar, month ša sarrātim, eponymate after Enna-Suen."
+ee9b412d-a5e5-455d-9ef6-875bb017400e,memo,6,True,57,66,Aššur-mutabbil s. Pūšu-kēn owes Enlil-bāni 2 minas refined silver.
+ee9b412d-a5e5-455d-9ef6-875bb017400e,memo,7,True,66,81,"He will add 1 shekel per mina per month from the ḫamuštum of Ennam-Aššur s. Šalim-aḫum, month Kanbarta, eponymate Maṣi-ilī."
+ee9b412d-a5e5-455d-9ef6-875bb017400e,memo,8,True,81,95,Zukuwa s. Aššur-idī owes Enlil-bāni 1 mina refined silver from my mina of silver.
+ee9b412d-a5e5-455d-9ef6-875bb017400e,memo,9,True,95,108,"He will add interest at the rate of 1 shekel from the ḫamuštum of Puzur-Ištar, month Kanbarta, eponymate Agutum."
+ee9b412d-a5e5-455d-9ef6-875bb017400e,memo,10,True,108,117,Al-aḫum s. Šalim-Aššur owes Enlil-bāni 2 minas refined silver.
+ee9b412d-a5e5-455d-9ef6-875bb017400e,memo,11,True,117,130,"He will add 1 shekel from the ḫamuštum of Aḫu-waqar, month Qarrātim, eponymate Maṣi-ilī."
+ee9b412d-a5e5-455d-9ef6-875bb017400e,memo,12,True,130,141,Adad-rabi and Šū-Suen s. Puzur-Anna owe Enlil-bāni 2 minas refined silver.
+ee9b412d-a5e5-455d-9ef6-875bb017400e,memo,13,True,141,149,He will add 1/2 shekels from the ḫamuštum of Ennam-Aššur.
+ee9b412d-a5e5-455d-9ef6-875bb017400e,memo,14,True,149,151,Month: Kanwarta.
+ee9b412d-a5e5-455d-9ef6-875bb017400e,memo,15,True,151,154,Eponymate: Maṣilī.
+ee9b412d-a5e5-455d-9ef6-875bb017400e,memo,16,True,154,161,Buzāzu owes Enlil-bāni 2 minas refined silver.
+ee9b412d-a5e5-455d-9ef6-875bb017400e,memo,17,True,161,178,"He will add 1 shekel per mina per month from the ḫamuštum of Luzina, month Bēlet-ekallim, eponymate after Agutum."
+ee9b412d-a5e5-455d-9ef6-875bb017400e,memo,18,True,178,189,Aššur-rabi s. Lā-qēpum owes Enlil-bāni 1 mina 15 shekels refined silver.
+ee9b412d-a5e5-455d-9ef6-875bb017400e,memo,19,True,189,204,"He will add 1/2 shekels from the ḫamuštum of Ikuppiya s. Šū-Anum, eponymate Enna-Suen, month Al-anātum."
+ee9b412d-a5e5-455d-9ef6-875bb017400e,memo,20,True,204,213,1 mina refined silver Ṭāb-ṣill-Aššur s. Puzur-Muš owes Enlil-bāni 1 mina refined silver.
+ee9b412d-a5e5-455d-9ef6-875bb017400e,memo,21,True,213,229,"He will add 1/2 shekels from the ḫamuštum of Iddin-abum, month Ab šarrānē, eponymate after Agutum."
+ee9b412d-a5e5-455d-9ef6-875bb017400e,memo,22,True,229,240,Puzur-Šamaš and Aššur-imittī sons of Šū-Nunu owe Enlil-bāni 2 minas refined silver.
+ee9b412d-a5e5-455d-9ef6-875bb017400e,memo,23,True,240,251,"He will pay one month from the ḫamuštum of Aššur-iš-takil, month Teʾinātim, eponymate Maṣi-ilī."
+ee9b412d-a5e5-455d-9ef6-875bb017400e,memo,24,True,251,261,"If they do not pay (on time), they will add 1/2 shekels per mina per month."
+19755573-0766-4858-8cfa-034fa1f3b426,letter,0,True,0,9,From Šalim-aḫum to Pūšu-kēn and Ilabrat-bāni to Ilabrat-bāni:
+19755573-0766-4858-8cfa-034fa1f3b426,letter,1,True,9,24,"In the tablet of Lā-qēpum, Ilabrat-bāni took 6 1/3 minas tin from your package and when he departed to Ḫattum."
+19755573-0766-4858-8cfa-034fa1f3b426,letter,2,True,24,32,Ilī-ašranni brought to Aššur-mālik 1 kusītum-textile and paṣitum-textiles of my funds.
+19755573-0766-4858-8cfa-034fa1f3b426,letter,3,True,32,35,Aššur-mālik did not return to him.
+19755573-0766-4858-8cfa-034fa1f3b426,letter,4,True,35,36,He departed.
+19755573-0766-4858-8cfa-034fa1f3b426,letter,5,True,36,39,You took the kusītum.
+19755573-0766-4858-8cfa-034fa1f3b426,letter,6,True,39,51,"You said, ""Send 1/2 kutānum textile from the transport of Nūr-Ištar."""
+19755573-0766-4858-8cfa-034fa1f3b426,letter,7,True,51,55,You sent the silver to Dān-Aššur.
+19755573-0766-4858-8cfa-034fa1f3b426,letter,8,True,55,59,"You said, ""I will send it to you."""
+19755573-0766-4858-8cfa-034fa1f3b426,letter,9,True,59,65,All this you have heard from the limmum of Aḫ-marši.
+19755573-0766-4858-8cfa-034fa1f3b426,letter,10,True,65,69,My instructions have come to you until his fulfillment.
+19755573-0766-4858-8cfa-034fa1f3b426,letter,11,True,69,80,Give the silver from the kusītum seal and 1/2 kutānum silver to Pūšu-kēn.
+19755573-0766-4858-8cfa-034fa1f3b426,letter,12,True,80,94,"I did not write to me so that I can take 3 textiles from my investors, 1 textile from your silver."
+19755573-0766-4858-8cfa-034fa1f3b426,letter,13,True,94,105,Aššur-mālik s. Azua brought you 1 mina of silver to Pūšu-kēn.
+19755573-0766-4858-8cfa-034fa1f3b426,letter,14,True,105,110,Give it to my silver and let it give it with my silver.
+19755573-0766-4858-8cfa-034fa1f3b426,letter,15,True,110,129,"You did not write to me because until we gave your silver wherever we purchased your silver, wherever we purchased a single shekel of silver, Aššur and Ilab"
+19755573-0766-4858-8cfa-034fa1f3b426,letter,16,True,129,143,"Let him decide wherever I gave a single shekel of silver, my silver is 10 minas or 20 minas."
+19755573-0766-4858-8cfa-034fa1f3b426,letter,17,True,143,148,"My dear brother, do not inform me."
+19755573-0766-4858-8cfa-034fa1f3b426,letter,18,True,148,152,Give my silver to Pūšu-kēn.
+19755573-0766-4858-8cfa-034fa1f3b426,letter,19,True,152,158,Do not write so that I can take it from your silver here.
+19755573-0766-4858-8cfa-034fa1f3b426,letter,20,True,158,161,Do not inform me.
+a240a6f3-165c-4064-8b32-bfcef0734b3e,agreement (contract),0,True,0,47,"Puzur-Ištar seized us against Adad-rēʾī and Puzur-Ištar said to Adad-rēʾī: Because of the 7 2/3 minas 3 shekels of silver, the price of your parakannum which you gave to me, there is no mina of silver which you gave to me, there is no mina of silve"
+a240a6f3-165c-4064-8b32-bfcef0734b3e,agreement (contract),1,True,47,97,"Puzur-Ištar said, ""Send my silver to Puzur-Ištar and send it to Puzur-Ištar both the copper and the price of the donkey which you took, both the copper and the price of the donkey which you too"
+a240a6f3-165c-4064-8b32-bfcef0734b3e,agreement (contract),2,True,97,98,They gave 1/2 shekels of silver.
+d7c160df-1ef6-4070-bbe2-3d81b4938bb2,unknown,0,True,17,28,"Regarding the debt of Aššur-bāšti, Aššur-bāšti owes Šuma-abiya 3 minas refined silver."
+d7c160df-1ef6-4070-bbe2-3d81b4938bb2,unknown,1,True,28,44,"He will pay 20 weeks from the ḫamuštum of Šalim-Aššur s. Aba, month Ḫubur, eponymate Aššur-rēʾī s. Abarzizim."
+d7c160df-1ef6-4070-bbe2-3d81b4938bb2,unknown,2,True,44,59,"If he does not pay at the fulfillment of his term, he will add 1/2 shekels per mina per month."
+a465eb38-f691-4491-aae1-3d4f08306d78,unknown,0,True,0,7,"Seals: Aššur-mālik, Ikūn-pī-Aššur, Amur-Aššur"
+a465eb38-f691-4491-aae1-3d4f08306d78,unknown,1,True,7,14,Amur-Aššur owes Šukkūtum 2 minas refined silver.
+a465eb38-f691-4491-aae1-3d4f08306d78,unknown,2,True,14,41,He will add 1/2 shekels per mina per month from the ḫamuštum of Uraya and Kurub-Ištar.
+f97c070f-7979-4e1e-9590-f34aaaec0249,unknown,0,True,1,11,Aššur-emūqī owes Aššur-imittī 25 shekels refined silver.
+f97c070f-7979-4e1e-9590-f34aaaec0249,unknown,1,True,11,21,He will pay 36 weeks from the ḫamuštum of Šū-Anum and Dudu.
+f97c070f-7979-4e1e-9590-f34aaaec0249,unknown,2,True,21,32,"If he does not pay (on time), he will add 1/2 shekels per mina per month."
+f97c070f-7979-4e1e-9590-f34aaaec0249,unknown,3,True,32,45,"Witnesses: Iddin-abum, Aššur-emūqī."
+793d817c-84ad-46bb-97bf-990ae6bb19a4,unknown,0,True,1,11,"Taiya, Kamaliya and Nunu owe Aššur-mālik 2 minas refined silver."
+793d817c-84ad-46bb-97bf-990ae6bb19a4,unknown,1,True,11,19,They will pay 15 weeks from the ḫamuštum of kaššim.
+793d817c-84ad-46bb-97bf-990ae6bb19a4,unknown,2,True,19,31,"If they do not pay (on time), they will add 3 shekels per mina per month as interest."
+793d817c-84ad-46bb-97bf-990ae6bb19a4,unknown,3,True,31,38,The silver is legally responsible for their payment.
+793d817c-84ad-46bb-97bf-990ae6bb19a4,unknown,4,True,38,42,They will pay from the ḫamuštum of Parka.
+793d817c-84ad-46bb-97bf-990ae6bb19a4,unknown,5,True,42,50,"Witnesses: Kizi, Ennum-Aššur, Laila, Amurrum-bāni."
+0247c8eb-b695-43f3-9a2b-a31b93088d12,debt note,0,True,1,8,Maṣi-ilī owes Sukkallīya 2 minas refined silver.
+0247c8eb-b695-43f3-9a2b-a31b93088d12,debt note,1,True,8,16,He will pay 28 weeks from the ḫamuštum of Šamaš-rēʾī.
+0247c8eb-b695-43f3-9a2b-a31b93088d12,debt note,2,True,16,30,"If he does not pay (on time), he will add 1/2 shekels per mina per month."
+4284106a-dd47-4af5-a2bd-057b0d0560b5,debt note,1,True,8,19,He will add 1/2 shekel per mina per month from the ḫamuštum of Šū-Kūbum and Kurub-Ištar.
+4284106a-dd47-4af5-a2bd-057b0d0560b5,debt note,2,True,19,22,Month: ša sarrātim.
+4284106a-dd47-4af5-a2bd-057b0d0560b5,debt note,3,True,22,26,Eponymate: after Iddin-abum.
+4284106a-dd47-4af5-a2bd-057b0d0560b5,debt note,4,True,26,30,"Witnesses: Aššur-Šamši, Dadāya."
+241ac712-293d-46e1-bfc9-5a6ed160320f,debt note,0,True,1,35,Šū-Anum owes Imdi-ilum 2 minas refined silver.
+241ac712-293d-46e1-bfc9-5a6ed160320f,debt note,1,True,35,39,"Witnesses: Aššur-mālik, Azuzu."
+e26e5cfa-522f-c7e5-4cb3-847132af0a75,letter,0,True,0,10,"To Alāhum, Šū-Aššur, Zupa and Ilī-ālum from Aššur-nādā:"
+e26e5cfa-522f-c7e5-4cb3-847132af0a75,letter,1,True,10,148,"As for the 1 mina of silver which Šalaḫšua brought, Haluli gave me a copy of 6 kutānum-textiles and Ikuppiya brought you 6 kutānum-textiles and Ikuppiya brought to you in our house."
+10d903fd-fdd5-38ce-a725-07cf230355d6,letter,0,True,0,5,From Waklum to Pūšu-kēn:
+10d903fd-fdd5-38ce-a725-07cf230355d6,letter,1,True,5,6,You wrote me.
+10d903fd-fdd5-38ce-a725-07cf230355d6,letter,2,True,6,61,"You said, ""I seized 5 minas silver belonging to Asqudum here, and I took 10 minas for interest and I sent the silver for interest and I sent the remainder of your silver for interest and I sent the remainder of your silve"
+10d903fd-fdd5-38ce-a725-07cf230355d6,letter,3,True,61,65,My dear father gave it to Asqudum.
+10d903fd-fdd5-38ce-a725-07cf230355d6,letter,4,True,65,70,Witnesses: Aššur and Ilīya.
+10d903fd-fdd5-38ce-a725-07cf230355d6,letter,5,True,70,89,"My dear brother, because you have received 1 shekel of silver, take care to come up until 1 talent of silver or more and seize the silver of the man."
+10d903fd-fdd5-38ce-a725-07cf230355d6,letter,6,True,89,91,You hear my tablet.
+10d903fd-fdd5-38ce-a725-07cf230355d6,letter,7,True,91,103,"Regarding that you seized my tablets, the man took my tablets and the tablets of my father and the tablets."
+10d903fd-fdd5-38ce-a725-07cf230355d6,letter,8,True,103,109,He has been informed about whatever you are informing me.
+10d903fd-fdd5-38ce-a725-07cf230355d6,letter,9,True,109,114,He will send the silver to your approaches.
+10d903fd-fdd5-38ce-a725-07cf230355d6,letter,10,True,114,118,My message will come to Timilkiya.
+10d903fd-fdd5-38ce-a725-07cf230355d6,letter,11,True,118,126,"Also, write to them whatever is written to you so that they send my silver to you."
+10d903fd-fdd5-38ce-a725-07cf230355d6,letter,12,True,126,131,They did not bring every shekel of silver.
+10d903fd-fdd5-38ce-a725-07cf230355d6,letter,13,True,131,136,Išar-bēlī servants will pay with Asqudum.
+10d903fd-fdd5-38ce-a725-07cf230355d6,letter,14,True,136,140,Take care to bring it to me at the first traveler.
+471a76e1-01c5-483b-b4c7-718394ca09d7,letter,0,True,2,11,To Pūšu-kēn from Sabasiya:
+471a76e1-01c5-483b-b4c7-718394ca09d7,letter,1,True,11,49,"Ilabrat-bāni seized Ilabrat-bāni with you and send me a tablet with you and send the tablet with 49 minas silver belonging to Anaḫ-ilī, his brother, his brother and Al-ṭāb his brother and his brother who entered our house, and wherever these men ar"
+471a76e1-01c5-483b-b4c7-718394ca09d7,letter,2,True,49,100,"Let them seize the tablet of 21 minas 10 shekels silver which Šalim-Aššur, Ikūnum and Sabasiya owe to the merchant, send the silver to the merchant and wherever the silver has been paid to the merchant, and wherever the silver has been paid to the merc"
+471a76e1-01c5-483b-b4c7-718394ca09d7,letter,3,True,100,118,The matter is exhausted.
+471a76e1-01c5-483b-b4c7-718394ca09d7,letter,4,True,118,165,There is no tablet and there is no tablet.
+471a76e1-01c5-483b-b4c7-718394ca09d7,letter,5,True,165,168,Do not want to wait for me.
+471a76e1-01c5-483b-b4c7-718394ca09d7,letter,6,True,168,172,Send the games of the son of Lālum.
+471a76e1-01c5-483b-b4c7-718394ca09d7,letter,7,True,172,206,"The tablet concerning the given of the colony office of Waḫšušana, the palace of Waḫšušana owes 1/2 mina gold and its interest in my tablet which I owe to Adad, and Ennum-Aššur will pay the 2/3 mina and its interest in my tablet which I owe to Ad"
+471a76e1-01c5-483b-b4c7-718394ca09d7,letter,8,True,206,211,There is a tablet of the colony.
+471a76e1-01c5-483b-b4c7-718394ca09d7,letter,9,True,211,214,There is available silver for the price.
+471a76e1-01c5-483b-b4c7-718394ca09d7,letter,10,True,214,216,He will pay Zupa.
+471a76e1-01c5-483b-b4c7-718394ca09d7,letter,11,True,216,241,I will pay the interest at the colony office and take a tablet of the colony.
+471a76e1-01c5-483b-b4c7-718394ca09d7,letter,12,True,241,242,He will take it.
+17cff94e-a931-673b-4fe4-9bf6ea1234bd,letter,0,True,0,5,To Pūšu-kēn from Lamassī:
+17cff94e-a931-673b-4fe4-9bf6ea1234bd,letter,1,True,5,14,"If you are my brother, if you are my brother, why will you delay?"
+17cff94e-a931-673b-4fe4-9bf6ea1234bd,letter,2,True,14,18,Take care to dispatch your instructions and return your instructions.
+17cff94e-a931-673b-4fe4-9bf6ea1234bd,letter,3,True,18,25,I gave him 1 kabtum-textile to Aššur-mālik in his previous journey.
+17cff94e-a931-673b-4fe4-9bf6ea1234bd,letter,4,True,25,29,He did not bring any of his silver.
+17cff94e-a931-673b-4fe4-9bf6ea1234bd,letter,5,True,29,34,The price is bringing to you with the seal of the silver.
+17cff94e-a931-673b-4fe4-9bf6ea1234bd,letter,6,True,34,39,"When you sent the caravan, purchase the wool."
+17cff94e-a931-673b-4fe4-9bf6ea1234bd,letter,7,True,39,43,The tablet is exhausted in the City.
+131cc458-3d09-1db8-9c18-02c29cc431df,unknown,0,True,0,14,"From the 7 šurum-textiles which are bringing to the colony office, Pūšu-kēn deposited 5 šurum-textiles."
+131cc458-3d09-1db8-9c18-02c29cc431df,unknown,1,True,14,20,We brought 1 šurūtum textile from the silver of Šalim-aḫum.
+131cc458-3d09-1db8-9c18-02c29cc431df,unknown,2,True,20,31,"From the 9 kutānum-textiles, Pūšu-kēn deposited 1 textile for drivers."
+131cc458-3d09-1db8-9c18-02c29cc431df,unknown,3,True,31,39,"Also, I deposited one with him from the transport of Pūšu-kēn."
+131cc458-3d09-1db8-9c18-02c29cc431df,unknown,4,True,39,43,1 textile from the transport of Ilī-ašranni.
+131cc458-3d09-1db8-9c18-02c29cc431df,unknown,5,True,43,51,All this is deposited in the colony office of Šalim-aḫum.
+131cc458-3d09-1db8-9c18-02c29cc431df,unknown,6,True,51,57,Šalim-aḫum will write the silver in the tablet.
+0fd8d22f-083d-52e0-f634-65b8ef460f00,letter,0,True,0,7,To Puzur-Anna from Irma-Aššur and Puzur-Šamaš:
+0fd8d22f-083d-52e0-f634-65b8ef460f00,letter,1,True,7,22,"Until the tablet of the qātātum and Aššur-ṭāb about which you wrote to me, which you wrote to them"
+0fd8d22f-083d-52e0-f634-65b8ef460f00,letter,7,True,63,78,"Concerning the ukultum of the servant, the man does not give 10 shekels or 1/3 mina of silver."
+b6153884-a5e3-d233-c4ad-8a685be261bf,letter,0,True,27,36,"There, take care to clear the silver of the hand tin."
+02fe500f-2ed5-c5b7-0f8d-9e149e9d655f,letter,0,True,0,8,From Aššur-nādā and Ilī-ālum to Aššur-taklāku:
+f452188e-560a-e29a-a38a-1d1e3697bb79,letter,0,True,0,8,To Aššur-imittī and Šū-Ḫubur from Pūšu-kēn:
+f452188e-560a-e29a-a38a-1d1e3697bb79,letter,1,True,8,15,I wrote 28 shekels silver in the colony office.
+f452188e-560a-e29a-a38a-1d1e3697bb79,letter,2,True,15,25,"For this silver, I paid both your silver and textiles."
+f452188e-560a-e29a-a38a-1d1e3697bb79,letter,3,True,25,34,He paid 1 mina 9 shekels silver from the silver of Aššur-imittī.
+f452188e-560a-e29a-a38a-1d1e3697bb79,letter,4,True,34,59,They have paid 1 mina of silver and I paid 2 minas of silver and I paid 1 mina of its purchases at your account so that Aššur and your father will disappoint Aššur and your father.
+f452188e-560a-e29a-a38a-1d1e3697bb79,letter,5,True,59,67,"In total, they are deposited 28 minas 8 shekels silver."
+f452188e-560a-e29a-a38a-1d1e3697bb79,letter,6,True,67,76,The dātum has cleared 1 mina and you will balance 1 mina 12 shekels silver.
+f452188e-560a-e29a-a38a-1d1e3697bb79,letter,7,True,76,80,Why will I take it from your silver?
+f452188e-560a-e29a-a38a-1d1e3697bb79,letter,8,True,80,83,To Šū-Ḫubur:
+f452188e-560a-e29a-a38a-1d1e3697bb79,letter,9,True,83,95,"Why is it that Aššur-imittī wrote me, saying: ""I will take the silver and its interest from your silver."""
+f452188e-560a-e29a-a38a-1d1e3697bb79,letter,10,True,95,99,"As for you, dispatch your brother's silver."
+f452188e-560a-e29a-a38a-1d1e3697bb79,letter,11,True,99,114,"If you do not leave, I will delay Aššur-imittī and I will take 15 minas of silver wherever there is available from your silver."
+f452188e-560a-e29a-a38a-1d1e3697bb79,letter,12,True,114,121,My dear father and Imdī-ilum are in accountings.
+f452188e-560a-e29a-a38a-1d1e3697bb79,letter,13,True,121,130,We paid 2 minas silver from your tin and textiles.
+f452188e-560a-e29a-a38a-1d1e3697bb79,letter,14,True,130,139,"If you purchase a maškātum transport, they will pay you 1 mina 10 shekels of silver."
+f452188e-560a-e29a-a38a-1d1e3697bb79,letter,15,True,139,154,"If you are satisfied, let your message come so that from the day which we paid the silver, you will receive 1 shekel interest in the colony."
+f452188e-560a-e29a-a38a-1d1e3697bb79,letter,16,True,154,163,"Month Balṭum, the colony office and the colony office said, ""Let the man stand."""
+f452188e-560a-e29a-a38a-1d1e3697bb79,letter,17,True,163,175,"They did not agree with me and I said, ""Let them settle the man and whom is the man and who is the man."""
+f452188e-560a-e29a-a38a-1d1e3697bb79,letter,18,True,175,181,"They said, ""We are men in their own funds."""
+f452188e-560a-e29a-a38a-1d1e3697bb79,letter,19,True,181,185,Uṣur-ša-Aššur deducted these things.
+dce40745-1988-7bde-a45e-74debdcb0c2e,letter,0,True,0,7,To Pūšu-kēn and Ennam-Aššur from Ḫusārum:
+dce40745-1988-7bde-a45e-74debdcb0c2e,letter,1,True,7,38,Šū-Kūbum brings you the tin and textiles from the transport of Al-ṭāb from the colony office of the goods.
+dce40745-1988-7bde-a45e-74debdcb0c2e,letter,2,True,38,41,"Also, send Šū-Kūbum to him."
+dce40745-1988-7bde-a45e-74debdcb0c2e,letter,3,True,41,49,"If you purchased tin and textiles, seal the silver and send it to me."
+dce40745-1988-7bde-a45e-74debdcb0c2e,letter,4,True,49,61,"If the price is high there, take my goods there so that I can clear my goods to Purušḫattum so that I can get every mina of silver."
+1f3c14fb-4ebf-dc4b-c0e8-b44598ab6e82,letter,0,True,0,7,To Pūšu-kēn from Kulumaya and Kurub-Ištar:
+1f3c14fb-4ebf-dc4b-c0e8-b44598ab6e82,letter,1,True,7,9,From Kulumaya:
+1f3c14fb-4ebf-dc4b-c0e8-b44598ab6e82,letter,2,True,9,19,When I deposited the goods belonging to Dān-Aššur's goods
+1f3c14fb-4ebf-dc4b-c0e8-b44598ab6e82,letter,3,True,19,20,I spoke to you.
+1f3c14fb-4ebf-dc4b-c0e8-b44598ab6e82,letter,4,True,20,27,"I said, ""They are 6 kutānum textiles belonging to Šāt-Aššur."""
+1f3c14fb-4ebf-dc4b-c0e8-b44598ab6e82,letter,5,True,27,36,There are no textiles belonging to Šalim-aḫum's daughter and textiles belonging to Kurub-Ištar.
+1f3c14fb-4ebf-dc4b-c0e8-b44598ab6e82,letter,6,True,36,40,"In the seal of the textiles, the name of the textiles is the name."
+1f3c14fb-4ebf-dc4b-c0e8-b44598ab6e82,letter,7,True,40,43,Ilabrat-bāni did not want to depart.
+1f3c14fb-4ebf-dc4b-c0e8-b44598ab6e82,letter,8,True,43,48,The tablet of the merchant is written to Dān-Aššur.
+1f3c14fb-4ebf-dc4b-c0e8-b44598ab6e82,letter,9,True,48,52,They are the textiles of Kurub-Ištar.
+1f3c14fb-4ebf-dc4b-c0e8-b44598ab6e82,letter,10,True,52,57,To Pūšu-kēn from Kurub-Ištar:
+1f3c14fb-4ebf-dc4b-c0e8-b44598ab6e82,letter,11,True,57,66,"My dear father and lord, take care to give the textiles to Šalim-Aššur."
+1f3c14fb-4ebf-dc4b-c0e8-b44598ab6e82,letter,12,True,66,76,"If the maḫārum does not pay (on time), say to him before two or two and let your message come."
+1f3c14fb-4ebf-dc4b-c0e8-b44598ab6e82,letter,13,True,76,83,"Also, they owe the textiles to Dān-Aššur."
+1f3c14fb-4ebf-dc4b-c0e8-b44598ab6e82,letter,14,True,83,94,Send the textiles belonging to the servant of Karuwaya and the tin belonging to Amur-Aššur s. Sukkallīya.
+6a72b820-f322-ccc7-49e3-1f740fb3c773,letter,0,True,0,7,From Puzur-Ištar and Idnāya to Ennam-Aššur:
+6a72b820-f322-ccc7-49e3-1f740fb3c773,letter,1,True,7,15,Do not release the copper of Pūšu-kēn with anyone.
+6a72b820-f322-ccc7-49e3-1f740fb3c773,letter,2,True,15,17,Puzur-Ištar said:
+6a72b820-f322-ccc7-49e3-1f740fb3c773,letter,3,True,17,28,"When the copper departs, let your message come and I will send me the silver as excise."
+6a72b820-f322-ccc7-49e3-1f740fb3c773,letter,4,True,28,30,Idnāya said:
+6a72b820-f322-ccc7-49e3-1f740fb3c773,letter,5,True,30,35,I will send the silver to you.
+30252ebf-7b40-de1d-4f4b-78e54181330f,unknown,0,True,0,40,"From the 25 shekels of silver which Kurub-Ištar gave to Šamaš-tappā'ī and Ilī-mālik, Kurub-Ištar will pay to Aššur-nādā and Aššur-šamšī and Enlil-bāni 22 1/2 shekels of silver to Aššur-nādā and Aššur-šamšī an"
+30252ebf-7b40-de1d-4f4b-78e54181330f,unknown,1,True,40,71,"If he does not clear the tablet, he will pay 1/2 mina to Enlil-bāni, Aššur-nādā s. Aššur-idī and Aššur-Šamši s. Amaya."
+30252ebf-7b40-de1d-4f4b-78e54181330f,unknown,3,True,74,85,"If Šamaš-tappā'ī and Ilī-mālik do not release my witnesses, he will disagree with his witnesses."
+30252ebf-7b40-de1d-4f4b-78e54181330f,unknown,4,True,85,91,"Please, Nāb-Suen, the guarantor and Kubiš- are delayed."
+82b07223-b080-a076-8b7f-d781f8629270,debt note,0,True,1,8,Šumi-abiya owes Aḫ-šalim 2 minas silver.
+82b07223-b080-a076-8b7f-d781f8629270,debt note,1,True,8,15,He will pay two months from the ḫamuštum of Al-aḫim.
+82b07223-b080-a076-8b7f-d781f8629270,debt note,2,True,15,23,"If he does not pay (on time), he will add interest at the rate of the colony."
+82b07223-b080-a076-8b7f-d781f8629270,debt note,3,True,23,27,I paid the silver concerning Aššur-bāštī.
+82b07223-b080-a076-8b7f-d781f8629270,debt note,4,True,27,31,"Witnesses: Aššur-rēʾī, Ennum-Aššur."
+037a7604-7e8e-6295-e097-71682dd5ab18,letter,0,True,10,18,"Because of the silver in the puzrum, do not send anything to me."
+037a7604-7e8e-6295-e097-71682dd5ab18,letter,1,True,18,29,"My dear brother, send my silver to the houses."
+037a7604-7e8e-6295-e097-71682dd5ab18,letter,2,True,29,33,There is a house for anyone.
+43b7d4b5-57e5-a2b2-57d7-cca115082a29,unknown,0,True,1,9,10 shekels silver when they come to Luḫusattīya.
+43b7d4b5-57e5-a2b2-57d7-cca115082a29,unknown,1,True,9,12,1 shekel was for Kurara.
+43b7d4b5-57e5-a2b2-57d7-cca115082a29,unknown,2,True,12,22,"Concerning the servants of his servants, the previous silver has returned from the price of Nigāli."
+43b7d4b5-57e5-a2b2-57d7-cca115082a29,unknown,3,True,22,25,10 shekels were for Išḫili.
+43b7d4b5-57e5-a2b2-57d7-cca115082a29,unknown,4,True,25,31,All this is with Ḫuziš and Duruḫnu.
+391d44dd-d8fd-428c-a1f2-bd3f3fca2c94,letter,0,True,0,11,"From Šalim-aḫum to Pūšu-kēn, Aššur-iš-tīkal and Dān-Aššur to Aššur-iš-tikal:"
+391d44dd-d8fd-428c-a1f2-bd3f3fca2c94,letter,1,True,11,28,"Ennum-Aššur s. Ilī-lī gave you 2 kutānum-textiles, 2 kutānum-textiles, Dān-Aššur gave you 2 kutānum-textiles."
+391d44dd-d8fd-428c-a1f2-bd3f3fca2c94,letter,2,True,28,40,They gave my tin 7 shekels at a rate of 7 shekels and they brought me the silver.
+391d44dd-d8fd-428c-a1f2-bd3f3fca2c94,letter,3,True,40,44,"For the transport tariff, they will add 2 shekels refined silver."
+391d44dd-d8fd-428c-a1f2-bd3f3fca2c94,letter,5,True,48,64,"My dear brother, give them the silver and let every shekel of silver come and when you arrive, they wrote me the tablet of your naruqqum."
+391d44dd-d8fd-428c-a1f2-bd3f3fca2c94,letter,6,True,64,71,"Also, I will give you in wherever"
+0ca61ada-6b00-6431-4cb7-ad0104018903,letter,0,True,0,6,To Aššur-idī from Aššur-nādā:
+0ca61ada-6b00-6431-4cb7-ad0104018903,letter,1,True,6,22,Hannānum son of Ikuppiya sent to Al-aḫum and Aššur-taklāku 10 minas refined silver from Al-aḫum and Aššur-taklāku to Al-aḫum and Aššur-taklāku.
+0ca61ada-6b00-6431-4cb7-ad0104018903,letter,2,True,22,35,"I said, ""Deposit the excise and the transport tariff and send it to our father and our representatives and the representatives of Al-aḫum."""
+0ca61ada-6b00-6431-4cb7-ad0104018903,letter,3,True,35,53,"My dear father and lord, for all this silver and gold which I sent to you, my dear father, for all this silver and gold which I sent to you, my dear father, purchase textiles."
+0ca61ada-6b00-6431-4cb7-ad0104018903,letter,4,True,53,61,They did not go to the limmum which I brought him.
+6515933f-25a7-2ca7-9168-ea1cd39f5f2c,letter,0,True,0,5,To Aššur-idī from Aššur-nādā:
+6515933f-25a7-2ca7-9168-ea1cd39f5f2c,letter,1,True,5,16,"Regarding the name of my accounting until his enterprise, you said, ""Pay from my silver."""
+6515933f-25a7-2ca7-9168-ea1cd39f5f2c,letter,2,True,16,23,"Also, when he departed, I said, ""Let him depart."""
+6515933f-25a7-2ca7-9168-ea1cd39f5f2c,letter,3,True,23,27,"You said, ""Do not delay."""
+6515933f-25a7-2ca7-9168-ea1cd39f5f2c,letter,4,True,27,35,"To my son, to my brother, and as much as the year is deposited."
+6515933f-25a7-2ca7-9168-ea1cd39f5f2c,letter,5,True,35,57,Let Aššur and Ilabrat take 3 1/2 minas 4 shekels refined silver in my account and I will pay 3 1/2 minas 4 shekels refined silver in my account and I will pay 3 1/2 minas 4 shekels refined silver in my account.
+6515933f-25a7-2ca7-9168-ea1cd39f5f2c,letter,6,True,57,65,I bring 16 minas of silver in your caravan.
+6515933f-25a7-2ca7-9168-ea1cd39f5f2c,letter,7,True,65,84,"As for the two or two which they deposited, he will pay as much as they deposited and he will pay 6 minas refined silver from the week of Aššur and he will pay 6 minas refined silver from the week of Aššur."
+6515933f-25a7-2ca7-9168-ea1cd39f5f2c,letter,8,True,84,86,Make your decision.
+6515933f-25a7-2ca7-9168-ea1cd39f5f2c,letter,9,True,86,95,"Aššur-taklāku brings you 2 minas refined silver, its excise tax, its shipping charges paid."
+6515933f-25a7-2ca7-9168-ea1cd39f5f2c,letter,10,True,95,99,Send the fine tin and send it here.
+84d888ef-9d9e-fc3f-6559-357d4afbf411,agreement (contract),0,True,0,54,"Seals: Ṭāb-ṣill-Aššur s. Šū-Nunu, Šū-Laban s. Al-ṭāb, Pilaḫ-Ištar s. Aššur-bāni, Anina s. Uṣur-ša-Aššur, Iddin-abum s. Aššur-mālik, Sueyya s. Pūšu-kēn, Buzāzu s. Pūšu-kēn, Ikuppaša s. Pūšu-kēn, Aḫaḫa s."
+84d888ef-9d9e-fc3f-6559-357d4afbf411,agreement (contract),1,True,54,68,"For this silver, the sons of Pūšu-kēn and the daughter of Pūšu-kēn will not return to Aššur-mutabbil their brothers."
+84d888ef-9d9e-fc3f-6559-357d4afbf411,agreement (contract),2,True,68,88,"Also, in his presence in Kanesh, the god gave Aššur-mutabbil a tablet concerning the debt of Ikuppiya son of Attaya, the son of Pūšu-kēn and the son of Pūšu-kēn to Aššur-mutabbil."
+84d888ef-9d9e-fc3f-6559-357d4afbf411,agreement (contract),3,True,88,98,The sons of Pūšu-kēn and the daughter of Pūšu-kēn will pay as much silver.
+84d888ef-9d9e-fc3f-6559-357d4afbf411,agreement (contract),4,True,98,104,Iddin-abum s. Aššur-mālik stood as Aḫaḫa.
+c010f9e6-c663-6ccd-590a-fdd8284d5ae8,letter,0,True,0,11,"From Šalim-aḫum and Šū-Ḫubur to Pūšu-kēn, the merchant and Ela:"
+c010f9e6-c663-6ccd-590a-fdd8284d5ae8,letter,1,True,11,94,"Ela brought 2 talents 10 minas tin under our seal, 9 minas hand tin under our seal, 3 1/3 shekels silver for 2 talents 19 mi"
+2918bdfd-f8b6-4a10-224c-8c499e1fb222,letter,0,True,0,5,To Pūšu-kēn from Puzur-Aššur:
+2918bdfd-f8b6-4a10-224c-8c499e1fb222,letter,1,True,5,15,"On the day that Ilī-mālik arrives, I wrote to you these tablets."
+2918bdfd-f8b6-4a10-224c-8c499e1fb222,letter,2,True,15,18,Ilī-mālik brought your share.
+2918bdfd-f8b6-4a10-224c-8c499e1fb222,letter,3,True,18,25,"Concerning the tin which you wrote, the tin was 13 shekels."
+2918bdfd-f8b6-4a10-224c-8c499e1fb222,letter,4,True,25,29,"Now, there is no copy of the packer."
+2918bdfd-f8b6-4a10-224c-8c499e1fb222,letter,5,True,29,36,1 donkey and 20 butūqtum-textiles are placed in the caravan.
+2918bdfd-f8b6-4a10-224c-8c499e1fb222,letter,6,True,36,43,We arrived and we purchased the tin and we will send it to you in the previous transport.
+2918bdfd-f8b6-4a10-224c-8c499e1fb222,letter,7,True,43,54,"For the silver of my transport, because tin is available, I did not bring any tin."
+2918bdfd-f8b6-4a10-224c-8c499e1fb222,letter,8,True,54,60,The tin has arrived and I will purchase with your tin.
+2918bdfd-f8b6-4a10-224c-8c499e1fb222,letter,9,True,60,71,"Now, the price of Akidiya, if he returns, I will purchase every mina of silver."
+2918bdfd-f8b6-4a10-224c-8c499e1fb222,letter,10,True,71,79,"Regarding the kutānum textiles which you wrote, there is no šurbu-itum."
+2918bdfd-f8b6-4a10-224c-8c499e1fb222,letter,11,True,79,85,We purchased 1 kabtum textile in the colony office and we sent it to you.
+2918bdfd-f8b6-4a10-224c-8c499e1fb222,letter,12,True,85,87,There is no goods.
+2918bdfd-f8b6-4a10-224c-8c499e1fb222,letter,13,True,87,93,I will send you the black donkeys and Sulupi.
+2918bdfd-f8b6-4a10-224c-8c499e1fb222,letter,14,True,93,94,You wrote me.
+2918bdfd-f8b6-4a10-224c-8c499e1fb222,letter,15,True,94,103,"You said, ""You have heard all this before my investors, inform me."""
+2918bdfd-f8b6-4a10-224c-8c499e1fb222,letter,16,True,103,106,There is nothing.
+2918bdfd-f8b6-4a10-224c-8c499e1fb222,letter,17,True,106,111,"If you wish, do not bring anything to me."
+2918bdfd-f8b6-4a10-224c-8c499e1fb222,letter,18,True,111,121,"Šū-Ḫubur said, ""Why is it that I bring the silver wherever I can bring the silver wherever I can bring the silver?"""
+085b578b-43e6-2c3d-1743-72d39939bf43,letter,0,True,0,5,From Aššur-rabi to Pūšu-kēn:
+085b578b-43e6-2c3d-1743-72d39939bf43,letter,1,True,5,13,"My dear brother, until my instructions come to you."
+085b578b-43e6-2c3d-1743-72d39939bf43,letter,2,True,13,29,"I said, ""Take every shekel of silver from the dāme of the servant, as much as Ennum-Aššur son of Qarriya took and send it to me."""
+085b578b-43e6-2c3d-1743-72d39939bf43,letter,3,True,29,37,"My dear brother, my dear brother, and your message did not come."
+085b578b-43e6-2c3d-1743-72d39939bf43,letter,4,True,37,58,"I hear that the packers about which I wrote, they took silver from Lā-qēpum, either the silver from the packers or the silver from the packers and as much as the"
+085b578b-43e6-2c3d-1743-72d39939bf43,letter,5,True,58,66,Take the silver and seal it and send it to me.
+085b578b-43e6-2c3d-1743-72d39939bf43,letter,6,True,66,73,"If you are not you, I will disappoint me."
+3226fe3c-f355-9ade-a8c5-07f776b1b75d,letter,1,True,0,6,To Pūšu-kēn from Kuzallum:
+3226fe3c-f355-9ade-a8c5-07f776b1b75d,letter,3,True,6,14,I owe you 2 minas silver to Enna-Suen son of Šū-Ištar.
+3226fe3c-f355-9ade-a8c5-07f776b1b75d,letter,4,True,14,20,He will pay 1 mina of silver to the City as his hand.
+3226fe3c-f355-9ade-a8c5-07f776b1b75d,letter,5,True,20,30,As for the 20 minas of its silver to Purušḫattum from the month of Abuk.
+3226fe3c-f355-9ade-a8c5-07f776b1b75d,letter,6,True,30,35,He will send the silver in Waṣāya.
+3226fe3c-f355-9ade-a8c5-07f776b1b75d,letter,7,True,35,44,"Sell there and if my goods can go with the caravan of Damiq-Aššur, my goods will go."
+3226fe3c-f355-9ade-a8c5-07f776b1b75d,letter,8,True,44,56,"Here, the colony owes 2 minas 13 kutānum textiles to the palace and then he returned to us."
+3226fe3c-f355-9ade-a8c5-07f776b1b75d,letter,9,True,56,62,Hinnaya and myself will deposit 1 textile.
+3226fe3c-f355-9ade-a8c5-07f776b1b75d,letter,10,True,62,70,Send there 26 kutānum textiles from the bearer of Hinnaya.
+3226fe3c-f355-9ade-a8c5-07f776b1b75d,letter,11,True,70,74,Send me not from my own funds.
+25309f27-d90d-dd36-8404-69112bb7357a,letter,0,True,0,7,From Al-aḫum to Aššur-nādā and Puzur-Anna:
+25309f27-d90d-dd36-8404-69112bb7357a,letter,1,True,7,26,Take care to inform me about the tablet of 10 minas silver from the debt of Nasa and Agaya and 2 shekels gold from your imlika.
+25309f27-d90d-dd36-8404-69112bb7357a,letter,2,True,26,54,"Send it to me in the tablet of Akušutum, and in the tablet of Aššur-amārum send it to me in the tablet of Akušutum, wherever Aššur-amārum sends it."
+25309f27-d90d-dd36-8404-69112bb7357a,letter,3,True,54,71,"If you deposit 2 minas of silver to Ilī-ālum, and then send me 3 minas of silver with the son of the investor."
+a8b6e186-90d4-1aae-826a-b9610dd14a23,settlement of accounts,0,True,0,17,"Seals: Kurub-Aššur s. Ṣilliya, Pilaḫ-Ištar s. Ṣilli, Takil-Aššur s. Ḫanānum, Kuninaḫšušar s. Aššur-pilaḫ s. Amur-Aššur."
+a8b6e186-90d4-1aae-826a-b9610dd14a23,settlement of accounts,1,True,17,68,"The sealed tablet concerning the 2/3 mina of silver from the price of Ḫadāni, the son of Aššur-pilaḫ, son of Amur-Aššur, which our brother, son of Šū-Ištar and Aḫatum, owe the tablet to Aššur-nādā, and if anyone of our brothers, son of Š"
+a8b6e186-90d4-1aae-826a-b9610dd14a23,settlement of accounts,2,True,68,76,Aššur-pilaḫ s. Amur-Aššur owes Aššur-pilaḫ s. Amur-Aššur.
+1033b400-652a-2a91-0d76-38757521a3e2,letter,0,True,0,5,To Pūšu-kēn from Šuppultum:
+1033b400-652a-2a91-0d76-38757521a3e2,letter,1,True,5,15,"After Ilī-bāni seized Uṣur-ša-Aššur with Uṣur-ša-Aššur, his representatives have come."
+1033b400-652a-2a91-0d76-38757521a3e2,letter,2,True,15,20,I did not take the silver from his house.
+1033b400-652a-2a91-0d76-38757521a3e2,letter,3,True,20,22,It is not him.
+1033b400-652a-2a91-0d76-38757521a3e2,letter,4,True,22,31,"With respect to his investors, he did not release every shekel of silver."
+1033b400-652a-2a91-0d76-38757521a3e2,letter,5,True,31,33,I am not my father.
+1033b400-652a-2a91-0d76-38757521a3e2,letter,6,True,33,38,I will not add 5 shekels of silver.
+1033b400-652a-2a91-0d76-38757521a3e2,letter,7,True,38,46,"If you are my father, dispatch his behalf to you and dispatch him to you."
+1033b400-652a-2a91-0d76-38757521a3e2,letter,8,True,46,48,Let the servant take it and take him.
+1033b400-652a-2a91-0d76-38757521a3e2,letter,9,True,48,50,Send your servants to him.
+1033b400-652a-2a91-0d76-38757521a3e2,letter,10,True,50,55,Do not return his house to his account.
+1033b400-652a-2a91-0d76-38757521a3e2,letter,11,True,55,56,He will return to me.
+1033b400-652a-2a91-0d76-38757521a3e2,letter,12,True,56,67,"Until you return his hand, let him return to my debt for my debt."
+2027f673-edc1-b3af-c0cd-b05a9a865307,letter,0,True,0,5,From Šalim-Aššur to Pūšu-kēn:
+2027f673-edc1-b3af-c0cd-b05a9a865307,letter,1,True,5,23,"When you departed, you said, ""Do not bring either silver or copper to Imdī-ilum, if my representatives arrives, do not bring them to them."""
+2027f673-edc1-b3af-c0cd-b05a9a865307,letter,2,True,23,28,We will leave 5 months to Imdī-ilum.
+2027f673-edc1-b3af-c0cd-b05a9a865307,letter,3,True,28,34,From the 5 months the silver was 1 mina.
+2027f673-edc1-b3af-c0cd-b05a9a865307,letter,4,True,34,41,"Also, when they gave the silver, I am staying in the caravan."
+2027f673-edc1-b3af-c0cd-b05a9a865307,letter,5,True,41,46,They paid the silver to Ikūnum.
+2027f673-edc1-b3af-c0cd-b05a9a865307,letter,6,True,46,52,We will clear 5 months to your investors and they are there.
+2027f673-edc1-b3af-c0cd-b05a9a865307,letter,7,True,52,59,In 5 months the silver was 1/2 minas.
+2027f673-edc1-b3af-c0cd-b05a9a865307,letter,8,True,59,62,He gave us 2 minas tin.
+2027f673-edc1-b3af-c0cd-b05a9a865307,letter,9,True,62,67,"In total, I owe 2/3 minas silver."
+2027f673-edc1-b3af-c0cd-b05a9a865307,letter,10,True,67,84,"After Adad-bāni's silver has been deducted, Aššur will deduct 1/2 mina for your name and I will pay 1/2 mina for your name and I will pay 5 months."
+2027f673-edc1-b3af-c0cd-b05a9a865307,letter,11,True,84,98,"Until you return to me, Adad-bāni does not want to dispatch Adad-bāni in your tablet."
+2027f673-edc1-b3af-c0cd-b05a9a865307,letter,12,True,98,106,Regarding the man of Ḫalpim is the son of Halpim.
+2027f673-edc1-b3af-c0cd-b05a9a865307,letter,13,True,106,110,"If you are disappointed, you will depart."
+2027f673-edc1-b3af-c0cd-b05a9a865307,letter,15,True,129,134,"Now, you wrote me about the term of my dear father."
+f53ec7cb-de45-a293-6cd3-a55511b81e75,letter,0,True,0,12,To Pūšu-kēn from Kurub-Ištar:
+f53ec7cb-de45-a293-6cd3-a55511b81e75,letter,1,True,12,19,Imgua came and you did not read anything.
+f53ec7cb-de45-a293-6cd3-a55511b81e75,letter,2,True,19,25,Amur-Aššur son of Sukkallīya sent to you 10 minas tin.
+f53ec7cb-de45-a293-6cd3-a55511b81e75,letter,3,True,25,36,"My dear father and lord, my dear father, my dear"
+f53ec7cb-de45-a293-6cd3-a55511b81e75,letter,4,True,36,40,You owe your father a father.
+f53ec7cb-de45-a293-6cd3-a55511b81e75,letter,5,True,40,54,Sell Šalim-Aššur and Wabilani there and write to him so that they did not give him anything to them.
+f53ec7cb-de45-a293-6cd3-a55511b81e75,letter,6,True,54,61,"Concerning the matter which Atata said, why do you not write?"
+40a77697-dbdb-df67-42e3-a6a8dc0b29f6,letter,0,True,4,12,To Pūšu-kēn from Susaya:
+40a77697-dbdb-df67-42e3-a6a8dc0b29f6,letter,1,True,12,16,Aššur-imittī brings you 1 mina of silver to Pūšu-kēn.
+40a77697-dbdb-df67-42e3-a6a8dc0b29f6,letter,2,True,16,25,"My dear father and lord, for every single shekel of silver."
+40a77697-dbdb-df67-42e3-a6a8dc0b29f6,letter,3,True,25,27,Let your eyes give it.
+40a77697-dbdb-df67-42e3-a6a8dc0b29f6,letter,4,True,27,36,Do not take the silver and give my tablet to Uṣur-ša-Aššur.
+40a77697-dbdb-df67-42e3-a6a8dc0b29f6,letter,5,True,36,38,I am your daughter.
+40a77697-dbdb-df67-42e3-a6a8dc0b29f6,letter,6,True,38,49,I am informed you about 2 minas 10 shekels silver for the price of the donkeys.
+40a77697-dbdb-df67-42e3-a6a8dc0b29f6,letter,7,True,49,54,"My dear father and lord, I will send it to you."
+40a77697-dbdb-df67-42e3-a6a8dc0b29f6,letter,8,True,54,57,Do not clear my tablet.
+4277ef48-a8a6-4ac2-4b62-9bd09ed1db0d,letter,0,True,0,5,To Pūšu-kēn from Šū-Kūbum:
+4277ef48-a8a6-4ac2-4b62-9bd09ed1db0d,letter,1,True,5,18,"My dear brothers, my dear brothers, deposit my silver to which Innāya deposited, and you deposited my silver in my account."
+4277ef48-a8a6-4ac2-4b62-9bd09ed1db0d,letter,2,True,18,24,Do not pay anything and do not disappoint me.
+4277ef48-a8a6-4ac2-4b62-9bd09ed1db0d,letter,3,True,24,30,Give my goods wherever my account is available so that I can clear the merchandise.
+4277ef48-a8a6-4ac2-4b62-9bd09ed1db0d,letter,4,True,30,41,"Now, why did you not send the silver of Ememe until this day?"
+4277ef48-a8a6-4ac2-4b62-9bd09ed1db0d,letter,5,True,41,46,"Also, clear the son of Ibnilī and send it to me."
+4277ef48-a8a6-4ac2-4b62-9bd09ed1db0d,letter,6,True,46,54,"Why is it that Nāb-Suen said, ""Šū-Kūbum took my merchandise?"""
+4277ef48-a8a6-4ac2-4b62-9bd09ed1db0d,letter,7,True,54,59,They seized the hand of the city because of the city.
+4277ef48-a8a6-4ac2-4b62-9bd09ed1db0d,letter,8,True,59,72,"As for the silver of Kiliya, the account of Nāb-Suen, until Kiliya comes, until Kiliya comes, Kiliya will come."
+4277ef48-a8a6-4ac2-4b62-9bd09ed1db0d,letter,9,True,72,84,"Kiliya said to the representatives of Nāb-Suen: If you have your hands, let him go to the City."
+4277ef48-a8a6-4ac2-4b62-9bd09ed1db0d,letter,10,True,84,87,Kiliya took 1/2 minas of silver.
+4277ef48-a8a6-4ac2-4b62-9bd09ed1db0d,letter,11,True,87,92,"Also, they have cleared the tablet of Kiliya."
+4277ef48-a8a6-4ac2-4b62-9bd09ed1db0d,letter,12,True,92,96,"As for me, I did not take anything."
+03b8ed5b-a5b5-d101-7329-30903d13e939,letter,0,True,0,9,"From Aššur-idī to Ilī-ālum, Aššur-taklāku to Ilī-ālum:"
+03b8ed5b-a5b5-d101-7329-30903d13e939,letter,1,True,9,13,"As for him, you will bring it to him until you arrive."
+03b8ed5b-a5b5-d101-7329-30903d13e939,letter,2,True,13,18,Your house is informed and do not send me the silver.
+03b8ed5b-a5b5-d101-7329-30903d13e939,letter,3,True,18,29,"He will come until the first traveler comes, but you did not take 10 minas silver and do not send it to me."
+03b8ed5b-a5b5-d101-7329-30903d13e939,letter,4,True,29,37,They will deduct the silver of 1 mina and 1/2 mina after my share.
+03b8ed5b-a5b5-d101-7329-30903d13e939,letter,5,True,37,40,Then Uṣur-ša-Aššur is the guarantor.
+03b8ed5b-a5b5-d101-7329-30903d13e939,letter,6,True,40,48,"Urgent, send me the remainder of my silver."
+03b8ed5b-a5b5-d101-7329-30903d13e939,letter,7,True,48,63,Let Aššur deposit 1 mina of interest at the rate of interest.
+03b8ed5b-a5b5-d101-7329-30903d13e939,letter,8,True,63,69,Clear the merchandise from your transport and come here.
+03b8ed5b-a5b5-d101-7329-30903d13e939,letter,9,True,69,77,"Also, let Aššur-taklāku clear me and let him come."
+5e290059-d99a-0f57-eacb-13168d0b004f,note,0,True,5,9,Aššur-bēl-awātim son of Panaka.
+5e290059-d99a-0f57-eacb-13168d0b004f,note,1,True,9,15,1 mina 15 shekels (to?) Šū-Kūbum his son.
+5e290059-d99a-0f57-eacb-13168d0b004f,note,2,True,15,22,1 mina 15 shekels (to?) Aššur-imittī s. Amur-ilī.
+5e290059-d99a-0f57-eacb-13168d0b004f,note,3,True,22,26,2 minas (silver) Amur-Ištar's gear was 21 1/3 minas.
+5e290059-d99a-0f57-eacb-13168d0b004f,note,4,True,26,31,2 minas 22 1/2 shekels (to?) Pūšu-kēn.
+5e290059-d99a-0f57-eacb-13168d0b004f,note,5,True,31,36,Ilī-bāni s. Ikūnum owes 2 minas.
+5e290059-d99a-0f57-eacb-13168d0b004f,note,6,True,36,41,1 mina (to?) Aššur-imittī s. Ennānum.
+5e290059-d99a-0f57-eacb-13168d0b004f,note,7,True,41,44,2 minas (silver)
+5e290059-d99a-0f57-eacb-13168d0b004f,note,8,True,44,52,1 mina 15 shekels (to?) Aššur-ṭāb s. Ennāya.
+5e290059-d99a-0f57-eacb-13168d0b004f,note,9,True,52,55,1/3 mina (to?) Alili.
+5e290059-d99a-0f57-eacb-13168d0b004f,note,10,True,55,59,1 mina (to?) Amurrum-bāni.
+5e290059-d99a-0f57-eacb-13168d0b004f,note,11,True,59,66,1 mina 18 shekels (to?) Al-ṭāb s. Anali.
+5e290059-d99a-0f57-eacb-13168d0b004f,note,12,True,66,71,1 mina (to?) Nabi-Suen s. Ilī-bāni.
+5e290059-d99a-0f57-eacb-13168d0b004f,note,13,True,71,75,The son of Attaya is 6 minas.
+5e290059-d99a-0f57-eacb-13168d0b004f,note,14,True,75,80,"1 mina s. Ataya, son of Šū-Bēlim."
+5e290059-d99a-0f57-eacb-13168d0b004f,note,15,True,80,91,"In total, 4 talents 28 1/3 minas less 1/2 shekels are the purum of Pūšu-kēn."
+5046008b-94cb-fc7b-7fbb-c8738f3bb388,unknown,0,True,1,123,"2 minas 6 1/2 shekels of pašallum-gold, 5 minas of silver from my ikrībiya, 2 minas of silver from Šū-Bēlum and myself, 4 minas of silver from my ikrībiya, 4 minas of silver from the house of Ilī-dān, 4 minas of silver from the house of Ilī-dān,"
+5046008b-94cb-fc7b-7fbb-c8738f3bb388,unknown,1,True,123,129,"Witnesses: Aššur-bāni, Šuli s. Merāli."
+ad62afdf-6a7c-075f-e466-bd1f94906242,debt note,0,True,1,9,Aššur-bāni owes Aššur-nādā 2 minas refined silver.
+ad62afdf-6a7c-075f-e466-bd1f94906242,debt note,1,True,9,15,He will pay one month from the ḫamuštum of Šū-Anum.
+ad62afdf-6a7c-075f-e466-bd1f94906242,debt note,2,True,15,28,"If he does not pay at the fulfillment of his term, he will add 1 shekel silver per mina per month."
+ad62afdf-6a7c-075f-e466-bd1f94906242,debt note,3,True,28,32,"Witnesses: Šū-Labrat, Puzur-Anna."
+11d2884e-bdda-e507-1bd2-94fdc7ef483c,letter,0,True,0,7,From Aššur-imittī and Šalim-aḫum to Pūšu-kēn:
+11d2884e-bdda-e507-1bd2-94fdc7ef483c,letter,1,True,7,17,"Concerning the house of Ennānum about which you wrote, you said, ""Sell my house."""
+11d2884e-bdda-e507-1bd2-94fdc7ef483c,letter,2,True,17,32,"He raised much silver to us for the house and we said, ""We will give every mina of silver to us and we will write every mina of silver."""
+11d2884e-bdda-e507-1bd2-94fdc7ef483c,letter,3,True,32,43,Šalim-Aššur and Šū-Ḫubur brought us for 16 minas of silver.
+11d2884e-bdda-e507-1bd2-94fdc7ef483c,letter,4,True,43,45,"Also, they wrote to you."
+11d2884e-bdda-e507-1bd2-94fdc7ef483c,letter,5,True,45,51,"They said, ""We took the silver for interest."""
+11d2884e-bdda-e507-1bd2-94fdc7ef483c,letter,6,True,51,58,We did not receive any silver for interest.
+11d2884e-bdda-e507-1bd2-94fdc7ef483c,letter,7,True,58,67,He paid 5 minas silver for the price of the house of Šalim-aḫum on his own funds.
+11d2884e-bdda-e507-1bd2-94fdc7ef483c,letter,8,True,67,72,Take care to send the silver of Šalim-aḫum.
+11d2884e-bdda-e507-1bd2-94fdc7ef483c,letter,9,True,72,78,"Also, send me 6 minas of silver."
+11d2884e-bdda-e507-1bd2-94fdc7ef483c,letter,10,True,78,80,From Aššur-imittī:
+11d2884e-bdda-e507-1bd2-94fdc7ef483c,letter,12,True,80,84,I gave your silver to Ḫuraṣānum and I gave it to Ḫuraṣānum.
+11d2884e-bdda-e507-1bd2-94fdc7ef483c,letter,13,True,84,85,Do not disappoint me.
+11d2884e-bdda-e507-1bd2-94fdc7ef483c,letter,14,True,85,87,I did not pay.
+11d2884e-bdda-e507-1bd2-94fdc7ef483c,letter,15,True,87,90,Do not disappoint me.
+0f9c4316-cc9c-47e6-b385-435ecaca8aa2,letter,0,True,0,7,From Hinnaya to Aššur-nādā and Dān-Aššur:
+0f9c4316-cc9c-47e6-b385-435ecaca8aa2,letter,1,True,7,16,"If Kulumaya comes and took anything from my tin, let your message come."
+0f9c4316-cc9c-47e6-b385-435ecaca8aa2,letter,2,True,16,21,"Also, dispatch my servants so that the donkeys should settle them."
+0f9c4316-cc9c-47e6-b385-435ecaca8aa2,letter,3,True,21,26,Let him pay the tin at the fulfillment of your hand.
+0f9c4316-cc9c-47e6-b385-435ecaca8aa2,letter,4,True,26,34,"Now, wherever there are fine textiles, the fine textiles are available, and your textiles are available."
+0f9c4316-cc9c-47e6-b385-435ecaca8aa2,letter,5,True,34,37,"My dear brothers, inform me."
+a91bbb19-f0d0-dfa9-bd03-27bb80011c8a,unknown,0,True,0,6,"Seals: Šū-Laprat, Puzur-Anna, Aššur-bāni."
+a91bbb19-f0d0-dfa9-bd03-27bb80011c8a,unknown,1,True,6,28,"Regarding the debt of Aššur-bāni, Aššur-bāni owes Aššur-nādā 1/2 mina refined silver."
+5b5349b4-d585-493d-fb1a-9b91d0f92163,debt note,0,True,9,21,Aššur-rabi owes Aššur-rabi 10 minas refined silver.
+5b5349b4-d585-493d-fb1a-9b91d0f92163,debt note,1,True,21,32,They will pay 10 weeks from the ḫamuštum of Aššur-nādā and Aššur-nādā.
+5b5349b4-d585-493d-fb1a-9b91d0f92163,debt note,3,True,33,35,Ab-šalim is the guarantor.
+5b5349b4-d585-493d-fb1a-9b91d0f92163,debt note,4,True,35,40,They are legally responsible for the silver.
+5b5349b4-d585-493d-fb1a-9b91d0f92163,debt note,5,True,40,42,Month: Kuzalli.
+5b5349b4-d585-493d-fb1a-9b91d0f92163,debt note,6,True,42,44,Eponymate: Tāb-Aššur
+5b5349b4-d585-493d-fb1a-9b91d0f92163,debt note,7,True,44,48,"Witnesses: Kura, Šū-Suen."
+e7d4f4fc-4419-8aa3-9fdb-976ed3fe3f81,debt note,0,True,1,2,Ilabrat-bāni owes Aššur-nādā 1 mina 5 shekels refined silver.
+e7d4f4fc-4419-8aa3-9fdb-976ed3fe3f81,debt note,1,True,2,15,He will add 1 shekel per mina per month from the ḫamuštum of Aššur-rēʾī and Ali-a.
+e7d4f4fc-4419-8aa3-9fdb-976ed3fe3f81,debt note,2,True,15,20,The silver is responsible for their payment.
+035e1cf4-1615-421d-c538-2c70e642e005,debt note,0,True,0,13,"Seals: Irma-Aššur s. Nidi-bāni, Aḫu-waqar s. Šū-Ištar, Aššur-ṭāb s. Ilī-dān."
+035e1cf4-1615-421d-c538-2c70e642e005,debt note,1,True,13,22,Aššur-ṭāb s. Ilī-dān owes the merchant 1 mina zakum.
+035e1cf4-1615-421d-c538-2c70e642e005,debt note,2,True,22,40,"He will pay 16 weeks from the ḫamuštum of Imdī-ilum and Šamaš-bāni, month Maḫur-ilī, eponymate after Iddin-abum s. Narbitum."
+035e1cf4-1615-421d-c538-2c70e642e005,debt note,3,True,40,69,"If he does not pay (on time), he will add 1/2 shekels per mina per month as interest."
+a61eb0fb-68a9-911d-7d80-0df4e09d5d80,agreement (contract),0,True,89,97,"Witnesses: Ṭāb-ilī, Aššur-rēʾī, Ṣilūlu, Enlil-bāni."
+761a2e82-ca26-98a9-ba40-a8df73e1d074,administrative regulation,0,True,0,4,Seal of the colony of Turḫumit.
+871e7671-e26b-4808-9acb-1c4a7e1ed2e6,judgement,0,True,0,86,Seal of the wabartum of Šalatiwar.
+e977e211-2123-4081-85b6-6abbb815e810,debt note,0,True,6,8,Ilī-ālum owes Ilī-ālum 10 minas refined silver.
+e977e211-2123-4081-85b6-6abbb815e810,debt note,1,True,8,26,He will pay 15 weeks from the ḫamuštum of Aššur-Šamši.
+e977e211-2123-4081-85b6-6abbb815e810,debt note,2,True,26,35,"If he does not pay (on time), he will add 1/2 shekels per mina per month as interest."
+b095ce93-8957-4190-a4c3-ddcea26c53f2,debt note,0,True,10,23,"If he does not pay (on time), he will add interest at the colony rate."
+a40fb463-6e10-4a7d-9edd-2a5ac5e8e18e,unknown,0,True,0,5,From Šū-Ḫubur to Pūšu-kēn:
+a40fb463-6e10-4a7d-9edd-2a5ac5e8e18e,unknown,1,True,5,16,The house which you deposited in the house of Ilī-mālik which they deposited in the house of Ilī-mālik.
+a40fb463-6e10-4a7d-9edd-2a5ac5e8e18e,unknown,2,True,16,22,"As for me, I deposited this and you did not give the house."
+a40fb463-6e10-4a7d-9edd-2a5ac5e8e18e,unknown,3,True,22,33,"After my representatives, your representatives and my representatives took the house to you."
+a40fb463-6e10-4a7d-9edd-2a5ac5e8e18e,unknown,4,True,33,51,"If your representatives and my representatives do not take the house of your representatives and my representatives, I will take you one year after my arrival."
+a40fb463-6e10-4a7d-9edd-2a5ac5e8e18e,unknown,5,True,51,53,I did not leave them.
+a40fb463-6e10-4a7d-9edd-2a5ac5e8e18e,unknown,6,True,53,77,"Concerning the 1 talent of tin which Aššur-mālik and Irma-Aššur entrusted to Lālum, here I seized the house of Lālum concerning this tin and they said, ""Dispatch your witness."""
+a40fb463-6e10-4a7d-9edd-2a5ac5e8e18e,unknown,7,True,77,102,"Please, there Aššur-mālik and Irma-Aššur should give their witnesses that when they gave the tin to Lālum, so that they seize whatever silver is in my account there, so that they seize whatever silver is in my account there so that they do not seize"
+a40fb463-6e10-4a7d-9edd-2a5ac5e8e18e,unknown,8,True,102,105,Seal the silver and send it to me.
+a40fb463-6e10-4a7d-9edd-2a5ac5e8e18e,unknown,9,True,105,114,"If there is a representative of Lālum, then they must take care to take the silver."
+a40fb463-6e10-4a7d-9edd-2a5ac5e8e18e,unknown,10,True,114,120,"Also, I gave as much as I gave to my wife."
+a40fb463-6e10-4a7d-9edd-2a5ac5e8e18e,unknown,11,True,120,126,I gave 2 minas silver to Šasarara.
+a40fb463-6e10-4a7d-9edd-2a5ac5e8e18e,unknown,12,True,126,140,"I paid 2 shekels silver and 2 minas tin to the son of Uraya, all this concerning the colony."
+a40fb463-6e10-4a7d-9edd-2a5ac5e8e18e,unknown,13,True,140,145,Take the silver there and send it to me.
+cd206f5d-eea5-4d0c-9b20-4301d6f96855,debt note,0,True,0,30,"Seals: Išpunuman, Taliya, Tališ his son of Amalia-aš, seal of 1 mina 9 shekels fine silver Išpunuman and Taliya and Tališ his son of Amalia-aš."
+cd206f5d-eea5-4d0c-9b20-4301d6f96855,debt note,1,True,30,38,"If he does not pay (on time), he will add 1/2 shekels per mina per month as interest."
+4c55f9b3-62c8-443d-9465-a51384e6811b,letter,0,True,0,9,To Šū-Kūbum and Aššur-pilah to Šū-Kūbum from Aššur-nādā:
+4c55f9b3-62c8-443d-9465-a51384e6811b,letter,1,True,9,25,"The silver which our father seized here, they seized us here and they said, ""Pay the silver to your father's debt."""
+4c55f9b3-62c8-443d-9465-a51384e6811b,letter,2,True,25,32,"I said, ""You took the silver and I deposited the silver."""
+4c55f9b3-62c8-443d-9465-a51384e6811b,letter,3,True,32,36,There is a memorandum of my father.
+4c55f9b3-62c8-443d-9465-a51384e6811b,letter,4,True,36,42,"They said, ""Send the memorandum of your father."""
+4c55f9b3-62c8-443d-9465-a51384e6811b,letter,5,True,42,57,"As for us, we entered one of your representatives and with my brother and with my brother and we brought my memorandum."
+4c55f9b3-62c8-443d-9465-a51384e6811b,letter,6,True,57,66,I have deposited them and I have deposited them in the presence of him.
+e75fba65-eb0d-4cb0-aa27-1a448eba6273,letter,0,True,0,5,From Ennam-Aššur to Amur-Ištar:
+e75fba65-eb0d-4cb0-aa27-1a448eba6273,letter,1,True,5,11,What is it that you have stayed until this day?
+e75fba65-eb0d-4cb0-aa27-1a448eba6273,letter,3,True,16,24,"Urgent, on the day you read my tablets, clear my tablets."
+e75fba65-eb0d-4cb0-aa27-1a448eba6273,letter,4,True,24,35,"You gave it to you and Aššur-taklāku brings you the tablets of the house of Abu-šalim, the son of my letter."
+e75fba65-eb0d-4cb0-aa27-1a448eba6273,letter,7,True,55,58,"Please, please, please, please."
+e75fba65-eb0d-4cb0-aa27-1a448eba6273,letter,8,True,58,64,Do not delay Asuri 2 terms there.
+e75fba65-eb0d-4cb0-aa27-1a448eba6273,letter,11,True,74,79,Take care to dispatch Waza the goods of Šū-Suen.
+e75fba65-eb0d-4cb0-aa27-1a448eba6273,letter,12,True,79,84,"If you do not leave, send it to me."
+bc22b51b-f18a-4fe6-bc03-c51cb89245fa,letter,0,True,0,7,From Abu-šalim and Ilī-ālum to Aššur-imittī:
+5e0f2392-47ea-4995-82d9-cdcbf06bc31f,memo,0,True,2,19,The silver is with Amur-Aššur for the first departure.
+5e0f2392-47ea-4995-82d9-cdcbf06bc31f,memo,1,True,19,45,The previous tablet with his tablet with 2 minas silver and 25 grains gold for the debt of Warhila.
+5e0f2392-47ea-4995-82d9-cdcbf06bc31f,memo,2,True,45,54,Nakilid owes 1/3 mina 5 shekels silver.
+5e0f2392-47ea-4995-82d9-cdcbf06bc31f,memo,3,True,54,103,"Azu his son and his brother, 7 minas silver is with Kaššim and his brother, 1/2 minas silver is with Takšanuman, 70 grains of gold and 30 grains of aršātum is with Takšanuman, 70 grains of gold and 30 grains of aršātum is with Takšanuman, 70 gra"
+5e0f2392-47ea-4995-82d9-cdcbf06bc31f,memo,4,True,103,126,"Witnesses: 1/2 mina of silver with Šū-Ištar s. Šū-Anum, 2 minas of silver with Ikuppī-Aššur s. Puzur-Ištar, 1/3 mina of silver Bēulāt s. Adad-bāni."
+5e0f2392-47ea-4995-82d9-cdcbf06bc31f,memo,5,True,126,140,"Witnesses: Dudu, 1 mina silver from Ilī-wēdāku s. Idāya, 1/2 mina silver is the house of Šamaš-taklāku."
+5e0f2392-47ea-4995-82d9-cdcbf06bc31f,memo,6,True,140,153,Aššur-idīn son of Šū-Ištar took 3 shekels silver from Kura son of Isiḫum.
+5e0f2392-47ea-4995-82d9-cdcbf06bc31f,memo,7,True,153,165,Wawali and Aššur-imittī 2/3 mina silver is with Šalim-Ištar s. Tūram-Adad.
+addb9287-2686-445a-903e-3f13bd6decb7,unknown,0,True,0,7,To Aššur-nādā and Idī-Suen from Ilī-ālum:
+addb9287-2686-445a-903e-3f13bd6decb7,unknown,1,True,7,19,"In the presence of your merchandise, I wrote to you, that you did not send the merchandise to me."
+addb9287-2686-445a-903e-3f13bd6decb7,unknown,2,True,19,25,"As for you, you deposited it and I did not clear our funds."
+addb9287-2686-445a-903e-3f13bd6decb7,unknown,3,True,25,43,"When your merchandise entrusted to Aššur-taklāku, I deposited 10 minas and 15 minas of copper to Aššur-taklāku and I deposited it for your merchandise."
+addb9287-2686-445a-903e-3f13bd6decb7,unknown,4,True,43,50,"Also, I will add 20 talents of copper to you."
+addb9287-2686-445a-903e-3f13bd6decb7,unknown,5,True,50,58,After the copper entered and he brought every mina of silver.
+addb9287-2686-445a-903e-3f13bd6decb7,unknown,6,True,58,68,"Also, you took minas from my account and Enniya informed Enniya."
+addb9287-2686-445a-903e-3f13bd6decb7,unknown,7,True,68,75,"Concerning the matter of Šarma and his partners, you wrote me in the presence of his partners."
+addb9287-2686-445a-903e-3f13bd6decb7,unknown,8,True,75,77,His son died.
+addb9287-2686-445a-903e-3f13bd6decb7,unknown,9,True,77,81,We did not go to him and we did not go to him.
+addb9287-2686-445a-903e-3f13bd6decb7,unknown,10,True,81,84,In the fulfillment you wrote me.
+addb9287-2686-445a-903e-3f13bd6decb7,unknown,11,True,84,92,Do not leave the sikkātum and we did not make anything on your behalf.
+addb9287-2686-445a-903e-3f13bd6decb7,unknown,12,True,92,98,Do not clear the accounts of the caravan of Abum-ilī.
+addb9287-2686-445a-903e-3f13bd6decb7,unknown,13,True,98,108,"I brought Turaya and he said, ""I promised 12 shekels silver to Idī-Suen."""
+addb9287-2686-445a-903e-3f13bd6decb7,unknown,14,True,108,111,I wrote to you until I wrote to you.
+addb9287-2686-445a-903e-3f13bd6decb7,unknown,15,True,111,120,"When they pay the price of the textiles, Abum-ilī will bring you the price of the textiles."
+addb9287-2686-445a-903e-3f13bd6decb7,unknown,16,True,120,125,"If he does not pay, he will add interest at the rate of the colony."
+addb9287-2686-445a-903e-3f13bd6decb7,unknown,17,True,125,130,Why is it that he did not pay according to his tablet?
+addb9287-2686-445a-903e-3f13bd6decb7,unknown,18,True,130,138,Idī-Suen will receive 2 minas 12 shekels.
+addb9287-2686-445a-903e-3f13bd6decb7,unknown,19,True,138,144,Šalim-bēlī brought 1 talent of your copper to Purušḫattum.
+6ad88a0a-b347-4edb-a578-28fae23aaa7d,unknown,0,True,14,21,Kulumaya owes Aššur-mutabbil 2 minas refined silver.
+6ad88a0a-b347-4edb-a578-28fae23aaa7d,unknown,1,True,21,32,"He will pay 15 weeks from the month Tiinātum, eponymate Enna-Suen."
+6ad88a0a-b347-4edb-a578-28fae23aaa7d,unknown,2,True,32,135,"If he does not pay the silver in Kanesh, he will add interest at the rate of the colony."
+b2b6d8b2-a19c-ccf9-5df0-25665e52d7df,letter,0,True,2,30,To Pūšu-kēn from Lamassī and Aḫaha:
+b2b6d8b2-a19c-ccf9-5df0-25665e52d7df,letter,1,True,30,37,"We will write to you as much as he wrote, and we will write to you as much as he wrote."
+b2b6d8b2-a19c-ccf9-5df0-25665e52d7df,letter,2,True,37,46,"Please, do not release the ikrībum which you entrusted to the messages."
+b2b6d8b2-a19c-ccf9-5df0-25665e52d7df,letter,3,True,46,51,Bring the transport tariff in your account.
+b2b6d8b2-a19c-ccf9-5df0-25665e52d7df,letter,4,True,51,56,Or send me with the first traveler.
+ae181159-586d-4147-bd8f-644288e7cfc2,unknown,0,True,1,10,Tuḫniš owes Adad-bāni 1 talent of šikku-copper.
+6d82fba1-fa64-4644-b2a5-274e586dac84,letter,0,True,0,8,To Aššur-nādā and Uṣur-ša-Aššur from Aššur-taklāku:
+6d82fba1-fa64-4644-b2a5-274e586dac84,letter,1,True,8,24,Inform me about the tablets and give him a tablet concerning the debt of Aššur-nādā s. Aḫ-šalim's debt of 1 mina of silver.
+6d82fba1-fa64-4644-b2a5-274e586dac84,letter,2,True,24,27,Here I satisfied the silver.
+6d82fba1-fa64-4644-b2a5-274e586dac84,letter,3,True,27,41,"If Aššur-nādā does not come, you and Aššur-nādā write my tablet and seal his tablet and send it to you."
+6d82fba1-fa64-4644-b2a5-274e586dac84,letter,4,True,41,55,"If there are textiles in the colony office, they will give the textiles to our father's account."
+6d82fba1-fa64-4644-b2a5-274e586dac84,letter,5,True,55,63,"If there is a single shekel of silver, let your message come and send the silver."
+c39bdff0-fd1b-cfeb-f17e-d5261b6da6d7,letter,0,True,0,7,From Aššur-idī to Aššur-nādā:
+c39bdff0-fd1b-cfeb-f17e-d5261b6da6d7,letter,1,True,7,14,You sent Ištar-pilaḫ 1/2 shekel of silver.
+c39bdff0-fd1b-cfeb-f17e-d5261b6da6d7,letter,2,True,14,21,I took 2 minas 1/2 shekels from the silver of Šū-Ištar.
+c39bdff0-fd1b-cfeb-f17e-d5261b6da6d7,letter,3,True,21,25,"In total, 3 minas silver was 3 minas silver."
+c39bdff0-fd1b-cfeb-f17e-d5261b6da6d7,letter,4,True,25,40,"Thereof, I paid 7 1/2 shekels to the excise."
+c39bdff0-fd1b-cfeb-f17e-d5261b6da6d7,letter,5,True,40,44,1 mina 1/2 shekels (to?) Aššur-nādā.
+c39bdff0-fd1b-cfeb-f17e-d5261b6da6d7,letter,6,True,44,56,I received 10 shekels silver from the son of Abu-rilim and his partner.
+c39bdff0-fd1b-cfeb-f17e-d5261b6da6d7,letter,7,True,56,65,The remainder of the silver is the price of the textiles from the transport of Ennam-Bēlum.
+c39bdff0-fd1b-cfeb-f17e-d5261b6da6d7,letter,8,True,65,69,"You said, ""I will take the silver."""
+c39bdff0-fd1b-cfeb-f17e-d5261b6da6d7,letter,9,True,69,82,I did not seal him and I took the silver in my account.
+c39bdff0-fd1b-cfeb-f17e-d5261b6da6d7,letter,10,True,82,90,The remainder of the silver is from the goods of the transport of the son of Irnuid.
+c39bdff0-fd1b-cfeb-f17e-d5261b6da6d7,letter,11,True,90,99,"In total, I deducted 2 minas 7 2/3 shekels and the remainder of your silver is 2 1/6 shekels."
+c39bdff0-fd1b-cfeb-f17e-d5261b6da6d7,letter,12,True,99,101,10 shekels were for you.
+d60df513-c13c-44d3-961c-27e98700a132,letter,0,True,0,5,From Aššur-idī to Aššur-nādā:
+d60df513-c13c-44d3-961c-27e98700a132,letter,1,True,5,16,"Concerning the matter of Idī-Suen about which you wrote, Idī-Suen seized me and I said to our brother:"
+d60df513-c13c-44d3-961c-27e98700a132,letter,2,True,16,20,You will receive the silver from my accounts.
+d60df513-c13c-44d3-961c-27e98700a132,letter,3,True,20,22,Give my silver.
+d60df513-c13c-44d3-961c-27e98700a132,letter,4,True,22,28,"He said, ""I did not take your silver."""
+d60df513-c13c-44d3-961c-27e98700a132,letter,5,True,28,72,"Also, the accountings arrived and we received 1 mina and 2 minas of silver from Šalim-aḫum, and we received 1 talent of silver from Šalim-aḫum, and we received 1 talent of silver from Šalim-aḫ"
+d60df513-c13c-44d3-961c-27e98700a132,letter,6,True,72,88,"From the month Kanbarta, eponymate Ibni-Adad s. Baqqunim, he will pay you 1 mina per year silver per year in the City."
+d60df513-c13c-44d3-961c-27e98700a132,letter,7,True,88,97,"Regarding the silver, he brings 1 or 2 minas poor quality."
+d60df513-c13c-44d3-961c-27e98700a132,letter,8,True,97,102,"There, I seized him there and I shall agree with your men."
+d60df513-c13c-44d3-961c-27e98700a132,letter,9,True,102,112,"Please, clear your father and come with Aššur-mālik and come here."
+d60df513-c13c-44d3-961c-27e98700a132,letter,10,True,112,122,"If you left the tin for the ebuṭum, then the merchant will give it to the merchant for the term."
+d60df513-c13c-44d3-961c-27e98700a132,letter,11,True,122,128,"Please, Ilī-ālum, send me with one traveler."
+42c7b3db-78ca-4f7e-92a4-7fcf13ccc4bf,letter,0,True,0,7,From Aššur-idī to Aššur-nādā and Aššur-taklāku:
+42c7b3db-78ca-4f7e-92a4-7fcf13ccc4bf,letter,1,True,7,11,To Aššur-nādā:
+42c7b3db-78ca-4f7e-92a4-7fcf13ccc4bf,letter,2,True,11,19,You sent me 2 minas silver from your ikrībum of Aššur.
+42c7b3db-78ca-4f7e-92a4-7fcf13ccc4bf,letter,3,True,19,22,They brought you 2 kutānum textiles.
+42c7b3db-78ca-4f7e-92a4-7fcf13ccc4bf,letter,4,True,22,27,I gave 10 shekels silver to his account.
+42c7b3db-78ca-4f7e-92a4-7fcf13ccc4bf,letter,5,True,27,31,Let them clear the tin when they clear it.
+42c7b3db-78ca-4f7e-92a4-7fcf13ccc4bf,letter,6,True,31,33,Šū-Nūnu brings to you.
+42c7b3db-78ca-4f7e-92a4-7fcf13ccc4bf,letter,7,True,33,37,To Aššur-taklāku:
+42c7b3db-78ca-4f7e-92a4-7fcf13ccc4bf,letter,8,True,37,46,You sent me 5 minas 5 shekels silver from your ikrībum of Aššur.
+42c7b3db-78ca-4f7e-92a4-7fcf13ccc4bf,letter,9,True,46,49,I deducted the excise tax and its excise tax.
+42c7b3db-78ca-4f7e-92a4-7fcf13ccc4bf,letter,10,True,49,53,"Also, the remainder of the silver."

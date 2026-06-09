@@ -1,0 +1,22 @@
+{
+  "run_id": "byt5_base_rq2_tag_sumerograms",
+  "artifact_source": "outputs/coursework/byt5_base_rq2_tag_sumerograms/best_model.pt",
+  "config_path": "coursework/configs/byt5_base_rq2_tag_sumerograms.yaml",
+  "source_prefix": "translate Akkadian to English: ",
+  "remove_gaps": false,
+  "strip_determinatives": false,
+  "tag_sumerograms": true,
+  "strip_homophone_subscripts": true,
+  "use_dictionary_gloss": false,
+  "max_glosses": 8,
+  "independent": {
+    "bleu": 26.790767768925765,
+    "chrf": 47.68905746946886,
+    "combined": 35.74390107114072
+  },
+  "newtest": {
+    "bleu": 26.520621988133776,
+    "chrf": 49.35355986533862,
+    "combined": 36.17854481536503
+  }
+}

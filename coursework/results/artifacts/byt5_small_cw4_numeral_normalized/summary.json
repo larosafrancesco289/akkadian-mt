@@ -1,0 +1,25 @@
+{
+  "run_id": "byt5_small_cw4_numeral_normalized",
+  "artifact_source": "outputs/coursework/byt5_small_cw4_numeral_normalized/best_model.pt",
+  "config_path": "coursework/configs/byt5_small_cw4_numeral_normalized.yaml",
+  "primary_test_file": "data/processed/coursework_variants/numeral_normalized/independent_test.csv",
+  "secondary_test_file": "data/processed/coursework_variants/numeral_normalized/new_test.csv",
+  "source_prefix": "translate Akkadian to English: ",
+  "remove_gaps": false,
+  "strip_determinatives": false,
+  "tag_sumerograms": false,
+  "strip_homophone_subscripts": true,
+  "skip_source_normalization": false,
+  "use_dictionary_gloss": false,
+  "max_glosses": 8,
+  "independent": {
+    "bleu": 21.042975074106756,
+    "chrf": 40.473234160751076,
+    "combined": 29.183510029007323
+  },
+  "newtest": {
+    "bleu": 21.947960629564808,
+    "chrf": 42.507797724041126,
+    "combined": 30.544385259761885
+  }
+}

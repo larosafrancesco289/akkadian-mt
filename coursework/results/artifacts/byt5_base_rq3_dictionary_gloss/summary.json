@@ -1,0 +1,22 @@
+{
+  "run_id": "byt5_base_rq3_dictionary_gloss",
+  "artifact_source": "outputs/coursework/byt5_base_rq3_dictionary_gloss/best_model.pt",
+  "config_path": "coursework/configs/byt5_base_rq3_dictionary_gloss.yaml",
+  "source_prefix": "translate Akkadian to English: ",
+  "remove_gaps": false,
+  "strip_determinatives": false,
+  "tag_sumerograms": false,
+  "strip_homophone_subscripts": true,
+  "use_dictionary_gloss": true,
+  "max_glosses": 6,
+  "independent": {
+    "bleu": 26.50523285779608,
+    "chrf": 47.48914670190756,
+    "combined": 35.478315793623835
+  },
+  "newtest": {
+    "bleu": 26.44025139232177,
+    "chrf": 49.0217599983685,
+    "combined": 36.002050747852216
+  }
+}

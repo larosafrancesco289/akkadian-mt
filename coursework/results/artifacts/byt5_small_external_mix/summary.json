@@ -1,0 +1,25 @@
+{
+  "run_id": "byt5_small_external_mix",
+  "artifact_source": "outputs/coursework/byt5_small_external_mix/best_model.pt",
+  "config_path": "coursework/configs/byt5_small_external_mix.yaml",
+  "primary_test_file": "data/processed/independent_test_set_clean.csv",
+  "secondary_test_file": "data/processed/new_test_set.csv",
+  "source_prefix": "translate Akkadian to English: ",
+  "remove_gaps": false,
+  "strip_determinatives": false,
+  "tag_sumerograms": false,
+  "strip_homophone_subscripts": true,
+  "skip_source_normalization": false,
+  "use_dictionary_gloss": false,
+  "max_glosses": 8,
+  "independent": {
+    "bleu": 24.01246538034251,
+    "chrf": 45.144406084905455,
+    "combined": 32.92458789764749
+  },
+  "newtest": {
+    "bleu": 23.55606331690301,
+    "chrf": 47.21770311799538,
+    "combined": 33.350610254180175
+  }
+}

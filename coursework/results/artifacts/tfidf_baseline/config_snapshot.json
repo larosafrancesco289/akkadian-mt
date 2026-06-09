@@ -1,0 +1,15 @@
+{
+  "run_id": "tfidf_baseline",
+  "prepared_file": "data/processed/golden_corpus_v2_prefilt.csv",
+  "holdout_file": "data/processed/coursework_holdout_doc_ids.json",
+  "primary_test_file": "data/processed/independent_test_set_clean.csv",
+  "secondary_test_file": "data/processed/new_test_set.csv",
+  "tfidf": {
+    "analyzer": "char",
+    "ngram_min": 3,
+    "ngram_max": 5,
+    "lowercase": false
+  },
+  "train_rows": 5297,
+  "validation_rows": 597
+}

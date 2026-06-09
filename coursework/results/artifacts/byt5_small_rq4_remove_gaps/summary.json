@@ -1,0 +1,22 @@
+{
+  "run_id": "byt5_small_rq4_remove_gaps",
+  "artifact_source": "outputs/coursework/byt5_small_rq4_remove_gaps/best_model.pt",
+  "config_path": "coursework/configs/byt5_small_rq4_remove_gaps.yaml",
+  "source_prefix": "translate Akkadian to English: ",
+  "remove_gaps": true,
+  "strip_determinatives": false,
+  "tag_sumerograms": false,
+  "strip_homophone_subscripts": true,
+  "use_dictionary_gloss": false,
+  "max_glosses": 8,
+  "independent": {
+    "bleu": 20.6635674976815,
+    "chrf": 39.82122511062591,
+    "combined": 28.685337245948283
+  },
+  "newtest": {
+    "bleu": 20.925103090874977,
+    "chrf": 41.64392533406238,
+    "combined": 29.519543199784707
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "run_id": "byt5_small_rq1_no_determinatives",
+  "artifact_source": "outputs/coursework/byt5_small_rq1_no_determinatives/best_model.pt",
+  "config_path": "coursework/configs/byt5_small_rq1_no_determinatives.yaml",
+  "source_prefix": "translate Akkadian to English: ",
+  "remove_gaps": false,
+  "strip_determinatives": true,
+  "tag_sumerograms": false,
+  "strip_homophone_subscripts": true,
+  "use_dictionary_gloss": false,
+  "max_glosses": 8,
+  "independent": {
+    "bleu": 21.098560837726442,
+    "chrf": 40.647469689240765,
+    "combined": 29.284861484017433
+  },
+  "newtest": {
+    "bleu": 21.87176831163272,
+    "chrf": 42.648310794270586,
+    "combined": 30.54167599485646
+  }
+}

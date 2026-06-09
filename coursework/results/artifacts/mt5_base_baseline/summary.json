@@ -1,0 +1,25 @@
+{
+  "run_id": "mt5_base_baseline",
+  "artifact_source": "outputs/coursework/mt5_base_baseline/best_model.pt",
+  "config_path": "coursework/configs/mt5_base_baseline.yaml",
+  "primary_test_file": "data/processed/independent_test_set_clean.csv",
+  "secondary_test_file": "data/processed/new_test_set.csv",
+  "source_prefix": "translate Akkadian to English: ",
+  "remove_gaps": false,
+  "strip_determinatives": false,
+  "tag_sumerograms": false,
+  "strip_homophone_subscripts": true,
+  "skip_source_normalization": false,
+  "use_dictionary_gloss": false,
+  "max_glosses": 8,
+  "independent": {
+    "bleu": 9.523186380386592,
+    "chrf": 24.691872402088812,
+    "combined": 15.334448244583688
+  },
+  "newtest": {
+    "bleu": 10.020399077869998,
+    "chrf": 25.070093222814236,
+    "combined": 15.849679460859852
+  }
+}

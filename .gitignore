@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+.env
+
+# Data (see DATA_ACCESS.md — corpora are not redistributed)
+data/raw/
+data/processed/
+
+# Training outputs and model artifacts
+outputs/
+checkpoints/
+exported/
+*.pt
+*.pth
+*.safetensors
+*.ckpt
+
+# Experiment tracking and local machine state
+.local/
+wandb/
+
+# LaTeX build artifacts
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+
+# OS
+.DS_Store
