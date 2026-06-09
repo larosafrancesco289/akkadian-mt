@@ -72,14 +72,8 @@ class DataConfig:
 
 @dataclass
 class ModelConfig:
-    model_type: str = "hf_seq2seq"  # "hf_seq2seq" or "lstm_baseline"
-    model_name: str = "google/mt5-small"
-    # LSTM baseline params
-    embed_dim: int = 256
-    hidden_dim: int = 512
-    num_layers: int = 2
-    dropout: float = 0.3
-    vocab_size: int = 32000
+    model_type: str = "hf_seq2seq"
+    model_name: str = "google/mt5-small"  # any T5-family HF checkpoint (mT5, ByT5)
 
 
 @dataclass
@@ -140,7 +134,7 @@ _VALID_DATA_MODES = frozenset(
     {"document", "sentence_only", "extended_sentence", "mixed", "prepared"}
 )
 _VALID_VAL_SPLIT_STRATEGIES = frozenset({"random", "doc_id"})
-_VALID_MODEL_TYPES = frozenset({"hf_seq2seq", "lstm_baseline"})
+_VALID_MODEL_TYPES = frozenset({"hf_seq2seq"})
 _VALID_OPTIMIZERS = frozenset({"adamw", "adafactor"})
 _VALID_LR_SCHEDULES = frozenset({"linear", "cosine"})
 
