@@ -65,7 +65,8 @@ for key in ["bleu", "chrf"]:
         n_pos_interaction += inter > 0
         n_small_pos += avg_s > 0
         n_base_neg += avg_b < 0
-        fmt = lambda xs: "/".join(f"{x:+5.2f}" for x in xs)
+        def fmt(xs):
+            return "/".join(f"{x:+5.2f}" for x in xs)
         print(f"{cfg:26s} {fmt(deltas['small']):>22s} {avg_s:+7.2f} "
               f"{fmt(deltas['base']):>22s} {avg_b:+7.2f} {inter:+7.2f}")
 
