@@ -1,0 +1,25 @@
+{
+  "run_id": "byt5_base_rq3_dictionary_gloss_seed42r",
+  "artifact_source": "/home/francescolarosa/work/akkadian-mt/outputs/coursework/byt5_base_rq3_dictionary_gloss/best_model.pt",
+  "config_path": "experiments/configs/byt5_base_rq3_dictionary_gloss.yaml",
+  "primary_test_file": "data/processed/independent_test_set_clean.csv",
+  "secondary_test_file": "data/processed/new_test_set.csv",
+  "source_prefix": "translate Akkadian to English: ",
+  "remove_gaps": false,
+  "strip_determinatives": false,
+  "tag_sumerograms": false,
+  "strip_homophone_subscripts": true,
+  "skip_source_normalization": false,
+  "use_dictionary_gloss": true,
+  "max_glosses": 6,
+  "independent": {
+    "bleu": 27.2898812162064,
+    "chrf": 48.49042754204087,
+    "combined": 36.37716327237953
+  },
+  "newtest": {
+    "bleu": 27.628258558216725,
+    "chrf": 50.576403144208335,
+    "combined": 37.38098370846858
+  }
+}

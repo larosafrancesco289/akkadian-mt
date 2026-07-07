@@ -1,0 +1,25 @@
+{
+  "run_id": "byt5_base_cw4_genre_conditioned_seed62",
+  "artifact_source": "/home/francescolarosa/work/akkadian-mt/outputs/coursework/byt5_base_cw4_genre_conditioned_seed62/best_model.pt",
+  "config_path": "experiments/configs/byt5_base_cw4_genre_conditioned_seed62.yaml",
+  "primary_test_file": "data/processed/coursework_variants/genre_conditioned/independent_test.csv",
+  "secondary_test_file": "data/processed/coursework_variants/genre_conditioned/new_test.csv",
+  "source_prefix": "translate Akkadian to English: ",
+  "remove_gaps": false,
+  "strip_determinatives": false,
+  "tag_sumerograms": false,
+  "strip_homophone_subscripts": true,
+  "skip_source_normalization": false,
+  "use_dictionary_gloss": false,
+  "max_glosses": 8,
+  "independent": {
+    "bleu": 25.757749194764315,
+    "chrf": 46.4038502676473,
+    "combined": 34.57251418201251
+  },
+  "newtest": {
+    "bleu": 25.50656817178585,
+    "chrf": 48.045974409990606,
+    "combined": 35.006969615610885
+  }
+}

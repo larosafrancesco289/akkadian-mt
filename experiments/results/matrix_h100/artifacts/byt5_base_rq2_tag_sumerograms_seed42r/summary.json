@@ -1,0 +1,25 @@
+{
+  "run_id": "byt5_base_rq2_tag_sumerograms_seed42r",
+  "artifact_source": "/home/francescolarosa/work/akkadian-mt/outputs/coursework/byt5_base_rq2_tag_sumerograms/best_model.pt",
+  "config_path": "experiments/configs/byt5_base_rq2_tag_sumerograms.yaml",
+  "primary_test_file": "data/processed/independent_test_set_clean.csv",
+  "secondary_test_file": "data/processed/new_test_set.csv",
+  "source_prefix": "translate Akkadian to English: ",
+  "remove_gaps": false,
+  "strip_determinatives": false,
+  "tag_sumerograms": true,
+  "strip_homophone_subscripts": true,
+  "skip_source_normalization": false,
+  "use_dictionary_gloss": false,
+  "max_glosses": 8,
+  "independent": {
+    "bleu": 26.515375571054545,
+    "chrf": 47.2471982812433,
+    "combined": 35.394592907776875
+  },
+  "newtest": {
+    "bleu": 26.796610090082435,
+    "chrf": 49.2546763272425,
+    "combined": 36.32985489448493
+  }
+}

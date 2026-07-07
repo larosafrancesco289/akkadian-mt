@@ -1,0 +1,25 @@
+{
+  "run_id": "byt5_small_baseline_regression42",
+  "artifact_source": "outputs/coursework/byt5_small_baseline/best_model.pt",
+  "config_path": "experiments/configs/byt5_small_baseline.yaml",
+  "primary_test_file": "data/processed/independent_test_set_clean.csv",
+  "secondary_test_file": "data/processed/new_test_set.csv",
+  "source_prefix": "translate Akkadian to English: ",
+  "remove_gaps": false,
+  "strip_determinatives": false,
+  "tag_sumerograms": false,
+  "strip_homophone_subscripts": true,
+  "skip_source_normalization": false,
+  "use_dictionary_gloss": false,
+  "max_glosses": 8,
+  "independent": {
+    "bleu": 21.276769080201188,
+    "chrf": 40.4826686027345,
+    "combined": 29.348601186610118
+  },
+  "newtest": {
+    "bleu": 21.416429108435985,
+    "chrf": 42.27046300381519,
+    "combined": 30.087910766651344
+  }
+}

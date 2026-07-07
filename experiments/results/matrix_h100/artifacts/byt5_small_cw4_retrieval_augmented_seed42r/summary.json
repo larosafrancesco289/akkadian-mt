@@ -1,0 +1,25 @@
+{
+  "run_id": "byt5_small_cw4_retrieval_augmented_seed42r",
+  "artifact_source": "/home/francescolarosa/work/akkadian-mt/outputs/coursework/byt5_small_cw4_retrieval_augmented/best_model.pt",
+  "config_path": "experiments/configs/byt5_small_cw4_retrieval_augmented.yaml",
+  "primary_test_file": "data/processed/coursework_variants/retrieval_augmented/independent_test.csv",
+  "secondary_test_file": "data/processed/coursework_variants/retrieval_augmented/new_test.csv",
+  "source_prefix": "translate Akkadian to English: ",
+  "remove_gaps": false,
+  "strip_determinatives": false,
+  "tag_sumerograms": false,
+  "strip_homophone_subscripts": true,
+  "skip_source_normalization": true,
+  "use_dictionary_gloss": false,
+  "max_glosses": 8,
+  "independent": {
+    "bleu": 21.341507006321745,
+    "chrf": 40.798282528219524,
+    "combined": 29.507572458978917
+  },
+  "newtest": {
+    "bleu": 21.031170408763035,
+    "chrf": 41.75901652535821,
+    "combined": 29.635131055002276
+  }
+}
