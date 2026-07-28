@@ -14,15 +14,16 @@ the [Deep Past Initiative](https://www.kaggle.com/competitions/deep-past-initiat
 competition score, on the held-out *independent* test set):
 
 1. **Tokenisation dominates capacity.** Byte-level ByT5 beats subword mT5 by
-   **+19** combined points averaged across sizes — more than double the **+8**
+   **+19** combined points averaged across sizes — more than double the **+7**
    from doubling byte-level capacity. A TF-IDF retrieval baseline (18.2) even
    beats the 300M subword Transformer (11.6).
-2. **Capacity absorbs preprocessing.** Six of seven preprocessing interventions,
-   from two methodologically independent families, help the 300M model but
-   hurt or do nothing for the 580M model (one-sided sign test *p* ≈ 0.016),
-   replicated on a second held-out test set.
+2. **Capacity absorbs preprocessing.** Averaged over three random seeds, six of
+   seven preprocessing interventions, from two methodologically independent
+   families, degrade the 580M model while leaving the 300M model essentially
+   unchanged or improved (one-sided sign test *p* ≈ 0.016); the direction
+   replicates for five of six on a second held-out test set.
 3. **Effect hierarchy:** tokenisation (**+19**) ≈ data quantity (**+18**) ≫
-   capacity (**+8**) ≫ preprocessing (**< 1** for the larger model). Practical
+   capacity (**+7**) ≫ preprocessing (**< 1** for the larger model). Practical
    takeaway: at this scale, spend effort on data, not hand-crafted preprocessing.
 
 ### Tokenisation × capacity (independent test set)
@@ -32,8 +33,11 @@ competition score, on the held-out *independent* test set):
 | TF-IDF 1-NN | — | — | 12.20 | 27.02 | 18.16 |
 | mT5-small | SentencePiece | 300M | 6.93 | 19.32 | 11.58 |
 | mT5-base | SentencePiece | 580M | 9.52 | 24.69 | 15.33 |
-| ByT5-small | Byte-level | 300M | 20.66 | 39.82 | 28.69 |
-| **ByT5-base** | Byte-level | 580M | **27.56** | **48.54** | **36.58** |
+| ByT5-small | Byte-level | 300M | 21.07 | 40.23 | 29.11 |
+| **ByT5-base** | Byte-level | 580M | **27.51** | **48.32** | **36.46** |
+
+ByT5 rows are means over three random seeds (42/52/62) in a single training
+environment; the mT5 and TF-IDF rows are single runs.
 
 ## Repository layout
 
