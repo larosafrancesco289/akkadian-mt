@@ -94,9 +94,13 @@ uv run akkadian-mt report plot-loss-curves
 
 ## A note on variance
 
-Most preprocessing ablations were run with a single seed; the paper's central
-claim rests on the unanimous *direction* of the capacity × preprocessing effect
-across six interventions (sign test, *p* ≈ 0.016) replicated on two test sets,
-not on individual effect magnitudes. The ByT5-base baseline and external-data
-conditions were repeated across seeds {42, 52, 62}. Strengthening the per-
-intervention estimates to multiple seeds is the most valuable follow-up.
+Both ByT5 baselines and all six non-trivial preprocessing interventions were
+run with seeds {42, 52, 62} at both model sizes in a single training
+environment (`experiments/results/matrix_h100/`), as was the external-data
+condition. The paper's central claim rests on the unanimous *direction* of the
+capacity × preprocessing effect across the six seed-averaged deltas (sign
+test, *p* ≈ 0.016), with the direction replicating for five of six
+interventions on the second test set. The mT5 comparison, TF-IDF baseline,
+data-scaling, and retrieval-format conditions remain single runs. Rerun
+`experiments/results/matrix_h100/interaction_check.py` to reproduce the
+seed-averaged analysis.
