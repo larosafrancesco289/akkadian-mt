@@ -1,7 +1,3 @@
-<!-- TODO(attribution): fill in author/co-author names before publishing. This
-     began as a group coursework project (G020); credit collaborators here and
-     in CITATION.cff. -->
-
 # Byte-Level Machine Translation for Old Assyrian Akkadian
 
 Neural machine translation from romanised Akkadian cuneiform transliterations to
@@ -107,8 +103,7 @@ normalises these before tokenisation; the seven interventions in
 
 ## Citation
 
-If you use this work, please cite the paper. See [CITATION.cff](CITATION.cff)
-(author block is a placeholder pending final attribution).
+If you use this work, please cite the paper. See [CITATION.cff](CITATION.cff).
 
 ## License
 

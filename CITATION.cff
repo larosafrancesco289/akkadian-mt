@@ -8,11 +8,15 @@ abstract: >-
   capacity, and that preprocessing interventions help smaller models but are
   absorbed by larger ones.
 type: software
-# TODO(attribution): replace placeholder authors with the full set of
-# contributors before publishing. This began as a group coursework project.
 authors:
-  - given-names: FIRSTNAME
-    family-names: LASTNAME
+  - given-names: Francesco
+    family-names: La Rosa
+    affiliation: "University of Edinburgh"
+  - given-names: Jaehyuk
+    family-names: Choi
+    affiliation: "University of Edinburgh"
+  - given-names: King Shun Hanson
+    family-names: Siu
     affiliation: "University of Edinburgh"
 keywords:
   - machine translation
