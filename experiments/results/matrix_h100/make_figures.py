@@ -235,7 +235,7 @@ def tuning_figure():
     ax1.set_title("(a) Model family and size", loc="left", fontsize=13)
     handles = [
         plt.Line2D([], [], color=BLUE, marker="o", mfc="white", ls="",
-                   ms=8, label="shared recipe (7e-5)"),
+                   ms=8, label="shared recipe"),
         plt.Line2D([], [], color=BLUE, marker="o", ls="", ms=8,
                    label="own tuned rate"),
     ]
