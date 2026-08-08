@@ -1,4 +1,4 @@
-# Coursework baseline: mT5-base on the cleaned gold corpus.
+# Baseline: mT5-base on the cleaned gold corpus.
 # Completes the 2x2 tokenisation x capacity factorial.
 
 data:

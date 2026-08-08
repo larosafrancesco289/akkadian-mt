@@ -64,8 +64,10 @@ shared-recipe mT5 runs and the TF-IDF baseline ran once each. `M/` abbreviates
 | mT5-base at 1e-3 | 26.73 | 47.08 | 35.47 |
 
 ByT5 rows and tuned mT5 rows are three-seed means. The shared-recipe mT5 rows and
-the TF-IDF row are single runs. [REPRODUCIBILITY.md](REPRODUCIBILITY.md) names
-the artifact bundle behind every row.
+the TF-IDF row are single runs from the earlier of the two run environments,
+while the other rows come from the later one.
+[REPRODUCIBILITY.md](REPRODUCIBILITY.md) names the artifact bundle behind every
+row and documents the environment comparison.
 
 ## Setup
 
@@ -115,8 +117,10 @@ uv run python experiments/scripts/run_eval.py \
 ```
 
 Any config value can be overridden on the command line as `--section.key value`,
-for example `--train.epochs 1` or `--train.batch_size 8`. Training logs to
-Weights & Biases by default. Set `WANDB_MODE=offline` to avoid network calls.
+for example `--train.epochs 1` or `--train.batch_size 8`. Subcommands forward
+their flags to the underlying modules, so `--help` on a subcommand lists only
+`-h`; the flags shown above are accepted. Training logs to Weights & Biases by
+default. Set `WANDB_MODE=offline` to avoid network calls.
 
 ## Repository layout
 

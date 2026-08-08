@@ -1,4 +1,4 @@
-# Coursework RQ3: add dictionary gloss augmentation on top of the ByT5-small baseline.
+# RQ3: add dictionary gloss augmentation on top of the ByT5-small baseline.
 
 data:
   data_dir: data/raw

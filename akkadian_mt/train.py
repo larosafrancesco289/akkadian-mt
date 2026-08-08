@@ -1,11 +1,9 @@
 """Training entry point.
 
 Usage:
-    uv run python scripts/train.py --config configs/debug.yaml
-    uv run python scripts/train.py --config configs/baseline_mt5_small.yaml
-    uv run python scripts/train.py --config configs/debug.yaml --train.batch_size 4
-    uv run python scripts/train.py --config configs/mt5_finetune_clean.yaml --resume-from outputs/mt5_extended/best_model.pt
-    uv run python scripts/train.py --config configs/mt5_finetune_clean.yaml --resume-training-from checkpoints/mt5_extended/last_checkpoint.pt
+    uv run akkadian-mt train seq2seq --config experiments/configs/byt5_base_baseline.yaml
+    uv run akkadian-mt train seq2seq --config experiments/configs/byt5_base_baseline.yaml --train.batch_size 4
+    uv run akkadian-mt train seq2seq --config experiments/configs/byt5_base_baseline.yaml --resume-from outputs/coursework/byt5_base_baseline/best_model.pt
 """
 
 from __future__ import annotations

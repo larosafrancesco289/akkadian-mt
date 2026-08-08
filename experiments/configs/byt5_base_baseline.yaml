@@ -1,4 +1,4 @@
-# Coursework baseline: ByT5-base on the cleaned gold corpus.
+# Baseline: ByT5-base on the cleaned gold corpus.
 
 data:
   data_dir: data/raw

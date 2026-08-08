@@ -1,4 +1,4 @@
-# Coursework RQ2: tag sumerograms on top of the ByT5-base baseline.
+# RQ2: tag sumerograms on top of the ByT5-base baseline.
 
 data:
   data_dir: data/raw

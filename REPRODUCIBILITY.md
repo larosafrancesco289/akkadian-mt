@@ -8,16 +8,21 @@ for each result, then lists the commands that regenerate them.
 
 Each run directory holds `summary.json` (the source of truth for reported
 metrics), `independent_metrics.json` and `newtest_metrics.json` (the two held-out
-sets), and `config_snapshot.yaml` (the configuration actually used). Most runs in
-the later pool also carry `training_history.csv`. Model checkpoints, and most
-prediction CSVs, are archived outside the repository because of their size.
+sets), and, for configured runs, `config_snapshot.yaml` (the configuration
+actually used). `A/tfidf_baseline` stores its snapshot as JSON and the
+`M/scratch_*` directories have none. Six runs in the later pool also carry
+`training_history.csv`. Model checkpoints are archived outside the repository
+because of their size. Prediction CSVs are present for every run in the earlier
+pool and for 46 runs in the later pool.
 
 These files are frozen provenance. They record what was run and are never edited.
 
 ## The two artifact pools
 
 Runs were executed in two software and hardware environments, and the paper
-keeps every comparison inside one of them.
+keeps every fine-grained comparison inside one of them. The two contrasts that
+cross environments, first-round mT5 and TF-IDF against later-pool ByT5, involve
+gaps an order of magnitude larger than the measured environment noise.
 
 - `experiments/results/artifacts/` holds 32 runs from the earlier environment.
   `experiments/results/results.csv` is the flat registry for this pool, with one
@@ -26,7 +31,7 @@ keeps every comparison inside one of them.
   environment, including the full multi-seed intervention matrix, the tuned mT5
   grid, the data-scaling grid, the 1.2B arm, and the from-scratch pair.
 
-Run identifiers in the later pool follow three conventions. A `_seed42r` suffix
+Run identifiers in the later pool follow several conventions. A `_seed42r` suffix
 marks a seed-42 rerun of the original config in the later environment. A `_r2`
 suffix does the same for the data-scaling subsets. `byt5_small_baseline_regression42`
 is the seed-42 row for the ByT5-small baseline.
@@ -133,7 +138,8 @@ Single-seed runs in the earlier environment, reported in the appendix.
 The paper compares the two environments over fourteen seed-matched pairs, the
 baseline and the six interventions at both model sizes. The `M/*_seed42r` runs
 and `M/byt5_small_baseline_regression42` are one side of each pair. The
-same-named directories in `A/` are the other.
+directories in `A/` named without the `_seed42r` suffix are the other, with
+`A/byt5_small_baseline` paired against `M/byt5_small_baseline_regression42`.
 
 `M/byt5_base_baseline_envr2` and `M/byt5_small_baseline_envr2` are further
 seed-42 reruns of the two ByT5 baseline configs in the later environment. The
@@ -170,7 +176,9 @@ uv run akkadian-mt eval lb \
 # TF-IDF retrieval baseline
 uv run python experiments/scripts/run_tfidf_baseline.py
 
-# From-scratch tokenisation contrast (one run per invocation)
+# From-scratch tokenisation contrast (one run per invocation).
+# The script writes its artifact under experiments/results/artifacts/;
+# the stored scratch_* runs were relocated to the later pool.
 uv run python experiments/scripts/train_scratch_tokenisation.py \
   --tokenisation sp --seed 42 --run-id scratch_sp4k_fixed_seed42
 
@@ -200,10 +208,6 @@ uv run python experiments/scripts/paired_bootstrap.py
 # create, so make that directory first.
 uv run python experiments/results/matrix_h100/make_figures.py
 ```
-
-`experiments/report/make_figures.py` is an earlier figure script with numbers
-hard-coded from the first round of runs. It is superseded by the script above and
-its values no longer match the artifacts.
 
 ## Cost
 

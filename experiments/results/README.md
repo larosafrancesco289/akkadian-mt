@@ -5,7 +5,8 @@ Tracked experiment results used by the paper and the reproducibility guide.
 ## Files
 
 - `results.csv`: flat run registry (all reported runs)
-- `experiment_matrix.csv`: planned experiment matrix and run notes
+- `experiment_matrix.csv`: the experiment matrix as planned before the runs;
+  its status column reflects planning time, `results.csv` records what ran
 - `loss_curve_runs.csv`: curated manifest for training-loss figures
 - `qualitative_examples.csv`: qualitative example table used in the report
 

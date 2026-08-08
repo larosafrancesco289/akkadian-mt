@@ -58,8 +58,9 @@ model inputs from any correctly shaped gold corpus.
 
 ## Optional external corpus
 
-The external-data condition mixes the gold corpus with about 29,000 aligned pairs
-spanning several Akkadian dialects. The publicly available part derives from this
+The external-data condition mixes the gold corpus with about 29,000 aligned
+pairs spanning several Akkadian dialects, the count reported in the accompanying
+paper for the prepared mix. The publicly available part derives from this
 Hugging Face dataset:
 
 <https://huggingface.co/datasets/phucthaiv02/akkadian_english_sentences_alignment_2>
@@ -79,8 +80,9 @@ from the Open Richly Annotated Cuneiform Corpus
 # holdout document-id union, written to data/processed/
 uv run python experiments/scripts/build_holdout_union.py
 
-# preprocessing-variant datasets, one subdirectory per intervention under
-# data/processed/, each holding a train file and the two test files
+# prepared preprocessing-variant datasets under data/processed/, one
+# subdirectory per materialised variant, each holding a train file and the
+# two test files; the rq1-rq3 interventions are applied in-pipeline instead
 uv run python experiments/scripts/build_variants.py
 
 # 25%, 50% and 75% document-level training subsets for the scaling experiments

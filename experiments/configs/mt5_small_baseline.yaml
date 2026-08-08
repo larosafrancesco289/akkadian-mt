@@ -1,4 +1,4 @@
-# Coursework baseline: mT5-small on the cleaned gold corpus with the shared
+# Baseline: mT5-small on the cleaned gold corpus with the shared
 # holdout union excluded from training.
 
 data:
