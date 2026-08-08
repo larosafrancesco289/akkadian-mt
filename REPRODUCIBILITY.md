@@ -25,8 +25,6 @@ keeps every comparison inside one of them.
 - `experiments/results/matrix_h100/artifacts/` holds 88 runs from the later
   environment, including the full multi-seed intervention matrix, the tuned mT5
   grid, the data-scaling grid, the 1.2B arm, and the from-scratch pair.
-  `experiments/results/matrix_h100/logs/` holds the matching training and
-  evaluation logs.
 
 Run identifiers in the later pool follow three conventions. A `_seed42r` suffix
 marks a seed-42 rerun of the original config in the later environment. A `_r2`
