@@ -1,0 +1,50 @@
+# LR sweep: mT5-base at 3e-4 (upper-range check for the subword baseline).
+# Completes the 2x2 tokenisation x capacity factorial.
+
+data:
+  data_dir: data/raw
+  val_split: 0.1
+  val_split_strategy: doc_id
+  val_group_column: oare_id
+  max_source_length: 512
+  max_target_length: 384
+  data_mode: prepared
+  prepared_file: data/processed/golden_corpus_v2_prefilt.csv
+  source_prefix: "translate Akkadian to English: "
+  filter_quality: true
+  max_length_ratio: 10.0
+  min_translation_chars: 10
+  strip_homophone_subscripts: true
+  holdout_doc_ids_file: data/processed/coursework_holdout_doc_ids.json
+
+model:
+  model_type: hf_seq2seq
+  model_name: google/mt5-base
+
+train:
+  seed: 42
+  optimizer: adafactor
+  epochs: 20
+  batch_size: 8
+  learning_rate: 3.0e-4
+  weight_decay: 0.01
+  warmup_steps: 200
+  gradient_accumulation_steps: 4
+  fp16: false
+  bf16: true
+  gradient_checkpointing: true
+  max_grad_norm: 1.0
+  early_stopping_patience: 6
+  eval_steps: 99999
+  eval_epochs: 1
+  save_steps: 99999
+  output_dir: outputs/coursework/mt5_base_lr3e4
+  checkpoint_dir: checkpoints/coursework/mt5_base_lr3e4
+  wandb_project: deep-past
+  wandb_run_name: coursework-mt5-base-lr3e4
+  num_beams: 4
+  eval_num_beams: 1
+  num_workers: 4
+  label_smoothing: 0.1
+  no_repeat_ngram_size: 0
+  lr_schedule: cosine

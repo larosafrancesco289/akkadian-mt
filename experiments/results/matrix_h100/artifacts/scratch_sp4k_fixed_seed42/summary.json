@@ -1,0 +1,177 @@
+{
+  "run_id": "scratch_sp4k_fixed_seed42",
+  "tokenisation": "sp",
+  "seed": 42,
+  "vocab_size": 4000,
+  "params_total": 39808512,
+  "params_non_embedding": 37760512,
+  "best_epoch": 20,
+  "val_combined": 20.183880292043703,
+  "history": [
+    {
+      "epoch": 0,
+      "train_loss": 5.249377199275765,
+      "val_combined": 12.013839954640394
+    },
+    {
+      "epoch": 1,
+      "train_loss": 4.071820972922319,
+      "val_combined": 12.693532410079726
+    },
+    {
+      "epoch": 2,
+      "train_loss": 3.597467348247231,
+      "val_combined": 17.127914927089638
+    },
+    {
+      "epoch": 3,
+      "train_loss": 3.286314064871051,
+      "val_combined": 16.89450205461347
+    },
+    {
+      "epoch": 4,
+      "train_loss": 3.0346858330115585,
+      "val_combined": 18.320802435533984
+    },
+    {
+      "epoch": 5,
+      "train_loss": 2.819152849163124,
+      "val_combined": 16.02867169720775
+    },
+    {
+      "epoch": 6,
+      "train_loss": 2.6319321401104956,
+      "val_combined": 18.321341594792962
+    },
+    {
+      "epoch": 7,
+      "train_loss": 2.460444117020704,
+      "val_combined": 18.600242216666455
+    },
+    {
+      "epoch": 8,
+      "train_loss": 2.294860788448128,
+      "val_combined": 19.102632276673116
+    },
+    {
+      "epoch": 9,
+      "train_loss": 2.150129785794698,
+      "val_combined": 19.694162021371827
+    },
+    {
+      "epoch": 10,
+      "train_loss": 1.9998797799298864,
+      "val_combined": 19.264824664278947
+    },
+    {
+      "epoch": 11,
+      "train_loss": 1.8663016079428667,
+      "val_combined": 19.38221892598406
+    },
+    {
+      "epoch": 12,
+      "train_loss": 1.7435972062413565,
+      "val_combined": 19.362718924595338
+    },
+    {
+      "epoch": 13,
+      "train_loss": 1.6198810467463054,
+      "val_combined": 19.618233442417882
+    },
+    {
+      "epoch": 14,
+      "train_loss": 1.5040917532172746,
+      "val_combined": 19.54728263187301
+    },
+    {
+      "epoch": 15,
+      "train_loss": 1.3937796204389927,
+      "val_combined": 19.444814118935952
+    },
+    {
+      "epoch": 16,
+      "train_loss": 1.2978684209777924,
+      "val_combined": 19.645537445410202
+    },
+    {
+      "epoch": 17,
+      "train_loss": 1.2003034406793331,
+      "val_combined": 19.693936926497052
+    },
+    {
+      "epoch": 18,
+      "train_loss": 1.1096688409051496,
+      "val_combined": 17.93445902575387
+    },
+    {
+      "epoch": 19,
+      "train_loss": 1.032684756253294,
+      "val_combined": 20.081714263249257
+    },
+    {
+      "epoch": 20,
+      "train_loss": 0.9603813361978817,
+      "val_combined": 20.183880292043703
+    },
+    {
+      "epoch": 21,
+      "train_loss": 0.8966799546144679,
+      "val_combined": 19.761224311755633
+    },
+    {
+      "epoch": 22,
+      "train_loss": 0.8310286434824595,
+      "val_combined": 20.032550830719646
+    },
+    {
+      "epoch": 23,
+      "train_loss": 0.769734984564924,
+      "val_combined": 19.528863899162
+    },
+    {
+      "epoch": 24,
+      "train_loss": 0.7247564946106094,
+      "val_combined": 19.61335322661545
+    },
+    {
+      "epoch": 25,
+      "train_loss": 0.673649321237724,
+      "val_combined": 19.896905253561112
+    },
+    {
+      "epoch": 26,
+      "train_loss": 0.6387982327424123,
+      "val_combined": 19.597569708975353
+    },
+    {
+      "epoch": 27,
+      "train_loss": 0.5993233656811857,
+      "val_combined": 19.434543287246743
+    },
+    {
+      "epoch": 28,
+      "train_loss": 0.5665154219744448,
+      "val_combined": 19.537781620394686
+    },
+    {
+      "epoch": 29,
+      "train_loss": 0.534309931144029,
+      "val_combined": 20.047049388970066
+    },
+    {
+      "epoch": 30,
+      "train_loss": 0.5126531688039174,
+      "val_combined": 19.42221449787124
+    }
+  ],
+  "independent": {
+    "bleu": 11.41570816945686,
+    "chrf": 30.846106638460586,
+    "combined": 18.76513126915482
+  },
+  "newtest": {
+    "bleu": 11.57858990569959,
+    "chrf": 31.324867276924316,
+    "combined": 19.04462633001696
+  }
+}

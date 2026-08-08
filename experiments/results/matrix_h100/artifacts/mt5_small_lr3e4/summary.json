@@ -1,0 +1,25 @@
+{
+  "run_id": "mt5_small_lr3e4",
+  "artifact_source": "/home/francescolarosa/work/akkadian-mt/outputs/coursework/mt5_small_lr3e4/best_model.pt",
+  "config_path": "experiments/configs/mt5_small_lr3e4.yaml",
+  "primary_test_file": "data/processed/independent_test_set_clean.csv",
+  "secondary_test_file": "data/processed/new_test_set.csv",
+  "source_prefix": "translate Akkadian to English: ",
+  "remove_gaps": false,
+  "strip_determinatives": false,
+  "tag_sumerograms": false,
+  "strip_homophone_subscripts": true,
+  "skip_source_normalization": false,
+  "use_dictionary_gloss": false,
+  "max_glosses": 8,
+  "independent": {
+    "bleu": 21.906007925821452,
+    "chrf": 41.07433215703448,
+    "combined": 29.99624386118736
+  },
+  "newtest": {
+    "bleu": 21.57720687547067,
+    "chrf": 42.41164043385887,
+    "combined": 30.251028735721523
+  }
+}

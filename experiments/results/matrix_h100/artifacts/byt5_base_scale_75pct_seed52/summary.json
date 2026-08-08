@@ -1,0 +1,25 @@
+{
+  "run_id": "byt5_base_scale_75pct_seed52",
+  "artifact_source": "/home/francescolarosa/work/akkadian-mt/outputs/coursework/byt5_base_scale_75pct_seed52/best_model.pt",
+  "config_path": "experiments/configs/byt5_base_scale_75pct_seed52.yaml",
+  "primary_test_file": "data/processed/independent_test_set_clean.csv",
+  "secondary_test_file": "data/processed/new_test_set.csv",
+  "source_prefix": "translate Akkadian to English: ",
+  "remove_gaps": false,
+  "strip_determinatives": false,
+  "tag_sumerograms": false,
+  "strip_homophone_subscripts": true,
+  "skip_source_normalization": false,
+  "use_dictionary_gloss": false,
+  "max_glosses": 8,
+  "independent": {
+    "bleu": 25.66821742390931,
+    "chrf": 46.05194889213903,
+    "combined": 34.38126578470002
+  },
+  "newtest": {
+    "bleu": 25.763626009028396,
+    "chrf": 47.72762859266159,
+    "combined": 35.06617705651906
+  }
+}
