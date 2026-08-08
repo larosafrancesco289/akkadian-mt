@@ -1,7 +1,7 @@
 """Regenerate paper/figures/{interaction,hierarchy,scaling,tuning}.pdf from
 the seed-averaged matrix results. Values come from make_paper_numbers.py
-output; style matches the original coursework figures (serif, red/blue
-dumbbell, blue bars).
+output; style matches the first-round figures (serif, red/blue dumbbell,
+blue bars).
 """
 import json
 from pathlib import Path
@@ -68,6 +68,9 @@ def interaction_figure():
         ax.annotate(fmt(ms), (ms, y), xytext=(0, 11), textcoords="offset points",
                     ha="center", color=BLUE, fontsize=12)
     ax.axvline(0, color="#555555", lw=1.0, zorder=2)
+    ax.axvspan(-2.4, 0, color="#f2f2f2", zorder=0)
+    # dotted rule between the philological (rows 1-3) and error-driven (4-6) families
+    ax.axhline(len(ROWS) - 2.5, color="#aaaaaa", lw=0.9, ls=":", zorder=1)
     ax.set_yticks(list(ys), [label for _, label in ROWS])
     ax.set_xlim(-2.4, 1.8)
     ax.set_ylim(0.4, len(ROWS) + 0.9)
@@ -150,7 +153,7 @@ def scaling_figure():
     plt.close(fig)
 
 
-COURSEWORK = HERE.parent / "artifacts"  # shared-recipe single runs (mT5, TF-IDF)
+EARLIER = HERE.parent / "artifacts"  # first-round single runs (mT5, TF-IDF)
 LIGHT = "#93b5d2"  # 5e-5 probe points
 
 
@@ -200,9 +203,9 @@ def tuning_figure():
          run_stats(["byt5_base_baseline_lr1e4", "byt5_base_baseline_lr1e4_seed52",
                     "byt5_base_baseline_lr1e4_seed62"])),
         ("ByT5-small\n(300M)", baseline_stats("small"), None),
-        ("mT5-base\n(580M)", (run_combined("mt5_base_baseline", COURSEWORK), 0.0),
+        ("mT5-base\n(580M)", (run_combined("mt5_base_baseline", EARLIER), 0.0),
          run_stats(["mt5_base_lr1e3", "mt5_base_lr1e3_seed52", "mt5_base_lr1e3_seed62"])),
-        ("mT5-small\n(300M)", (run_combined("mt5_small_baseline", COURSEWORK), 0.0),
+        ("mT5-small\n(300M)", (run_combined("mt5_small_baseline", EARLIER), 0.0),
          run_stats(["mt5_small_lr1e3", "mt5_small_lr1e3_seed52", "mt5_small_lr1e3_seed62"])),
     ]
     ys = range(len(rows_a), 0, -1)
@@ -222,7 +225,7 @@ def tuning_figure():
         else:
             label(ax1, ms, y)
         point(ax1, ms, y, ss, "open")
-    tfidf = run_combined("tfidf_baseline", COURSEWORK)
+    tfidf = run_combined("tfidf_baseline", EARLIER)
     ax1.axvline(tfidf, color="#aaaaaa", lw=1.0, ls="--", zorder=1)
     ax1.text(tfidf, 0.52, f"TF-IDF 1-NN ({tfidf:.2f})", ha="center",
              color="#777777", fontsize=10)

@@ -8,7 +8,7 @@ of July 2026) and evaluated on the frozen held-out splits.
 Run-id conventions:
 
 - `*_seed52` / `*_seed62` — the multi-seed configs in `experiments/configs/`.
-- `*_seed42r` — seed-42 rerun of the original (coursework) config in the new
+- `*_seed42r` — seed-42 rerun of the original config in the new
   environment, so every number in this table comes from one environment. The
   original single-seed results in `../artifacts/` are unchanged provenance.
 - `byt5_small_baseline_regression42` — the seed-42 regression run of the small

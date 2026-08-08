@@ -2,8 +2,10 @@
 __pycache__/
 *.py[cod]
 *.egg-info/
+*.egg-info
 .pytest_cache/
 .ruff_cache/
+.mypy_cache/
 .ipynb_checkpoints/
 
 # Environments
@@ -27,6 +29,9 @@ exported/
 # Experiment tracking and local machine state
 .local/
 wandb/
+
+# Paper sources are kept outside the code release
+paper/
 
 # LaTeX build artifacts
 *.aux

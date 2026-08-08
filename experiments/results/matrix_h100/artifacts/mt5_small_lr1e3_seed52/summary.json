@@ -1,6 +1,6 @@
 {
   "run_id": "mt5_small_lr1e3_seed52",
-  "artifact_source": "/home/francescolarosa/work/akkadian-mt/outputs/coursework/mt5_small_lr1e3_seed52/best_model.pt",
+  "artifact_source": "outputs/coursework/mt5_small_lr1e3_seed52/best_model.pt",
   "config_path": "experiments/configs/mt5_small_lr1e3_seed52.yaml",
   "primary_test_file": "data/processed/independent_test_set_clean.csv",
   "secondary_test_file": "data/processed/new_test_set.csv",

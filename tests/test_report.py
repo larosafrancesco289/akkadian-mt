@@ -31,11 +31,11 @@ def _write_history(path: Path, losses: list[float]) -> None:
 
 
 def test_build_loss_curve_plots_writes_grouped_outputs(tmp_path: Path) -> None:
-    manifest_path = tmp_path / "coursework" / "results" / "loss_curve_runs.csv"
+    manifest_path = tmp_path / "experiments" / "results" / "loss_curve_runs.csv"
     manifest_path.parent.mkdir(parents=True, exist_ok=True)
 
-    history_a = tmp_path / "outputs" / "coursework" / "run_a" / "training_history.csv"
-    history_b = tmp_path / "outputs" / "coursework" / "run_b" / "training_history.csv"
+    history_a = tmp_path / "outputs" / "runs" / "run_a" / "training_history.csv"
+    history_b = tmp_path / "outputs" / "runs" / "run_b" / "training_history.csv"
     _write_history(history_a, [4.0, 3.2, 2.8, 2.3])
     _write_history(history_b, [5.0, 4.1, 3.7, 3.1])
 
@@ -64,7 +64,7 @@ def test_build_loss_curve_plots_writes_grouped_outputs(tmp_path: Path) -> None:
                 "order": 1,
                 "curve_label": "Run A",
                 "config_path": "",
-                "history_path": "outputs/coursework/run_a/training_history.csv",
+                "history_path": "outputs/runs/run_a/training_history.csv",
                 "reason": "test",
             }
         )
@@ -77,12 +77,12 @@ def test_build_loss_curve_plots_writes_grouped_outputs(tmp_path: Path) -> None:
                 "order": 2,
                 "curve_label": "Run B",
                 "config_path": "",
-                "history_path": "outputs/coursework/run_b/training_history.csv",
+                "history_path": "outputs/runs/run_b/training_history.csv",
                 "reason": "test",
             }
         )
 
-    output_dir = tmp_path / "coursework" / "report" / "figures" / "loss_curves"
+    output_dir = tmp_path / "experiments" / "report" / "figures" / "loss_curves"
     written = build_loss_curve_plots(
         root=tmp_path,
         manifest_path=manifest_path,

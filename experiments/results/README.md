@@ -1,6 +1,6 @@
-# Coursework Results
+# Results
 
-Tracked experiment results used by the report and the reproducibility guide.
+Tracked experiment results used by the paper and the reproducibility guide.
 
 ## Files
 

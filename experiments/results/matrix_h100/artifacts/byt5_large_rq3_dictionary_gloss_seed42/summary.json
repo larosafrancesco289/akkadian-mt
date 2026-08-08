@@ -1,6 +1,6 @@
 {
   "run_id": "byt5_large_rq3_dictionary_gloss_seed42",
-  "artifact_source": "/home/francescolarosa/work/akkadian-mt/outputs/coursework/byt5_large_rq3_dictionary_gloss_seed42/best_model.pt",
+  "artifact_source": "outputs/coursework/byt5_large_rq3_dictionary_gloss_seed42/best_model.pt",
   "config_path": "experiments/configs/byt5_large_rq3_dictionary_gloss_seed42.yaml",
   "primary_test_file": "data/processed/independent_test_set_clean.csv",
   "secondary_test_file": "data/processed/new_test_set.csv",

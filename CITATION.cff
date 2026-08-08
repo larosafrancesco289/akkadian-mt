@@ -2,22 +2,16 @@ cff-version: 1.2.0
 message: "If you use this software or its findings, please cite the work below."
 title: "Byte-Level Machine Translation for Old Assyrian Akkadian"
 abstract: >-
-  A study of how model capacity interacts with domain-specific preprocessing in
-  low-resource ancient-language machine translation, using Akkadian-to-English
-  translation as a testbed. Finds that byte-level tokenisation dominates model
-  capacity, and that preprocessing interventions help smaller models but are
-  absorbed by larger ones.
+  A study of what improves machine translation for Old Assyrian Akkadian and
+  what only seems to. Under one shared fine-tuning recipe, byte-level models
+  lead subword models by a wide margin and every preprocessing intervention
+  hurts the larger model. Choosing the learning rate per configuration removes
+  most of both effects. Data quantity and model size are the reliable levers.
 type: software
+# Author names and affiliations are withheld while the paper is under
+# anonymous review.
 authors:
-  - given-names: Francesco
-    family-names: La Rosa
-    affiliation: "University of Edinburgh"
-  - given-names: Jaehyuk
-    family-names: Choi
-    affiliation: "University of Edinburgh"
-  - given-names: King Shun Hanson
-    family-names: Siu
-    affiliation: "University of Edinburgh"
+  - name: "Anonymous"
 keywords:
   - machine translation
   - low-resource NLP
