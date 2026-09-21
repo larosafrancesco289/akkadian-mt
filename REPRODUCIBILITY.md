@@ -149,7 +149,10 @@ below.
 `experiments/scripts/paired_bootstrap.py` resamples independent-test sentences
 for eight run pairs and prints a 95% interval on the combined-score difference.
 The pairs it uses are listed at the bottom of the script. It reads the
-`independent_preds.csv` files stored beside the metrics.
+`independent_preds.csv` files stored beside the metrics and takes the reference
+translations, row-aligned, from the locally rebuilt
+`data/processed/independent_test_set_clean.csv`, because the prediction files
+carry no corpus text.
 
 ### Qualitative examples
 
@@ -204,8 +207,7 @@ uv run python experiments/results/matrix_h100/interaction_check.py
 # Paired bootstrap over test sentences. 2,000 resamples per pair, so it is slow.
 uv run python experiments/scripts/paired_bootstrap.py
 
-# Figures. This script writes into a paper/figures/ directory, which it does not
-# create, so make that directory first.
+# Figures, written to paper/figures/ (created if missing).
 uv run python experiments/results/matrix_h100/make_figures.py
 ```
 
@@ -216,11 +218,11 @@ precision and gradient checkpointing.
 
 ## What this release cannot rebuild
 
-The build scripts above start from five derived files that a separate corpus
-assembly step produced, and that step is not part of this release. Those files
-are `data/processed/golden_corpus_v2_prefilt.csv`,
-`data/processed/independent_test_set_clean.csv`,
-`data/processed/new_test_set.csv`, `data/processed/holdout_doc_ids.json`, and
-`data/processed/new_holdout_doc_ids.json`. [DATA_ACCESS.md](DATA_ACCESS.md)
-describes their contents and shape so they can be reconstructed from the raw
-Kaggle files.
+The build scripts above start from three corpus CSVs that a separate assembly
+step produced, and that step is not part of this release. Those files are
+`data/processed/golden_corpus_v2_prefilt.csv`,
+`data/processed/independent_test_set_clean.csv`, and
+`data/processed/new_test_set.csv`. [DATA_ACCESS.md](DATA_ACCESS.md) describes
+their contents and shape so they can be reconstructed from the raw Kaggle files.
+The two holdout document-ID lists they depend on are included under
+`data/processed/`.

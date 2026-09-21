@@ -16,6 +16,8 @@ venv/
 # Data (see DATA_ACCESS.md — corpora are not redistributed)
 data/raw/
 data/processed/
+!data/processed/holdout_doc_ids.json
+!data/processed/new_holdout_doc_ids.json
 
 # Training outputs and model artifacts
 outputs/

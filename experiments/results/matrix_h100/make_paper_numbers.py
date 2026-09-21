@@ -1,7 +1,7 @@
 """Emit every seed-averaged number the paper quotes, plus LaTeX table rows.
 
 Companion to interaction_check.py; reads the same artifact JSONs. Values that
-stay in the original coursework environment (mT5, TF-IDF, scaling, external
+stay in the earlier environment (mT5, TF-IDF, scaling, external
 mix, retrieval-format ablation) are not computed here.
 """
 import json

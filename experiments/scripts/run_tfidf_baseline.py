@@ -49,7 +49,8 @@ def _run_one_split(
     predictions = _predict(train_matrix, train_translations, eval_texts, vectorizer)
     metrics = compute_combined_score(predictions, eval_df["translation"].astype(str).tolist())
 
-    pred_df = eval_df.copy()
+    # Corpus text is not redistributed: keep row metadata and the prediction only.
+    pred_df = eval_df.drop(columns=["transliteration", "translation"], errors="ignore").copy()
     pred_df["prediction"] = predictions
     pred_df.to_csv(output_path, index=False)
     return metrics
@@ -123,8 +124,6 @@ def main() -> int:
     )
     train_df, val_df = load_train_data(data_config)
     retrieval_df = train_df.reset_index(drop=True)
-    retrieval_path = output_dir / "retrieval_corpus.csv"
-    retrieval_df.to_csv(retrieval_path, index=False)
 
     vectorizer = TfidfVectorizer(
         analyzer=args.analyzer,

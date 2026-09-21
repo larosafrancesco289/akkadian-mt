@@ -33,17 +33,19 @@ data or using it commercially.
 
 Every experiment config in this repository uses `data_mode: prepared`, which
 means it reads a materialised CSV rather than assembling the corpus at run time.
-Five derived files sit at the bottom of that chain. The corpus assembly step that
-produced them is not part of this release, so reconstruct them from the raw files
-before running anything. Their shapes are below.
+Five derived files sit at the bottom of that chain. The two holdout document-ID
+lists are included in this repository, since they are random samples that cannot
+be regenerated and contain no text. The three CSVs are corpus text; the assembly
+step that produced them is not part of this release, so reconstruct them from the
+raw files before running anything. Their shapes are below.
 
 | File | Rows | Columns |
 |---|---|---|
 | `data/processed/golden_corpus_v2_prefilt.csv` | 6,746 | `transliteration`, `translation`, `oare_id`, `genre`, `source`, `alignment_method` |
 | `data/processed/independent_test_set_clean.csv` | 951 | `transliteration`, `translation`, `doc_id`, `genre`, `sentence_idx`, `anchor_valid`, `word_start`, `word_end` |
 | `data/processed/new_test_set.csv` | 661 | `transliteration`, `translation`, `oare_id`, `genre`, `source` |
-| `data/processed/holdout_doc_ids.json` | 152 | JSON list of document identifiers |
-| `data/processed/new_holdout_doc_ids.json` | 130 | JSON list of document identifiers |
+| `data/processed/holdout_doc_ids.json` | 152 | JSON list of document identifiers (included) |
+| `data/processed/new_holdout_doc_ids.json` | 130 | JSON list of document identifiers (included) |
 
 The gold corpus is `train.csv` segmented into sentences using the anchors in
 `Sentences_Oare_FirstWord_LinNum.csv`, with quality filtering applied later by

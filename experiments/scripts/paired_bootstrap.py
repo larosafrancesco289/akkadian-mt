@@ -6,6 +6,10 @@ combined = sqrt(BLEU * chrF++) for both systems on each resample, and report
 the 95% percentile CI of the difference plus the bootstrap p (fraction of
 resamples where the sign of the difference flips against the observed one).
 
+The prediction CSVs carry no reference text (the corpus is not redistributed);
+references are read row-aligned from the locally rebuilt independent test set,
+see DATA_ACCESS.md.
+
 Usage: uv run python experiments/scripts/paired_bootstrap.py
 """
 
@@ -16,6 +20,7 @@ import pandas as pd
 from sacrebleu.metrics import BLEU, CHRF
 
 ART = "experiments/results/matrix_h100/artifacts"
+TEST_SET = "data/processed/independent_test_set_clean.csv"
 N_BOOT = 2000
 SEED = 12345
 
@@ -25,7 +30,11 @@ chrf = CHRF(word_order=2)
 
 def load(run: str) -> tuple[list[str], list[str]]:
     df = pd.read_csv(f"{ART}/{run}/independent_preds.csv")
-    return df["prediction"].fillna("").astype(str).tolist(), df["translation"].astype(str).tolist()
+    refs = pd.read_csv(TEST_SET)
+    assert len(refs) == len(df), f"{run}: {len(df)} predictions vs {len(refs)} test rows"
+    if "doc_id" in df.columns:
+        assert (refs["doc_id"].values == df["doc_id"].values).all(), f"{run}: row order differs from test set"
+    return df["prediction"].fillna("").astype(str).tolist(), refs["translation"].astype(str).tolist()
 
 
 def combined(hyps: list[str], refs: list[str]) -> float:

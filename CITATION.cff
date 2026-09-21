@@ -6,7 +6,8 @@ abstract: >-
   what only seems to. Under one shared fine-tuning recipe, byte-level models
   lead subword models by a wide margin and every preprocessing intervention
   hurts the larger model. Choosing the learning rate per configuration removes
-  most of both effects. Data quantity and model size have the reliable effects.
+  most of both effects. Data quantity and model size are the two choices with
+  reliable effects.
 type: software
 authors:
   - family-names: "La Rosa"
@@ -29,6 +30,7 @@ keywords:
   - byte-level models
   - computational philology
 license: MIT
+repository-code: "https://github.com/larosafrancesco289/akkadian-mt"
 date-released: "2026-09-21"
 preferred-citation:
   type: conference-paper

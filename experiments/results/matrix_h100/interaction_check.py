@@ -1,8 +1,8 @@
 """Seed-averaged capacity x preprocessing interaction check.
 
 For each intervention and model size, compute delta BLEU vs the same-size
-baseline, per seed (paired) and seed-averaged. The coursework claim (sign
-test p~=0.016 at seed 42 only): interventions help small, hurt base, i.e.
+baseline, per seed (paired) and seed-averaged. The paper's claim (sign
+test p~=0.016, first observed at seed 42 only): interventions help small, hurt base, i.e.
 interaction = delta_small - delta_base > 0 for all 6 interventions.
 """
 import json

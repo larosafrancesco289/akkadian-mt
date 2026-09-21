@@ -46,10 +46,20 @@ def sentence_chrf(pred: str, ref: str) -> float:
     return sacrebleu.sentence_chrf(pred, [ref], word_order=2).score
 
 
+TEST_SET = Path("data/processed/independent_test_set_clean.csv")
+
+
 def load_experiment(name: str) -> pd.DataFrame:
-    """Load predictions CSV for an experiment."""
+    """Load predictions CSV for an experiment, re-attaching the source and
+    reference text from the locally rebuilt test set (the prediction CSVs
+    carry no corpus text; rows are aligned with the test set)."""
     path = ARTIFACTS / name / "independent_preds.csv"
     df = pd.read_csv(path)
+    refs = pd.read_csv(TEST_SET)
+    assert len(refs) == len(df), f"{name}: {len(df)} predictions vs {len(refs)} test rows"
+    assert (refs["doc_id"].values == df["doc_id"].values).all(), f"{name}: row order differs"
+    df["transliteration"] = refs["transliteration"].values
+    df["translation"] = refs["translation"].values
     return df
 
 

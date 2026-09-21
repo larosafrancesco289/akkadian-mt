@@ -27,7 +27,7 @@ shared-recipe mT5 runs and the TF-IDF baseline ran once each. `M/` abbreviates
 `experiments/results/matrix_h100/artifacts/` and `A/` abbreviates
 `experiments/results/artifacts/`.
 
-- **Training data is the largest lever.** ByT5-base scores 19.03 on a quarter of
+- **Training data has the largest effect.** ByT5-base scores 19.03 on a quarter of
   the corpus and 36.46 on all of it, a gain of 17.4 points, and the ordering
   holds inside every individual seed. Source: `M/byt5_base_scale_{25,50,75}pct_*`
   and `M/byt5_base_baseline_seed*`.

@@ -330,9 +330,10 @@ def main():
         )
         with open(art / f"{'independent' if name == 'independent' else 'newtest'}_preds.csv", "w", newline="", encoding="utf-8") as f:
             w = csv.writer(f)
-            w.writerow(["transliteration", "translation", "genre", "prediction"])
+            # Corpus text is not redistributed: keep row metadata and the prediction only.
+            w.writerow(["genre", "prediction"])
             for r, p in zip(rows, preds):
-                w.writerow([r["transliteration"], r["translation"], r.get("genre", ""), p])
+                w.writerow([r.get("genre", ""), p])
         print(f"{name}: BLEU {bleu:.2f} chrF++ {chrf:.2f} combined {comb:.2f}", flush=True)
     (art / "summary.json").write_text(json.dumps(summary, indent=2))
     print("artifacts written to", art, flush=True)

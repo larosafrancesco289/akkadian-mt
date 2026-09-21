@@ -1,4 +1,4 @@
-"""Regenerate paper/figures/{interaction,hierarchy,scaling,tuning}.pdf from
+"""Regenerate paper/figures/{interaction,scaling,tuning}.pdf from
 the seed-averaged matrix results. Values come from make_paper_numbers.py
 output; style matches the first-round figures (serif, red/blue dumbbell,
 blue bars).
@@ -12,6 +12,7 @@ import matplotlib.pyplot as plt
 HERE = Path(__file__).resolve().parent
 ROOT = HERE / "artifacts"
 FIGDIR = HERE.parents[2] / "paper" / "figures"
+FIGDIR.mkdir(parents=True, exist_ok=True)
 
 BLUE = "#20659c"   # ByT5-small
 RED = "#b03a2e"    # ByT5-base
@@ -241,7 +242,7 @@ def tuning_figure():
                    ms=8, label="shared recipe"),
         plt.Line2D([], [], color=BLUE, marker="o", ls="", ms=8,
                    label="own tuned rate"),
-        plt.Line2D([], [], color="#555555", marker="D", mfc="white", ls="",
+        plt.Line2D([], [], color=BLUE, marker="D", mfc="white", ls="",
                    ms=7, label="single run"),
     ]
     ax1.legend(handles=handles, loc="upper left", fontsize=11, frameon=True,
@@ -283,7 +284,7 @@ def tuning_figure():
         plt.Line2D([], [], color=BLUE, marker="o", mfc="white", ls="", ms=8,
                    label="7e-5 (shared)"),
         plt.Line2D([], [], color=BLUE, marker="o", ls="", ms=8, label="1e-4"),
-        plt.Line2D([], [], color="#555555", marker="D", mfc="white", ls="",
+        plt.Line2D([], [], color=BLUE, marker="D", mfc="white", ls="",
                    ms=7, label="single run"),
     ]
     ax2.legend(handles=handles, loc="lower center", ncol=4, fontsize=11,

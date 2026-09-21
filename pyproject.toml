@@ -1,7 +1,7 @@
 [project]
 name = "akkadian-mt"
 version = "0.1.0"
-description = "Byte-level neural machine translation for Old Assyrian Akkadian cuneiform"
+description = "What improves Old Assyrian Akkadian machine translation: byte-level vs subword models, size, data, and preprocessing"
 readme = "README.md"
 requires-python = ">=3.11"
 license = { file = "LICENSE" }

@@ -20,6 +20,15 @@ from akkadian_mt.evaluation.evaluate_lb import (
     load_exported_model,
 )
 
+# Corpus text is not redistributed; prediction CSVs keep row metadata and predictions.
+TEXT_COLUMNS = [
+    "transliteration",
+    "translation",
+    "base_transliteration",
+    "retrieved_transliteration",
+    "retrieved_translation",
+]
+
 
 def _load_model(
     *,
@@ -185,7 +194,10 @@ def main() -> int:
         batch_size=args.batch_size,
         no_repeat=args.no_repeat,
     )
-    independent_df.to_csv(artifact_dir / "independent_preds.csv", index=False)
+    # Corpus text is not redistributed: keep row metadata and the prediction only.
+    independent_df.drop(columns=TEXT_COLUMNS, errors="ignore").to_csv(
+        artifact_dir / "independent_preds.csv", index=False
+    )
 
     newtest_metrics, newtest_df = _evaluate_split(
         test_file=secondary_test_file,
@@ -198,7 +210,9 @@ def main() -> int:
         batch_size=args.batch_size,
         no_repeat=args.no_repeat,
     )
-    newtest_df.to_csv(artifact_dir / "newtest_preds.csv", index=False)
+    newtest_df.drop(columns=TEXT_COLUMNS, errors="ignore").to_csv(
+        artifact_dir / "newtest_preds.csv", index=False
+    )
 
     del model
     if device.type == "cuda":
