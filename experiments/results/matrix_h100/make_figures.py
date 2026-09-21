@@ -163,28 +163,31 @@ def run_combined(run, root=ROOT):
 
 
 def run_stats(runs, root=ROOT):
+    """(mean, sd, n_runs); a single run has sd 0 and n 1."""
     vals = [run_combined(r, root) for r in runs]
-    return mean(vals), (stdev(vals) if len(vals) > 1 else 0.0)
+    return mean(vals), (stdev(vals) if len(vals) > 1 else 0.0), len(vals)
 
 
 def baseline_stats(size):
     vals = [combined(size, "baseline", s) for s in SEEDS]
-    return mean(vals), stdev(vals)
+    return mean(vals), stdev(vals), len(vals)
 
 
 def shared_stats(size, cfg):
     vals = [combined(size, cfg, s) for s in SEEDS]
-    return mean(vals), stdev(vals)
+    return mean(vals), stdev(vals), len(vals)
 
 
 def tuning_figure():
     """Two-panel dumbbell: (a) family/size scores shared-recipe vs own rate,
     (b) the 580M retuning probe at 5e-5 / 7e-5 / 1e-4."""
     fig, (ax1, ax2) = plt.subplots(
-        2, 1, figsize=(6.0, 6.6), gridspec_kw={"height_ratios": [4.0, 3.2]})
+        2, 1, figsize=(6.0, 6.8), gridspec_kw={"height_ratios": [4.0, 3.4]})
 
-    def point(ax, x, y, sd, style):
-        kw = dict(fmt="o", ms=8, capsize=3, elinewidth=1.2, zorder=3)
+    def point(ax, x, y, sd, n, style):
+        # circle = mean over three seeds (with sd bar); diamond = single run
+        kw = dict(fmt="o" if n > 1 else "D", ms=8 if n > 1 else 7,
+                  capsize=3, elinewidth=1.2, zorder=3)
         if style == "open":
             ax.errorbar([x], [y], xerr=[sd], color=BLUE, mfc="white", **kw)
         elif style == "filled":
@@ -198,20 +201,20 @@ def tuning_figure():
                     fontsize=11)
 
     # -- panel (a): shared recipe vs per-configuration rate ---------------
-    rows_a = [  # (label, shared (m, sd), tuned (m, sd) or None)
+    rows_a = [  # (label, shared (m, sd, n), tuned (m, sd, n) or None)
         ("ByT5-base\n(580M)", baseline_stats("base"),
          run_stats(["byt5_base_baseline_lr1e4", "byt5_base_baseline_lr1e4_seed52",
                     "byt5_base_baseline_lr1e4_seed62"])),
         ("ByT5-small\n(300M)", baseline_stats("small"), None),
-        ("mT5-base\n(580M)", (run_combined("mt5_base_baseline", EARLIER), 0.0),
+        ("mT5-base\n(580M)", (run_combined("mt5_base_baseline", EARLIER), 0.0, 1),
          run_stats(["mt5_base_lr1e3", "mt5_base_lr1e3_seed52", "mt5_base_lr1e3_seed62"])),
-        ("mT5-small\n(300M)", (run_combined("mt5_small_baseline", EARLIER), 0.0),
+        ("mT5-small\n(300M)", (run_combined("mt5_small_baseline", EARLIER), 0.0, 1),
          run_stats(["mt5_small_lr1e3", "mt5_small_lr1e3_seed52", "mt5_small_lr1e3_seed62"])),
     ]
     ys = range(len(rows_a), 0, -1)
-    for y, (_, (ms, ss), tuned) in zip(ys, rows_a):
+    for y, (_, (ms, ss, ns), tuned) in zip(ys, rows_a):
         if tuned is not None:
-            mt, st = tuned
+            mt, st, nt = tuned
             if mt - ms > 2:  # arrow only when there is room for one
                 ax1.annotate("", (mt, y), (ms, y), zorder=1,
                              arrowprops=dict(arrowstyle="-|>", color="#999999",
@@ -221,10 +224,10 @@ def tuning_figure():
             else:
                 label(ax1, ms, y, dx=-4, ha="right")
                 label(ax1, mt, y, dx=4, ha="left")
-            point(ax1, mt, y, st, "filled")
+            point(ax1, mt, y, st, nt, "filled")
         else:
             label(ax1, ms, y)
-        point(ax1, ms, y, ss, "open")
+        point(ax1, ms, y, ss, ns, "open")
     tfidf = run_combined("tfidf_baseline", EARLIER)
     ax1.axvline(tfidf, color="#aaaaaa", lw=1.0, ls="--", zorder=1)
     ax1.text(tfidf, 0.52, f"TF-IDF 1-NN ({tfidf:.2f})", ha="center",
@@ -238,12 +241,14 @@ def tuning_figure():
                    ms=8, label="shared recipe"),
         plt.Line2D([], [], color=BLUE, marker="o", ls="", ms=8,
                    label="own tuned rate"),
+        plt.Line2D([], [], color="#555555", marker="D", mfc="white", ls="",
+                   ms=7, label="single run"),
     ]
     ax1.legend(handles=handles, loc="upper left", fontsize=11, frameon=True,
                framealpha=1.0, edgecolor="#cccccc")
 
     # -- panel (b): the 580M retuning probe -------------------------------
-    rows_b = [  # (label, {rate: (m, sd)})
+    rows_b = [  # (label, {rate: (m, sd, n)})
         ("Baseline", {
             "7e-5": baseline_stats("base"),
             "1e-4": run_stats(["byt5_base_baseline_lr1e4",
@@ -263,14 +268,14 @@ def tuning_figure():
     styles = {"5e-5": "probe", "7e-5": "open", "1e-4": "filled"}
     ys = range(len(rows_b), 0, -1)
     for y, (_, rates) in zip(ys, rows_b):
-        xs = sorted(m for m, _ in rates.values())
+        xs = sorted(m for m, _, _ in rates.values())
         ax2.plot(xs, [y] * len(xs), color="#999999", lw=1.4, zorder=1)
-        for rate, (m, sd) in rates.items():
-            point(ax2, m, y, sd, styles[rate])
+        for rate, (m, sd, n) in rates.items():
+            point(ax2, m, y, sd, n, styles[rate])
             label(ax2, m, y)
     ax2.set_yticks(list(ys), [r[0] for r in rows_b])
     ax2.set_xlim(32.6, 38.9)
-    ax2.set_ylim(0.5, len(rows_b) + 0.7)
+    ax2.set_ylim(-0.15, len(rows_b) + 0.7)  # room for the one-row legend
     ax2.set_xlabel("Combined score (independent test)")
     ax2.set_title("(b) Retuning at 580M", loc="left", fontsize=13)
     handles = [
@@ -278,9 +283,12 @@ def tuning_figure():
         plt.Line2D([], [], color=BLUE, marker="o", mfc="white", ls="", ms=8,
                    label="7e-5 (shared)"),
         plt.Line2D([], [], color=BLUE, marker="o", ls="", ms=8, label="1e-4"),
+        plt.Line2D([], [], color="#555555", marker="D", mfc="white", ls="",
+                   ms=7, label="single run"),
     ]
-    ax2.legend(handles=handles, loc="lower right", fontsize=11, frameon=True,
-               framealpha=1.0, edgecolor="#cccccc")
+    ax2.legend(handles=handles, loc="lower center", ncol=4, fontsize=11,
+               frameon=True, framealpha=1.0, edgecolor="#cccccc",
+               columnspacing=1.0, handletextpad=0.4)
 
     for ax in (ax1, ax2):
         ax.grid(axis="x", color="#dddddd", lw=0.8, zorder=0)

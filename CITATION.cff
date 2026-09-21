@@ -1,17 +1,26 @@
 cff-version: 1.2.0
 message: "If you use this software or its findings, please cite the work below."
-title: "Byte-Level Machine Translation for Old Assyrian Akkadian"
+title: "What Improves Akkadian Machine Translation, and What Only Seems To?"
 abstract: >-
   A study of what improves machine translation for Old Assyrian Akkadian and
   what only seems to. Under one shared fine-tuning recipe, byte-level models
   lead subword models by a wide margin and every preprocessing intervention
   hurts the larger model. Choosing the learning rate per configuration removes
-  most of both effects. Data quantity and model size are the reliable levers.
+  most of both effects. Data quantity and model size have the reliable effects.
 type: software
-# Author names and affiliations are withheld while the paper is under
-# anonymous review.
 authors:
-  - name: "Anonymous"
+  - family-names: "La Rosa"
+    given-names: "Francesco"
+    affiliation: "University of Edinburgh"
+    email: "francesco.la-rosa26@imperial.ac.uk"
+  - family-names: "Choi"
+    given-names: "Jaehyuk"
+    affiliation: "University of Edinburgh"
+    email: "jc2672@cam.ac.uk"
+  - family-names: "Siu"
+    given-names: "King Shun Hanson"
+    affiliation: "University of Edinburgh"
+    email: "s2410230@ed.ac.uk"
 keywords:
   - machine translation
   - low-resource NLP
@@ -20,4 +29,18 @@ keywords:
   - byte-level models
   - computational philology
 license: MIT
-date-released: "2026-08-08"
+date-released: "2026-09-21"
+preferred-citation:
+  type: conference-paper
+  title: "What Improves Akkadian Machine Translation, and What Only Seems To?"
+  authors:
+    - family-names: "La Rosa"
+      given-names: "Francesco"
+    - family-names: "Choi"
+      given-names: "Jaehyuk"
+    - family-names: "Siu"
+      given-names: "King Shun Hanson"
+  collection-title: "Proceedings of the 6th Workshop on Multilingual Representation Learning (MRL 2026)"
+  publisher:
+    name: "Association for Computational Linguistics"
+  year: 2026
