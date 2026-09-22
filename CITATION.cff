@@ -12,11 +12,11 @@ type: software
 authors:
   - family-names: "La Rosa"
     given-names: "Francesco"
-    affiliation: "University of Edinburgh"
+    affiliation: "Imperial College London"
     email: "fl26@ic.ac.uk"
   - family-names: "Choi"
     given-names: "Jaehyuk"
-    affiliation: "University of Edinburgh"
+    affiliation: "University of Cambridge"
     email: "jc2672@cam.ac.uk"
   - family-names: "Siu"
     given-names: "King Shun Hanson"
