@@ -1,9 +1,10 @@
 # Akkadian to English Machine Translation (Old Assyrian)
 
 Code, experiment configurations, and per-run result artifacts for the
-accompanying paper, accepted at the 6th Workshop on Multilingual Representation
-Learning (MRL 2026, co-located with EMNLP 2026). Citation details are in
-[CITATION.cff](CITATION.cff).
+accompanying paper, published in the Proceedings of the 6th Workshop on
+Multilingual Representation Learning (MRL 2026, co-located with EMNLP 2026) and
+available in the [ACL Anthology](https://aclanthology.org/2026.mrl-1.11/).
+Citation details are in [CITATION.cff](CITATION.cff).
 
 The task is sentence-level translation from romanised cuneiform transliteration
 into English. The setting is extremely low-resource. The aligned corpus holds

@@ -43,6 +43,14 @@ preferred-citation:
     - family-names: "Siu"
       given-names: "King Shun Hanson"
   collection-title: "Proceedings of the 6th Workshop on Multilingual Representation Learning (MRL 2026)"
+  conference:
+    name: "6th Workshop on Multilingual Representation Learning (MRL 2026)"
+    city: "Budapest"
+    country: "HU"
   publisher:
     name: "Association for Computational Linguistics"
+  start: 135
+  end: 150
+  month: 10
   year: 2026
+  url: "https://aclanthology.org/2026.mrl-1.11/"
